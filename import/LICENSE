@@ -1,0 +1,20 @@
+Data license – CC BY-SA 4.0
+
+The data files in this directory (*.csv – sports results, events, hosts, medal tables,
+countries, disciplines) are licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Compiled by Michał Kabza (Miky1971), 2026.
+
+Sources: mainly Wikipedia (English, German, French, Spanish, Russian and other
+language editions), licensed under CC BY-SA 4.0, as well as RSSSF, Olympedia and
+the official results of the event organisers. Medal tables reflect the state of
+the sources on the date given in the competition notes (competition.note).
+
+You may share and adapt this data, also commercially, provided that you:
+- give appropriate credit (author and sources above) and indicate if changes were made,
+- distribute your contributions under the same license (CC BY-SA 4.0).
+
+The file pictograms.sql contains the pictograms from piktogramy/, which are
+covered by the MIT License in the root LICENSE file.
