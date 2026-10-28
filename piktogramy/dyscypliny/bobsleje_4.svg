@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Bobsleje – czwórki (4 zawodników)</title>
+  <rect width="64" height="64" rx="10" fill="#1d4e89"/>
+  <path d="M7 34 L44 34 Q52 34 56 40 Q58 44 54 46 L9 46 Q6 46 6 43 L6 36 Q6 34 7 34 Z" fill="#ffffff"/>
+  <path d="M12 39 L50 39" fill="none" stroke="#1d4e89" stroke-width="1.4"/>
+  <path d="M8 52 L50 52 Q56 52 58 48" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M13 46 L13 52" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44 46 L44 52" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40.0" cy="31.6" r="3.4" fill="#ffffff" stroke="#1d4e89" stroke-width="1.2"/>
+  <circle cx="31.3" cy="31.6" r="3.4" fill="#ffffff" stroke="#1d4e89" stroke-width="1.2"/>
+  <circle cx="22.7" cy="31.6" r="3.4" fill="#ffffff" stroke="#1d4e89" stroke-width="1.2"/>
+  <circle cx="14.0" cy="31.6" r="3.4" fill="#ffffff" stroke="#1d4e89" stroke-width="1.2"/>
+  <rect x="46.6" y="5" width="13.4" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="53.3" y="14.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.00" font-weight="bold" fill="#1d4e89">4</text>
+</svg>

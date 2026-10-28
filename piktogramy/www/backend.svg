@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Backend</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <rect x="13" y="15" width="38" height="10" rx="2.5" fill="#ffffff"/>
+  <circle cx="19" cy="20.0" r="1.8" fill="#1e3a5f"/>
+  <path d="M26 20.0 L46 20.0" fill="none" stroke="#1e3a5f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="13" y="28" width="38" height="10" rx="2.5" fill="#ffffff"/>
+  <circle cx="19" cy="33.0" r="1.8" fill="#1e3a5f"/>
+  <path d="M26 33.0 L46 33.0" fill="none" stroke="#1e3a5f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="13" y="41" width="38" height="10" rx="2.5" fill="#ffffff"/>
+  <circle cx="19" cy="46.0" r="1.8" fill="#1e3a5f"/>
+  <path d="M26 46.0 L46 46.0" fill="none" stroke="#1e3a5f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

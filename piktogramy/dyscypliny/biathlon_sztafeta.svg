@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Biathlon – sztafeta 4×6 km (K) / 4×7,5 km (M)</title>
+  <rect width="64" height="64" rx="10" fill="#1565c0"/>
+  <path d="M8 12 L8 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 12 L8 17" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="8" cy="43" rx="3.6" ry="1.4" fill="none" stroke="#ffffff" stroke-width="1.6"/>
+  <path d="M17 12 L17 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 12 L17 17" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="17" cy="43" rx="3.6" ry="1.4" fill="none" stroke="#ffffff" stroke-width="1.6"/>
+  <rect x="32" y="22" width="27" height="9" rx="2" fill="#ffffff"/>
+  <g fill="#1565c0"><circle cx="36.5" cy="26.5" r="1.8"/><circle cx="41.0" cy="26.5" r="1.8"/><circle cx="45.5" cy="26.5" r="1.8"/><circle cx="50.0" cy="26.5" r="1.8"/><circle cx="54.5" cy="26.5" r="1.8"/></g>
+  <path d="M33 39 L47 39" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="34.6,38.2 36.8,38.2 35.7,35.8" fill="#ffffff"/>
+  <path d="M45 37 L53 37 L59 36.1 L59 42 L53 41.4 L45 41 Z" fill="#ffffff"/>
+  <rect x="45" y="34" width="7" height="2.4" rx="1" fill="#ffffff"/>
+  <path d="M48.4 41.15 A1.6 1.6 0 0 0 51.6 41.3" fill="none" stroke="#ffffff" stroke-width="1.3"/>
+  <path d="M6 55 L52 55 Q57 55 58 51" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 51 L50 51 Q55 51 56 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+  <rect x="24.5" y="5" width="35.5" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="42.2" y="14.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.50" font-weight="bold" fill="#1565c0">4×6/7,5</text>
+</svg>

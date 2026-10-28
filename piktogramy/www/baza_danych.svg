@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Baza danych</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <path d="M13 39.0 L13 46.5 A19 4.5 0 0 0 51 46.5 L51 39.0 Z" fill="#ffffff"/>
+  <ellipse cx="32" cy="39.0" rx="19" ry="4.5" fill="#ffffff" stroke="#1e3a5f" stroke-width="2"/>
+  <path d="M13 29.0 L13 36.5 A19 4.5 0 0 0 51 36.5 L51 29.0 Z" fill="#ffffff"/>
+  <ellipse cx="32" cy="29.0" rx="19" ry="4.5" fill="#ffffff" stroke="#1e3a5f" stroke-width="2"/>
+  <path d="M13 19.0 L13 26.5 A19 4.5 0 0 0 51 26.5 L51 19.0 Z" fill="#ffffff"/>
+  <ellipse cx="32" cy="19.0" rx="19" ry="4.5" fill="#ffffff" stroke="#1e3a5f" stroke-width="2"/>
+</svg>

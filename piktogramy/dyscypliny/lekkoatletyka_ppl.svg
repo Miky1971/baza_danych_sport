@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Lekkoatletyka – sztafeta płotkarska 4×100 m ppł (K) / 4×110 m ppł (M)</title>
+  <rect width="64" height="64" rx="10" fill="#1565c0"/>
+  <g fill="none" stroke="#ffffff" stroke-width="1.6" opacity="0.75"><path d="M6 35 A25 25 0 0 1 31 60"/><path d="M6 29 A31 31 0 0 1 37 60"/><path d="M6 23 A37 37 0 0 1 43 60"/><path d="M6 17 A43 43 0 0 1 49 60"/></g>
+  <path d="M8 46 L21 46" fill="none" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M9.6 46 L9.6 57 M19.4 46 L19.4 57" fill="none" stroke="#ffffff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M9.6 57 L13.4 57 M19.4 57 L23.2 57" fill="none" stroke="#ffffff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="11.5" y="5" width="48.5" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="35.8" y="14.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.50" font-weight="bold" fill="#1565c0">4×100/110</text>
+</svg>

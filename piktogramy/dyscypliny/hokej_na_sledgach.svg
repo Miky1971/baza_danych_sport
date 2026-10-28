@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Hokej na sledgach (para ice hockey) – drużyny 6-osobowe, paraolimpijski</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <path d="M24 10 L40 44 Q41.5 47 45 47 L52 47" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="49" cy="39.6" rx="4.8" ry="1.9" fill="#ffffff"/>
+  <rect x="44.2" y="37.6" width="9.6" height="2" fill="#ffffff"/>
+  <ellipse cx="49" cy="37.6" rx="4.8" ry="1.9" fill="#ffffff" stroke="#1e3a5f" stroke-width="0.8"/>
+  <path d="M8 35 L12.5 35 L12.5 42.5 L22 42.5 L22 47 L8 47 Z" fill="#ffffff"/>
+  <path d="M22 45.5 L29 45.5 Q32 45.5 32 42.3" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M11 47 L11 51 M19.5 47 L19.5 51" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 51.5 L23 51.5 Q25 51.5 25 50" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="50" cy="14" r="10" fill="#f2a23a"/>
+  <g fill="none" stroke="#1e3a5f" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 10.5 L48 16 L53 16 L55 20.5"/>
+    <path d="M45 14.2 A4.6 4.6 0 1 0 52 19.8"/>
+  </g>
+  <circle cx="48" cy="7.6" r="1.7" fill="#1e3a5f"/>
+</svg>

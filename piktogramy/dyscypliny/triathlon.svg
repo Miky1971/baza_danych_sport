@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Triathlon – sztafeta (4 zawodników, każdy: pływanie + rower + bieg)</title>
+  <rect width="64" height="64" rx="10" fill="#1565c0"/>
+  <path d="M5 16 q4 -3.5 8 0 t8 0 t8 0" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M5 22 q4 -3.5 8 0 t8 0 t8 0" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+  <g transform="translate(-2 18) scale(0.66)">
+  <g fill="none" stroke="#ffffff" stroke-width="2.2"><circle cx="16" cy="45" r="8.5"/><circle cx="46" cy="45" r="8.5"/></g>
+  <path d="M16 45 L30 45 L26 30 L42 30 L46 45 M30 45 L42 30" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 30 L43.5 24 L48 24" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M23 29 L29 29" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(0 -3)">
+  <circle cx="51" cy="25" r="3.4" fill="#ffffff"/>
+  <path d="M49.5 29.5 L46 39" fill="none" stroke="#ffffff" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46 39 L51 45 L49 52 M46 39 L41 45 L36 46" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M48.5 31.5 L53 35 M48.5 31.5 L43 33.5" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

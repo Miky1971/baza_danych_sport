@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Hokej na trawie 5 (hockey5s) – drużyny 5-osobowe</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <path d="M38 10 L26 43 Q24.5 49 19.5 48.5 Q15.5 48 16.5 44" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="41" cy="48" r="4.2" fill="#ffffff"/>
+  <rect x="46.4" y="5" width="13.6" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="53.2" y="14.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" fill="#1e3a5f">5</text>
+</svg>

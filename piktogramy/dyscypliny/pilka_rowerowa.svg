@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Piłka rowerowa (cycle-ball, Radball) – drużyny 2-osobowe</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <g fill="none" stroke="#ffffff" stroke-width="2.2"><circle cx="16" cy="45" r="8.5"/><circle cx="46" cy="45" r="8.5"/></g>
+  <path d="M16 45 L30 45 L26 30 L42 30 L46 45 M30 45 L42 30" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 30 L43.5 24 L48 24" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M23 29 L29 29" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="14" r="7" fill="#ffffff"/>
+  <g fill="none" stroke="#1e3a5f" stroke-width="1.2" stroke-linecap="round"><path d="M26.8 9.8 Q32 15.1 37.2 9.8"/><path d="M26.8 18.2 Q32 12.9 37.2 18.2"/></g>
+</svg>

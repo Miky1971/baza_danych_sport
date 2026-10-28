@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Hokej na lodzie – drużyny 6-osobowe</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <path d="M24 10 L40 44 Q41.5 47 45 47 L52 47" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="49" cy="39.6" rx="4.8" ry="1.9" fill="#ffffff"/>
+  <rect x="44.2" y="37.6" width="9.6" height="2" fill="#ffffff"/>
+  <ellipse cx="49" cy="37.6" rx="4.8" ry="1.9" fill="#ffffff" stroke="#1e3a5f" stroke-width="0.8"/>
+  <path d="M12 38 L20 38 L21 45 L28.5 46.8 Q31 47.4 31 50 L12 50 Z" fill="#ffffff"/>
+  <path d="M12.8 50 L12.8 53 M28 50 L28 53" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12.8 53 L31 53 Q33.5 53 33.5 51" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

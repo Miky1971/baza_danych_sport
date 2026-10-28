@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Curling bawarski (Eisstock, ice stock sport) – drużyny 4-osobowe</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <path d="M15 42 L15 46 A17 5.5 0 0 0 49 46 L49 42 Z" fill="#ffffff"/>
+  <ellipse cx="32" cy="42" rx="17" ry="5.5" fill="#ffffff" stroke="#1e3a5f" stroke-width="1.5"/>
+  <rect x="29.8" y="15" width="4.4" height="27" rx="1.5" fill="#ffffff"/>
+  <ellipse cx="32" cy="14" rx="4.2" ry="3" fill="#ffffff"/>
+</svg>

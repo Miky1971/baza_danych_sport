@@ -1,0 +1,29 @@
+# moje - NIE POKAZYWAC
+git.log
+a?
+a??
+a???
+
+# materialy robocze - NIE POKAZYWAC
+/projekt_bazy.md
+/wyniki/
+/generatory
+/piktogramy/serie/
+/piktogramy/*.html
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Excel (pliki blokady, gdy CSV/XLSX otwarty)
+~$*
+
+# Wyniki kompilacji .NET
+bin/
+obj/
+
+# Pliki uzytkownika/IDE (Visual Studio, Rider)
+*.user
+*.suo
+.vs/

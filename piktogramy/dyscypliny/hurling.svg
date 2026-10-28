@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Hurling – drużyny 15-osobowe, kij (hurley) i mała piłka (sliotar), bramka w kształcie H</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <g stroke="#ffffff" stroke-width="0.8" opacity="0.4"><line x1="12" y1="34" x2="12" y2="54"/><line x1="16" y1="34" x2="16" y2="54"/><line x1="20" y1="34" x2="20" y2="54"/><line x1="8" y1="39" x2="24" y2="39"/><line x1="8" y1="44" x2="24" y2="44"/><line x1="8" y1="49" x2="24" y2="49"/></g>
+  <path d="M8 54 L8 10 M24 54 L24 10 M8 34 L24 34" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 8 L48 37" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M47.5 35 Q43.5 44 46 50 Q49.5 55 55 51.5 Q57.5 47 53 39 Z" fill="#ffffff"/>
+  <circle cx="34.5" cy="47" r="4" fill="#ffffff"/>
+  <path d="M30.7 47 Q34.5 43.4 38.3 47" fill="none" stroke="#1e3a5f" stroke-width="1.2"/>
+</svg>

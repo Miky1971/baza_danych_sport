@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Lekkoatletyka – przełaj drużynowy (klasyfikacja drużynowa biegu przełajowego, IO 1912–1924)</title>
+  <rect width="64" height="64" rx="10" fill="#1d4e89"/>
+  <g fill="none" stroke="#ffffff" stroke-width="1.6" opacity="0.75"><path d="M6 35 A25 25 0 0 1 31 60"/><path d="M6 29 A31 31 0 0 1 37 60"/><path d="M6 23 A37 37 0 0 1 43 60"/><path d="M6 17 A43 43 0 0 1 49 60"/></g>
+  <path d="M6.5 57 C8.5 50 11 47.5 14 52.5 C16.5 45 21 45 24 57" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="7.0" y="5" width="53.0" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="33.5" y="14.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.50" font-weight="bold" fill="#1d4e89">bieg druż.</text>
+</svg>

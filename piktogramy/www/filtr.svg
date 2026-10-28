@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Filtr</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <path d="M13 15 L51 15 L36 33 L36 47 L28 51 L28 33 Z" fill="#ffffff" stroke="#ffffff" stroke-width="2" stroke-linejoin="round"/>
+</svg>

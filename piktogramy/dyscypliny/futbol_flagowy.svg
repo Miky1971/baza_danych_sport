@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Futbol flagowy (flag football) – drużyny 5-osobowe, bezkontaktowy</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <path d="M12 10 L12 54" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12 10 Q19 7 26 11 L26 24 Q19 20 12 23 Z" fill="#ffffff"/>
+  <g transform="rotate(-30 42 42)">
+    <path d="M30.17 40.40 C34.85 33.04 49.15 33.04 53.83 40.40 Q55.00 42 53.83 43.60 C49.15 50.96 34.85 50.96 30.17 43.60 Q29.00 42 30.17 40.40 Z" fill="#ffffff"/>
+    <g stroke="#1e3a5f" stroke-width="1.5" stroke-linecap="round" fill="none"><line x1="37.8" y1="42" x2="46.2" y2="42"/><line x1="37.5" y1="39.8" x2="37.5" y2="44.2"/><line x1="40.5" y1="39.8" x2="40.5" y2="44.2"/><line x1="43.5" y1="39.8" x2="43.5" y2="44.2"/><line x1="46.5" y1="39.8" x2="46.5" y2="44.2"/><path d="M33.9 37.6 Q35.5 42 33.9 46.4"/><path d="M50.1 37.6 Q48.5 42 50.1 46.4"/></g>
+  </g>
+</svg>

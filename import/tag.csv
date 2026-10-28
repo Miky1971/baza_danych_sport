@@ -1,0 +1,16 @@
+﻿applies_to;code;short;note
+COUNTRY;os;OberSchlesien;
+COUNTRY;fav;ulubione;
+COUNTRY;eu;Europa;
+COUNTRY;eu+;Europa+;
+COUNTRY;sm;małe państwa;członkowie Igrzysk Małych Państw Europy lub Stowarzyszenia Lekkoatletycznego Małych Państw Europy
+COUNTRY;sm+;małe państwa+;uczestnicy Mistrzostw Małych Państw Europy (CSE) w LA
+DISCIPLINE_EVENT;io;igrzyska olimpijskie;
+DISCIPLINE_EVENT;ie;Igrzyska Europejskie;
+DISCIPLINE_EVENT;wg;World Games;
+DISCIPLINE_EVENT;ia;igrzyska alternatywne;
+DISCIPLINE_EVENT;idw;Igrzyska Dobrej Woli;
+DISCIPLINE_EVENT;cla;klasyczne;
+DISCIPLINE_EVENT;old;dawne;
+DISCIPLINE_EVENT;new;nowe;
+DISCIPLINE_EVENT;fav;ulubione;

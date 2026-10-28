@@ -1,0 +1,295 @@
+﻿id;continent;name;path_flag;part_of;status;note;parent_id;tags;fed_olympic;fed_football;fed_athletic;fed_other;fed_note;ioc_code
+0;;-- grupa --;;;;;;{};;;;;;
+1;;brak;;;drużyna nieznana;miejsce zajęte, ale nie wiadomo przez kogo (liczba drużyn nieznana albo znana, a uczestnik nie);;{};;;;;;
+2;;drużyna mieszana;;;drużyna mieszana narodowościowo;zawodnicy z kilku państw w jednej drużynie (jak „Mixed team” MKOl): np. przeciąganie liny IO 1900, Smyrna 1906, Región Andina 2006;;{};;;;;;ZZX
+3;;Świat;;;drużyna świata;drużyny gwiazd / reszty świata (All-Stars, World Select…);;{};;;;;;
+4;EUROPE;Europa;;;drużyna kontynentu / obszaru;;;"{""eu""}";;;;;;
+5;ASIA;Azja;;;drużyna kontynentu / obszaru;;;{};;;;;;
+6;AFRICA;Afryka;;;drużyna kontynentu / obszaru;;;{};;;;;;
+7;OCEANIA;Oceania;;;drużyna kontynentu / obszaru;;;{};;;;;;
+8;AMERICA;Ameryka;;;drużyna kontynentu / obszaru;;;{};;;;;;
+9;NORTH_CENTRAL_AMERICA;Ameryka Płn. i Środk.;;;drużyna kontynentu / obszaru;;;{};;;;;;
+10;NORTH_AMERICA;Ameryka Płn.;;;drużyna kontynentu / obszaru;;;{};;;;;;
+11;CENTRAL_AMERICA;Ameryka Środk.;;;drużyna kontynentu / obszaru;;;{};;;;;;
+12;SOUTH_AMERICA;Ameryka Płd.;;;drużyna kontynentu / obszaru;;;{};;;;;;
+13;ASIA_PACIFIC;Azja–Pacyfik;;;drużyna kontynentu / obszaru;Azja + Oceania (Puchar Kontynentalny LA 2010–2018);;{};;;;;;
+16;AFRICA;Algieria;;;;kody MKOl: AGR (IO 1964), AGL (IO 1968 L);;{};;;;;;ALG
+17;AFRICA;Angola;;;;kody MKOl: ANO (IO as referenced in IAAF World Championships Beijing 2015 Statistics Handbook);;{};;;;;;ANG
+18;AFRICA;Benin;;;;kody MKOl: DAY (IO 1964), DAH (IO 1968–1976, Dahomej);;{};;;;;;BEN
+19;AFRICA;Botswana;;;;;;{};;;;;;BOT
+20;AFRICA;Burkina Faso (Górna Wolta);;;;kody MKOl: VOL (IO 1972–1984, Górna Wolta), BKF (inne źródła);;{};;;;;;BUR
+21;AFRICA;Burundi;;;;;;{};;;;;;BDI
+22;AFRICA;Ceuta i Melilla;;Hiszpania;miasta w Maroko Hiszpańskim;;;"{""eu+""}";;;;;;
+23;AFRICA;Czad;;;;kody MKOl: CHD (IO 1964);;{};;;;;;CHA
+24;AFRICA;DR Konga;;;;kody MKOl: COK (IO 1968, Kongo-Kinszasa), ZAI (IO 1972–1996, Zair);;{};;;;;;COD
+25;AFRICA;Dżibuti;;;;;;{};;;;;;DJI
+26;AFRICA;Egipt;;;;kody MKOl: RAU (IO 1960, 1968, ZRA), UAR (IO 1964, ZRA);;"{""eu+""}";MKOL / ANOCA;FIFA / CAF;WA / CAA;ME/ep;Koszykówka ME: 1937 (8.) | 1947 (3.) | 1949 (1.) | 1953 (8.) | Siatkówka ME: 1955 (14.) | 1958 (15.) (Eurpejskie Puchary): 1962/63;EGY
+27;AFRICA;Erytrea;;;;;;{};;;;;;ERI
+28;AFRICA;Etiopia;;;;kody MKOl: ETI (IO 1960, 1968);;{};;;;;;ETH
+29;AFRICA;Gabon;;;;;;{};;;;;;GAB
+30;AFRICA;Gambia;;;;;;{};;;;;;GAM
+31;AFRICA;Ghana;;;;;;{};;;;;;GHA
+32;AFRICA;Gwinea;;;;;;{};;;;;;GUI
+33;AFRICA;Gwinea Bissau;;;;;;{};;;;;;GBS
+34;AFRICA;Gwinea Równikowa;;;;;;{};;;;;;GEQ
+35;AFRICA;Kamerun;;;;;;{};;;;;;CMR
+36;AFRICA;Kenia;;;;;;{};;;;;;KEN
+37;AFRICA;Komory;;;;;;{};;;;;;COM
+38;AFRICA;Kongo (Brazzaville);;;;;;{};;;;;;CGO
+39;AFRICA;Lesotho;;;;;;{};;;;;;LES
+40;AFRICA;Liberia;;;;;;{};;;;;;LBR
+41;AFRICA;Libia;;;;kody MKOl: LYA (IO 1964), LBY (IO 1968 Z);;{};;;;;;LBA
+42;AFRICA;Madagaskar;;;;kody MKOl: MAG (IO 1964);;{};;;;;;MAD
+43;AFRICA;Malawi;;;;;;{};;;;;;MAW
+44;AFRICA;Mali;;;;;;{};;;;;;MLI
+45;AFRICA;Maroko;;;;kody MKOl: MRC (IO 1964);;"{""eu+""}";MKOL / ANOCA;FIFA / CAF;WA / CAA;PNE/ep;Siatkówka (Eurpejskie Puchary): 1959/60 - 1965/66 | Rugby: FIRA (1956-1999), PNE 2003 (3.);MAR
+46;AFRICA;Mauretania;;;;;;{};;;;;;MTN
+47;AFRICA;Mauritius;;;;;;{};;;;;;MRI
+48;AFRICA;Mozambik;;;;;;{};;;;;;MOZ
+49;AFRICA;Namibia;;;;;;{};;;;;;NAM
+50;AFRICA;Niger;;;;kody MKOl: NGR (IO 1964);;{};;;;;;NIG
+51;AFRICA;Nigeria;;;;kody MKOl: NIG (IO 1960 L), NGA (IO 1964);;{};;;;;;NGR
+52;AFRICA;Republika Środkowoafrykańska;;;;kody MKOl: AFC (IO 1968);;{};;;;;;CAF
+53;AFRICA;Republika Zielonego Przylądka;;;;kody MKOl: CVD (inne źródła);;{};;;;;;CPV
+54;AFRICA;Reunion;;Francja;ter. zależne Francji;;;{};;;;;;
+55;AFRICA;RPA;;;;kody MKOl: SAF (IO 1960–1972);;{};;;;;;RSA
+56;AFRICA;Rwanda;;;;;;{};;;;;;RWA
+57;AFRICA;Sahara Zachodnia;;Maroko;okupowana od 1975 przez Maroko (wcześniej Sahara Hiszpańska);;;{};;;;;;
+58;AFRICA;Senegal;;;;kody MKOl: SGL (IO 1964);;{};;;;;;SEN
+59;AFRICA;Seszele;;;;;;{};;;;;;SEY
+60;AFRICA;Sierra Leone;;;;kody MKOl: SLA (IO 1968);;{};;;;;;SLE
+61;AFRICA;Somalia;;;;;;{};;;;;;SOM
+62;AFRICA;Somaliland;;Somalia;nieuznawane całkowicie;;;{};;;;;;
+63;AFRICA;Suazi;;;;;;{};;;;;;SWZ
+64;AFRICA;Sudan;;;;;;{};;;;;;SUD
+65;AFRICA;Sudan Płd.;;;;;;{};;;;;;SSD
+66;AFRICA;Tanger W.M.;;Maroko;wolne miasto, 1923-1956 pod kontrolą międzynarodową, 1940-45 zajmowany przez Hiszpanię;;;"{""eu+""}";;;;;;
+67;AFRICA;Tanzania;;;;;;{};;;;;;TAN
+68;AFRICA;Togo;;;;;;{};;;;;;TOG
+69;AFRICA;Tunezja;;;;;;"{""eu+""}";MKOL / ANOCA;FIFA / CAF;WA / CAA;ME/ep;Siatkówka ME: 1958 (16.), Siatkówka: (Eurpojskie Puchary): 1960/61 | Rugby: FIRA (1975-1999);TUN
+70;AFRICA;Uganda;;;;;;{};;;;;;UGA
+71;AFRICA;W.Św. Tomasza i Książęca;;;;;;{};;;;;;STP
+72;AFRICA;W.Św.Heleny;;Anglia / WB;ter. zależne WB;;;"{""eu+""}";;;;nO;Futsal:  europa UEFS;
+73;AFRICA;Wybrzeże Kości Słoniowej;;;;kody MKOl: IVC (IO 1964), CML (IO 1968);;{};;;;;;CIV
+74;AFRICA;Zambia (Rodezja Płn.);;;;kody MKOl: NRH (IO 1964, Rodezja Płn.);;{};;;;;;ZAM
+75;AFRICA;Zanzibar;;Tanzania;region autonomiczny Tanzanii;;;{};;;;;;
+76;AFRICA;Zimbabwe (Rodezja Płd.);;;;kody MKOl: RHO (IO 1960–1972, Rodezja);;{};;;;;;ZIM
+77;SOUTH_AMERICA;Argentyna;;;;;;{};;;;;;ARG
+78;SOUTH_AMERICA;Boliwia;;;;;;{};;;;;;BOL
+79;SOUTH_AMERICA;Brazylia;;;;;;{};;;;;;BRA
+80;SOUTH_AMERICA;Chile;;;;kody MKOl: CIL (IO 1956 Z, 1960 L);;{};;;;;;CHI
+81;SOUTH_AMERICA;Ekwador;;;;;;{};;;;;;ECU
+82;SOUTH_AMERICA;Falklandy;;Anglia / WB;ter. zależne WB;;;{};;;;;;
+83;SOUTH_AMERICA;Georgia Płd. i Sandwich Płd.;;Anglia / WB;ter. zależne WB;;;{};;;;;;
+84;SOUTH_AMERICA;Gujana (Br.);;;;kody MKOl: GUA (IO 1960), GUI (IO 1964, Gujana Brytyjska), BGU (inne źródła);;{};;;;;;GUY
+85;SOUTH_AMERICA;Gujana Francuska;;Francja;ter. zależne Francji;;;{};;;;;;
+86;SOUTH_AMERICA;Kolumbia;;;;;;{};;;;;;COL
+87;SOUTH_AMERICA;Paragwaj;;;;;;{};;;;;;PAR
+88;SOUTH_AMERICA;Peru;;;;;;{};;;;;;PER
+89;SOUTH_AMERICA;Surinam (Gujana Hol.);;;;;;{};;;;;;SUR
+90;SOUTH_AMERICA;Urugwaj;;;;kody MKOl: URG (IO 1968);;{};;;;;;URU
+91;SOUTH_AMERICA;Wenezuela;;;;;;{};;;;;;VEN
+92;NORTH_AMERICA;Bermudy;;Anglia / WB;ter. zależne WB;;;{};;;;;;BER
+93;NORTH_AMERICA;Grenlandia;;Dania;ter. zależne Danii;;;{};;;;;;
+94;NORTH_AMERICA;Irokezi (ludn.);;Kanada / USA;ludność Ameryki Płn.;;;"{""fav""}";;;;;;
+95;NORTH_AMERICA;Kanada;;;;;;"{""eu+""}";MKOL / PASO;FIFA / CONCAFA;WA / NACAC;ME;Hokej: ME: 1911 (1.) | Mistrzostwa LIHG:1912 (2.);CAN
+96;NORTH_AMERICA;Konfederacja;;USA;1861-1865 CSA, uznana tylko przez Saksonię-Coburg-Gothę;;;"{""fav""}";;;;;;
+97;NORTH_AMERICA;Meksyk;;;;;;{};;;;;;MEX
+98;NORTH_AMERICA;Nowa Fundlandia;;Kanada;prowincja Kanady, wcześniej osobne dominium (1907–1949, od 1934 pod zarządem brytyjskim), przyłączona do Kanady w 1949;;;"{""fav""}";;;;;;
+99;NORTH_AMERICA;Saint-Pierre i Miquelon;;Francja;ter. zależne Francji;;;{};;;;;;
+100;NORTH_AMERICA;USA;;;;kody MKOl: SUA (IO 1960 L), EUA (IO 1968 L);;{};;;;;;USA
+101;CENTRAL_AMERICA;Anguilla;;Anglia / WB;ter. zależne WB;;;{};;;;;;
+102;CENTRAL_AMERICA;Antigua i Barbuda;;;;;;{};;;;;;ANT
+103;CENTRAL_AMERICA;Aruba;;Holandia;ter. zależne Holandii;;;{};;;;;;ARU
+104;CENTRAL_AMERICA;Bahamy;;;;;;{};;;;;;BAH
+105;CENTRAL_AMERICA;Barbados;;;;kody MKOl: BAD (IO 1964), BWI (IO 1960, Indie Zachodnie), ANT (IO 1960, Indie Zachodnie – dziś kod Antigui i Barbudy);;{};;;;;;BAR
+106;CENTRAL_AMERICA;Belize (Honduras Br.);;;;kody MKOl: HBR (IO 1968–1972, Honduras Brytyjski), BHO (inne źródła);;{};;;;;;BIZ
+107;CENTRAL_AMERICA;Curacao / AH;;Holandia;ter. zależne Holandii;kody MKOl: ATO (IO 1960), NAN (IO 1964);;{};;;;;;AHO
+108;CENTRAL_AMERICA;Dominika;;;;kody MKOl: DMN (inne źródła);;{};;;;;;DMA
+109;CENTRAL_AMERICA;Dominikana;;;;;;{};;;;;;DOM
+110;CENTRAL_AMERICA;Grenada;;;;;;{};;;;;;GRN
+111;CENTRAL_AMERICA;Gwadelupa;;Francja;ter. zależne Francji;;;{};;;;;;
+112;CENTRAL_AMERICA;Gwatemala;;;;kody MKOl: GUT (IO 1964);;{};;;;;;GUA
+113;CENTRAL_AMERICA;Haiti;;;;;;{};;;;;;HAI
+114;CENTRAL_AMERICA;Honduras;;;;;;{};;;;;;HON
+115;CENTRAL_AMERICA;Jamajka;;;;kody MKOl: BWI (IO 1960, Indie Zachodnie), ANT (IO 1960, Indie Zachodnie – dziś kod Antigui i Barbudy);;{};;;;;;JAM
+116;CENTRAL_AMERICA;Kajmany;;Anglia / WB;ter. zależne WB;;;{};;;;;;CAY
+117;CENTRAL_AMERICA;Kostaryka;;;;kody MKOl: COS (IO 1964);;{};;;;;;CRC
+118;CENTRAL_AMERICA;Kuba;;;;;;{};;;;;;CUB
+119;CENTRAL_AMERICA;Martynika;;Francja;ter. zależne Francji;;;{};;;;;;
+120;CENTRAL_AMERICA;Montserrat;;Anglia / WB;ter. zależne WB;;;{};;;;;;
+121;CENTRAL_AMERICA;Nikaragua;;;;kody MKOl: NCG (IO 1964), NIC (IO 1968);;{};;;;;;NCA
+122;CENTRAL_AMERICA;Panama;;;;;;{};;;;;;PAN
+123;CENTRAL_AMERICA;Portoryko;;USA;państ.stowarzyszone z USA;kody MKOl: PRI (IO 1960), PRO (IO 1968);;{};;;;;;PUR
+124;CENTRAL_AMERICA;Salwador;;;;kody MKOl: SAL (IO 1964–1976);;{};;;;;;ESA
+125;CENTRAL_AMERICA;Sint-Maarten (Hol.);;Holandia;ter. zależne Holandii;;;{};;;;;;
+126;CENTRAL_AMERICA;St.Kitts i Nevis;;;;kody MKOl: STK (inne źródła);;{};;;;;;SKN
+127;CENTRAL_AMERICA;St.Lucia;;;;kody MKOl: STL (inne źródła);;{};;;;;;LCA
+128;CENTRAL_AMERICA;St.Martin (Fr.);;Francja;ter. zależne Francji;;;{};;;;;;
+129;CENTRAL_AMERICA;St.Vincent i Grenadyny;;;;kody MKOl: STV (inne źródła);;{};;;;;;VIN
+130;CENTRAL_AMERICA;Trynidad i Tobago;;;;kody MKOl: TRT (IO 1964–1968), TRI (IO 1972–2012), BWI (IO 1960, Indie Zachodnie), ANT (IO 1960, Indie Zachodnie – dziś kod Antigui i Barbudy);;{};;;;;;TTO
+131;CENTRAL_AMERICA;Turks i Caicos;;Anglia / WB;ter. zależne WB, plany połączenia z Kanadą;;;{};;;;;;
+132;CENTRAL_AMERICA;W.Dziewicze Amerykańskie;;USA;ter. zależne USA;;;{};;;;;;ISV
+133;CENTRAL_AMERICA;W.Dziewicze Brytyjskie;;Anglia / WB;ter. zależne WB;kody MKOl: BVI (inne źródła);;{};;;;;;IVB
+134;ASIA;Abchazja;;Gruzja;państwo nieuznawane (tylko: Rosja, Syria, Nikaragua i Wenezuela);;;"{""eu+""}";;;;nO;NKO istnieje, ale nie jest uznany przez MKOL | Futsal: europa UEFS;
+135;ASIA;Adżaria;;Gruzja;terytorium autonomiczne;;;"{""eu+""}";;;;;;
+136;ASIA;Afganistan;;;;;;{};;;;;;AFG
+137;ASIA;Arabia Saudyjska;;;;kody MKOl: ARS (IO 1968–1976), SAU (IO 1980–1984);;{};;;;;;KSA
+138;ASIA;Armenia;;;;;;"{""eu"",""sm+""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;ARM
+139;ASIA;Azerbejdżan;;;;;;"{""eu"",""sm+""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;AZE
+140;ASIA;Bahrajn;;;;kody MKOl: BHR (inne źródła);;{};;;;;;BRN
+141;ASIA;Bangladesz;;;;;;{};;;;;;BAN
+142;ASIA;Bhutan;;;;;;{};;;;;;BHU
+143;ASIA;Borneo Płn. (Br.);;Malezja (Malaje);stan Malezji jako Sabah;;;{};;;;;;NBO
+144;ASIA;Brunei;;;;;;{};;;;;;BRU
+145;ASIA;Chiny;;;;kody MKOl: PRC (IO 1952 L, ChRL);;{};;;;;;CHN
+146;ASIA;Cypr;;;;;;"{""eu"",""sm""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;CYP
+147;ASIA;Cypr Płn.;;Turcja;państwo nieuznawane (tylko: Turcja);;;"{""eu+""}";;;;nO;NKO istnieje, ale nie jest uznany przez MKOL | Futsal: europa UEFS | WPA World Pool Association - bilard | UmdB Union Mondiale de Billard;
+148;ASIA;Filipiny;;;;kody MKOl: FIL (IO 1960, 1968);;{};;;;;;PHI
+149;ASIA;Górski Karabach;;Azerbejdżan;od 1991, nieuznawane całkowicie;;;{};;;;;;
+150;ASIA;Gruzja;;;;;;"{""eu"",""sm+""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;GEO
+151;ASIA;Hong Kong;;Chiny;region autonomiczny Chin;kody MKOl: HOK (IO 1960–1968);;{};;;;;;HKG
+152;ASIA;Indie;;;;;;{};;;;;;IND
+153;ASIA;Indonezja;;;;kody MKOl: INS (IO 1960), IHO (IO 1934–1938, Holenderskie Indie Wschodnie);;{};;;;;;INA
+154;ASIA;Irak;;;;kody MKOl: IRK (IO 1960, 1968);;{};;;;;;IRQ
+155;ASIA;Iran (Persja);;;;kody MKOl: IRN (IO 1956–1988), IRA (IO 1968 Z);;"{""eu+""}";MKOL / OCA;FIFA / AFC;WA / AA;ME;Koszykówka ME: 1953 (17.);IRI
+156;ASIA;Izrael;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;ISR
+157;ASIA;Japonia;;;;kody MKOl: GIA (IO 1956 Z, 1960 L), JAP (IO 1960 Z);;{};;;;;;JPN
+158;ASIA;Jemen (Płn.);;;;kody MKOl: YAR (IO 1984–1988, Jemen Płn.);;{};;;;;;YEM
+159;ASIA;Jemen Płd.;;Jemen (Płn.);połączony z Jemenem;;;{};;;;;;YMD
+160;ASIA;Jordania;;;;;;{};;;;;;JOR
+161;ASIA;Kambodża;;;;kody MKOl: CAB (IO 1964), KHM (IO 1972, Republika Khmerów);;{};;;;;;CAM
+162;ASIA;Katar;;;;;;{};;;;;;QAT
+163;ASIA;Kazachstan;;;;;;"{""eu""}";MKOL / OCA;FIFA / UEFA;WA / AA;;Asian Athletics Association;KAZ
+164;ASIA;Kirgistan;;;;;;{};;;;;;KGZ
+165;ASIA;Korea;;;;kody MKOl: COR (IO 1956 Z, 1960 L, 1968 L, 1972 L);;{};;;;;;KOR
+166;ASIA;KRL-D (Korea Płn.);;;;kody MKOl: NKO (IO 1964 L, 1968 Z), CDN (IO 1968);;{};;;;;;PRK
+167;ASIA;Królestwo Hidżazu;;Arabia Saudyjska;1916–1925, potem Królestwo Hidżazu i Nadżdu, od 1932 połączone w Arabię Saudyjską;na Igrzyskach Międzysojuszniczych 1919 obecne, ale nie startowało;;{};;;;;;
+168;ASIA;Kuwejt;;;;;;{};;;;;;KUW
+169;ASIA;Laos;;;;;;{};;;;;;LAO
+170;ASIA;Liban;;;;kody MKOl: LEB (IO 1960 Z, 1964 L), LIB (IO 1964–2016);;"{""eu+""}";MKOL / OCA;FIFA / AFC;WA / AA;ME;Koszykówka ME: 1949 (7.) | 1953 (15.);LBN
+171;ASIA;Makau;;Chiny;region autonomiczny Chin;;;{};;;;;;
+172;ASIA;Malediwy;;;;;;{};;;;;;MDV
+173;ASIA;Malezja (Malaje);;;;kody MKOl: MAL (IO 1956–1960 jako Malaje, IO 1964–1988 jako Malezja);;{};;;;;;MAS
+174;ASIA;Mjanma (Birma);;;;kody MKOl: BIR (IO 1948–1960, 1968–1988, Birma), BUR (IO 1964, Birma);;{};;;;;;MYA
+175;ASIA;Mongolia;;;;kody MKOl: MON (IO 1968 Z);;{};;;;;;MGL
+176;ASIA;Nepal;;;;;;{};;;;;;NEP
+177;ASIA;Oman;;;;kody MKOl: OMN (inne źródła);;{};;;;;;OMA
+178;ASIA;Osetia Płd.;;Gruzja;państwo nieuznawane (tylko: Rosja, Syria, Nikaragua i Wenezuela);;;"{""eu+""}";;;;nO;NKO istnieje, ale nie jest uznany przez MKOL | Futsal: europa UEFS / świat AMF;
+179;ASIA;Pakistan;;;;;;{};;;;;;PAK
+180;ASIA;Palestyna;;Izrael;status nieustalony;;;{};;;;;;PLE
+181;ASIA;Singapur;;;;kody MKOl: SIN (IO 1959–2016);;{};;;;;;SGP
+182;ASIA;Sri Lanka;;;;kody MKOl: CEY (IO 1948–1964, 1972, Cejlon), CEI (IO 1968 L);;{};;;;;;SRI
+183;ASIA;Syria;;;;kody MKOl: SIR (IO 1968);;"{""eu+""}";MKOL / OCA;FIFA;WA / AA;ME;Koszykówka ME: 1949 (6.);SYR
+184;ASIA;Tadżykistan;;;;;;{};;;;;;TJK
+185;ASIA;Tajlandia;;;;;;{};;;;;;THA
+186;ASIA;Tajwan;;Chiny;nieuznawane częściowo;kody MKOl: ROC (IO 1932–1976, Republika Chińska), RCF (IO 1956–1960, Republika Chińska);;{};;;;;;TPE
+187;ASIA;Timor Wschodni;;;;;;{};;;;;;TLS
+188;ASIA;Turcja;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;TUR
+189;ASIA;Turkmenistan;;;;;;{};;;;;;TKM
+190;ASIA;Tybet;;Chiny;okupowany od 1949 przez Chiny;;;{};;;;;;
+191;ASIA;Uzbekistan;;;;;;{};;;;;;UZB
+192;ASIA;Wietnam (DRW);;;;kody MKOl: VET (IO 1964), VNM (IO 1952–1975, Wietnam Płd.);;{};;;;;;VIE
+193;ASIA;Wietnam Płd.;;Wietnam (DRW);połączony z DR Wietnamu;;;{};;;;;;VNM
+194;ASIA;ZEA;;;;;;"{""eu+""}";MKOL / OCA;FIFA / AFC;WA / AA;eP;Koszykówka (Eurpejskie Puchary): Euroliga 2025/26 - 29/30;UAE
+195;EUROPE;Albania;;;;;;"{""eu"",""sm+""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;ALB
+196;EUROPE;Andora;;;;;;"{""eu"",""sm""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;AND
+197;EUROPE;Anglia;;;;;198;"{""eu""}";;;;;;
+198;EUROPE;Anglia / WB;;;;;0;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;
+199;EUROPE;Austria;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;AUT
+200;EUROPE;Belgia;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;BEL
+201;EUROPE;Berlin Zachodni;;Niemcy / RFN;miasto oddzielone od macierzystych Niemiec;;;"{""eu""}";;;;;;
+202;EUROPE;Białoruś;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;BLR
+203;EUROPE;Bohemia;;;;;210;"{""eu"",""os""}";;;;;;BOH
+204;EUROPE;Bośnia i Hercegowina;;;;kody MKOl: BSH (IO 1992 L), BOS (inne źródła);;"{""eu"",""sm+""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;BIH
+205;EUROPE;Bułgaria;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;BUL
+206;EUROPE;Chorwacja;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;CRO
+207;EUROPE;Czarnogóra;;;;;;"{""eu"",""sm""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;MNE
+208;EUROPE;CzechoSłowacja;;;;kody MKOl: CSL (IO 1956 Z), CZE (IO 1960 Z), CSV (IO 1960 L), CZS (IO 1964 L), CHE (IO 1968 L);210;"{""eu"",""os""}";;;;;;TCH
+209;EUROPE;Czechy;;;;;210;"{""eu"",""os""}";;;;;;CZE
+210;EUROPE;Czechy / CS;;;;;0;"{""eu"",""os""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;
+211;EUROPE;Dania;;;;kody MKOl: DAN (IO 1960 L, 1968 Z), DIN (IO 1968 L);;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;DEN
+212;EUROPE;Estonia;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;EST
+213;EUROPE;Finlandia;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;FIN
+214;EUROPE;Francja;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;FRA
+215;EUROPE;Galicja;;Hiszpania;obszar separatystyczny;;;"{""eu""}";;;;nO;Futsal:  świat AMF / europa UEFS;
+216;EUROPE;Galicja i Lodomeria;;Austria;region Austro-Węgier;;;"{""eu""}";;UIAFA;;;1772-1918 Królestwo Galicji i Lodomerii (Austriacka Galicja lub Austriacka Polska) | ZFP Związek Footballistów Polskich 1912 przyjęty do UIAFA;
+217;EUROPE;Gagauzja;;Mołdawia;terytorium autonomiczne;;;"{""eu""}";;;;;;
+218;EUROPE;Gdańsk W.M.;;Polska / Niemcy;wolne miasto;;;"{""eu""}";;;;;;
+219;EUROPE;Gibraltar;;Anglia / WB;część WB;;;"{""eu"",""sm""}";;FIFA / UEFA;WA / EA;;NKO istnieje, ale nie jest uznany przez MKOL;
+220;EUROPE;Grecja;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;GRE
+221;EUROPE;Guernsey / WN;;Anglia / WB;ter. zależne od WB (W.Normandzkie);;;"{""eu""}";;;;O;ITTF tenis stołowy | TWIF Międzynarodowa Federacja Przeciągania Liny (d. WN) | WS World Squash | FIDE szachy | ICC Międzynarodowa Rada Krykieta;
+222;EUROPE;Hiszpania;;;;kody MKOl: SPA (IO 1956–1964, 1968 Z);;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;ESP
+223;EUROPE;Holandia;;;;kody MKOl: OLA (IO 1956 Z), NET (IO 1960 Z), PBA (IO 1960 L), NLD (IO 1964 L), HOL (IO 1968–1988, Holandia);;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;NED
+224;EUROPE;Irlandia;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;IRL
+225;EUROPE;Irlandia Płn.;;Anglia / WB;część WB;samodzielnie: piłka nożna (IFA, przed 1921 jako Irlandia), futsal, siatkówka, netball, przeciąganie liny (MŚ, ME), Igrzyska Wspólnoty Narodów | w drużynie całej wyspy (Irlandia): rugby union, rugby 7, rugby league, hokej na trawie, krykiet, lacrosse, curling, koszykówka, piłka wodna, piłka ręczna | w składzie WB: IO, lekkoatletyka i hokej na lodzie (MŚ, ME);;"{""eu""}";;FIFA / UEFA;;;;
+226;EUROPE;Islandia;;;;kody MKOl: ICE (IO 1960 Z, 1964 L);;"{""eu"",""sm""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;ISL
+227;EUROPE;Jersey;;Anglia / WB;ter. zależne od WB (W.Normandzkie);;;"{""eu""}";;;;O;ISA surfing | ITTF tenis stołowy | WS World Squash | IBF International Bowling Federation (d.FIB, potem WB) | FIDE szachy | ICC Międzynarodowa Rada Krykieta;
+228;EUROPE;Jugosławia;;;;kody MKOl: JUG (IO 1956–1960, 1968 Z), YUS (IO 1964 L);254;"{""eu""}";;;;;;YUG
+229;EUROPE;Katalonia;;Hiszpania;obszar separatystyczny;;;"{""eu""}";;;;FIRA;NKO istnieje, ale nie jest uznany przez MKOL | Rugby Union: 1934 członek założyciel FIRA (od 1999 Rugby Europe), 1941 relegowany po wojnie domowej w Hiszpani obecnie walczy o przywrócenie do Rugby Europe | IBF International Bowling Federation (d.FIB, potem WB) | WL World Lacrosse (d. FoIL) | IRF Międzynarodowa Federacja Rakietbola | Futsal:  świat AMF / europa UEFS, EFF;
+230;EUROPE;Kosowo;;Serbia / YU;niepodległe od 17.2.2008, uznane częściowo;;;"{""eu"",""sm+""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;KOS
+231;EUROPE;Kraj Basków;;Hiszpania;obszar separatystyczny;;;"{""eu""}";;;;O;TWIF Międzynarodowa Federacja Przeciągania Liny | IRF Międzynarodowa Federacja Rakietbola | Rugby Union nie jest członkiem ani World Rugby, ani Rugby EUrope, ale rozgrywa mecze z innymi reprezentacjami | Futsal:  świat AMF / europa UEFS;
+232;EUROPE;Liechtenstein;;;;kody MKOl: LIC (IO 1956 Z, 1964 L, 1968 Z);;"{""eu"",""sm""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;LIE
+233;EUROPE;Litwa;;;;kody MKOl: LIT (IO 1992 Z);;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;LTU
+234;EUROPE;Luksemburg;;;;;;"{""eu"",""sm""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;LUX
+235;EUROPE;Łotwa;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;LAT
+236;EUROPE;Macedonia;;;;;;"{""eu"",""sm+""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;MKD
+237;EUROPE;Malta;;;;kody MKOl: MAT (IO 1960–1964);;"{""eu"",""sm""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;MLT
+238;EUROPE;Mołdawia;;;;kody MKOl: MLD (IO 1994);;"{""eu"",""sm+""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;MDA
+239;EUROPE;Monako;;;;;;"{""eu"",""sm""}";MKOL / OEC;;WA / EA;;;MON
+240;EUROPE;Naddniestrze;;Mołdawia;państwo nieuznawane (Transnistria) przez wszystkich;;;"{""eu""}";;;;;;
+241;EUROPE;Niemcy;;;;;242;"{""eu"",""os""}";;;;;;GER
+242;EUROPE;Niemcy / RFN;;;;;0;"{""eu"",""os""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;
+243;EUROPE;Norwegia;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;NOR
+244;EUROPE;NRD;;Niemcy / RFN;połączone z Niemcami;kody MKOl: ODE (IO 1968 L), EUA (IO 1956–1964, wspólna reprezentacja Niemiec);;"{""eu""}";-MKOL / OEC;-FIFA / UEFA;-WA / EA?;;NRD 1949-1990 | nkio 1951-1990, MKOL ?-1990, OEC 1968-1990, IO / ZIO:1956-1964 w ramach (EUA) Zjednoczonej Druzyny Niemiec, 1968-1988 jako NRD | LA: 1958-1990 DVfL, 1964-1990 w IAAF;GDR
+245;EUROPE;Polska;;;;;;"{""eu"",""os""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;POL
+246;EUROPE;Portugalia;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;POR
+247;EUROPE;RFN;;;;kody MKOl: ALL (IO 1968 Z), ALE (IO 1968 L), GER (IO 1972–1976), EUA (IO 1956–1964, wspólna reprezentacja Niemiec);242;"{""eu""}";;;;;;FRG
+248;EUROPE;Rosja;;;;kody MKOl: RU1 (IO 1900, 1908–1912, Imperium Rosyjskie);249;"{""eu""}";;;;;;RUS
+249;EUROPE;Rosja / ZSRR;;;;;0;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;
+250;EUROPE;Rumunia;;;;kody MKOl: ROM (IO 1956–1960, 1972–2006), RUM (IO 1964–1968);;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;ROU
+251;EUROPE;Saara;;Niemcy / RFN;połączone z Niemcami;;;"{""eu""}";-MKOL;-FIFA / UEFA;;;Protektorat Saary 1947-1956 | nkio 1950-1956, IO Helsinki 1952;SAA
+252;EUROPE;San Marino;;;;kody MKOl: SMA (IO 1960–1964);;"{""eu"",""sm""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;SMR
+253;EUROPE;Serbia;;;;;254;"{""eu""}";;;;;;SRB
+254;EUROPE;Serbia / YU;;;;;0;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;
+255;EUROPE;Serbia i Czarnogóra;;;;;254;"{""eu""}";;;;;;SCG
+256;EUROPE;Słowacja;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;SVK
+257;EUROPE;Słowenia;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;SLO
+258;EUROPE;Szkocja;;Anglia / WB;;;;"{""eu""}";;FIFA / UEFA;;;;
+259;EUROPE;Szwajcaria;;;;kody MKOl: SVI (IO 1956 Z, 1960 L), SWI (IO 1960 Z, 1964 L);;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;SUI
+260;EUROPE;Szwecja;;;;kody MKOl: SVE (IO 1956 Z, 1960 L), SUE (IO 1968 L);;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;SWE
+261;EUROPE;Śląsk;;Polska;obszar separatystyczny;;;"{""eu"",""os""}";;;;;;
+262;EUROPE;Triest W.M.;;Włochy;wolne miasto;;;"{""eu""}";;;;;;
+263;EUROPE;Ukraina;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;UKR
+264;EUROPE;Watykan;;;;;;"{""eu"",""sm+""}";;;;O;jedyne suwerenne państwo które mogło by być uznane przez MKOL bez problemów | 2019 Athletica Vaticana 2021 należy do UCI, WT (Taekwondo), FID (Federacja Padla nieolimpijska) | 2023 posiada drużyny Krykieta i Sportów Parolimpijskich | w planach: szermierka, koszykówka i piłka nożna. Żeby startować w IO musi należeć do 5ciu federacji sportowych i posiadać NKO. 2024 CSE (Mistrzostwach Małych Państw Europy w LA). Żeby startować w GSSE (Igrzyska Małych Państw Europy) musi posiadać NKO NKO. https://en.wikipedia.org/wiki/Vatican_Athletics;
+265;EUROPE;W.Alandzkie;;Finlandia;terytorium autonomiczne;;;"{""eu""}";;;;;;
+266;EUROPE;W.Man;;Anglia / WB;ter. zależne od WB;;;"{""eu""}";;;;O;WT (d.WTF) taekwondo | UmdB Union Mondiale de Billard | IBSF Międzynarodowa Federacja Bilarda i Snookera | WS World Squash | FIDE szachy | ICC Międzynarodowa Rada Krykieta;
+267;EUROPE;W.Owcze;;Dania;ter. zależne Danii;;;"{""eu"",""sm+""}";nk;FIFA / UEFA;;;NKO uznany tylko w ramach Paraolimpiady;
+268;EUROPE;Walia;;Anglia / WB;część WB;;;"{""eu""}";;FIFA / UEFA;;;;
+269;EUROPE;Węgry;;;;kody MKOl: UNG (IO 1956 Z, 1960 L);;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;HUN
+270;EUROPE;Wielka Brytania;;;;kody MKOl: GRB (IO 1956 Z – 1960), GBI (lekkoatletyka IO 1956, IO 1964);198;"{""eu""}";;;;;;GBR
+271;EUROPE;Włochy;;;;;;"{""eu""}";MKOL / OEC;FIFA / UEFA;WA / EA;;;ITA
+272;EUROPE;WPN;;;;;249;"{""eu""}";;;;;;EUN
+273;EUROPE;ZSRR;;;;kody MKOl: SOV (IO 1968 Z);249;"{""eu""}";;;;;;URS
+274;OCEANIA;Australia;;;;kody MKOl: ANZ (IO 1908–1912, Australazja – z Nową Zelandią), AUA (inne źródła, Australazja);;{};;;;;;AUS
+275;OCEANIA;Fidżi;;;;kody MKOl: FIG (IO 1960);;{};;;;;;FIJ
+276;OCEANIA;Guam;;USA;ter. zależne USA;;;{};;;;;;GUM
+277;OCEANIA;Kiribati;;;;;;{};;;;;;KIR
+278;OCEANIA;Mariany Płn.;;USA;ter. zależne USA;;;{};;;;;;
+279;OCEANIA;Mikronezja;;;;;;{};;;;;;FSM
+280;OCEANIA;Nauru;;;;;;{};;;;;;NRU
+281;OCEANIA;Niue;;Nowa Zelandia;ter. zależne NZ;;;{};;;;;;
+282;OCEANIA;Nowa Kaledonia;;Francja;ter. zależne Francji;;;{};;;;;;
+283;OCEANIA;Nowa Zelandia;;;;kody MKOl: NZE (IO 1960, 1968 Z), ANZ (IO 1908–1912, Australazja – z Australią), AUA (inne źródła, Australazja);;{};;;;;;NZL
+284;OCEANIA;Palau;;;;;;{};;;;;;PLW
+285;OCEANIA;Papua-Nowa Gwinea;;;;kody MKOl: NGY (IO 1976–1980), NGU (IO 1984–1988);;{};;;;;;PNG
+286;OCEANIA;Polinezja Francuska (Tahiti);;Francja;ter. zależne Francji;;;"{""eu+""}";onoc;FIFA / OFC;WA / OA;IO;NKO - jako członek stowarzyszony w Oceanii | IO 2024 współgospodarz: Surfing w Teahupo'o;
+287;OCEANIA;Samoa (Zachodnie);;;;kody MKOl: WSM (IO 1984–1996, Samoa Zachodnie);;{};;;;;;SAM
+288;OCEANIA;Samoa Amerykańskie;;USA;ter. zależne USA;kody MKOl: AMS (inne źródła);;{};;;;;;ASA
+289;OCEANIA;Tonga;;;;kody MKOl: TON (IO 1984);;{};;;;;;TGA
+290;OCEANIA;Tuvalu;;;;;;{};;;;;;TUV
+291;OCEANIA;Vanuatu;;;;;;{};;;;;;VAN
+292;OCEANIA;W.Cooka;;Nowa Zelandia;ter. zależne NZ;kody MKOl: CKI (inne źródła);;{};;;;;;COK
+293;OCEANIA;W.Marshalla;;;;;;{};;;;;;MHL
+294;OCEANIA;W.Salomona;;;;;;{};;;;;;SOL
+295;OCEANIA;W.Wielkanocna (Easter);;Chile;ter. zależne Chile;;;{};;;;;;

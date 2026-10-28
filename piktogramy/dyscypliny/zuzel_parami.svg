@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Żużel – w parach (po 2 zawodników z drużyny w biegu)</title>
+  <rect width="64" height="64" rx="10" fill="#1d4e89"/>
+  <g transform="translate(3 -4) rotate(-20 32 47)">
+  <g fill="none" stroke="#ffffff" stroke-width="3.6"><circle cx="15" cy="47" r="7.3"/><ellipse cx="49" cy="47" rx="4.6" ry="7.3"/></g>
+  <circle cx="15" cy="47" r="1.9" fill="#ffffff"/><circle cx="49" cy="47" r="1.9" fill="#ffffff"/>
+  <path d="M15 47 L25 43" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M49 47 L42.5 31" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 29.5 L47 27" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="23" y="38.5" width="12.5" height="9" rx="2" fill="#ffffff"/>
+  <path d="M24 37 Q29 29.5 39.5 31 Q42 31.5 42 33.5 L41 36.5 L24 37.5 Z" fill="#ffffff"/>
+  <path d="M10.5 35 L24 35" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#ffffff" opacity="0.7"><circle cx="5" cy="54" r="1.6"/><circle cx="9" cy="49" r="1.2"/><circle cx="4" cy="46" r="1"/><circle cx="11" cy="57" r="1.3"/><circle cx="7" cy="41" r="0.9"/></g>
+  <rect x="34.0" y="5" width="26.0" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="47.0" y="14.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.50" font-weight="bold" fill="#1d4e89">pary</text>
+</svg>

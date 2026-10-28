@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Netball – drużyny 7-osobowe, kosz bez tablicy</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <path d="M18 56 L18 12" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 13 L21 13" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="29" cy="13" rx="8" ry="2.8" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <g stroke="#ffffff" stroke-width="1.1" opacity="0.8"><line x1="22" y1="14.5" x2="25.5" y2="24"/><line x1="29" y1="16" x2="29" y2="25"/><line x1="36" y1="14.5" x2="32.5" y2="24"/><line x1="25.5" y1="24" x2="32.5" y2="24"/></g>
+  <circle cx="42" cy="43" r="10" fill="#ffffff"/>
+  <g fill="none" stroke="#1e3a5f" stroke-width="1.2" stroke-linecap="round"><path d="M34.5 37.0 Q42 44.5 49.5 37.0"/><path d="M34.5 49.0 Q42 41.5 49.5 49.0"/></g>
+</svg>

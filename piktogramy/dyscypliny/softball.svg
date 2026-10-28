@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Softball – drużyny 9-osobowe, rzut od dołu</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <g transform="translate(64 0) scale(-1 1)">
+  <g transform="translate(26 36) rotate(-45)"><path d="M-21 -1.2 L-6 -1.6 Q4 -3.8 16 -3.8 A3.8 3.8 0 0 1 16 3.8 Q4 3.8 -6 1.6 L-21 1.2 Z" fill="#ffffff"/><circle cx="-21.5" cy="0" r="2.4" fill="#ffffff"/></g>
+  <circle cx="44" cy="44" r="10.5" fill="#ffffff"/>
+  <g fill="none" stroke="#1e3a5f" stroke-width="1.6" stroke-linecap="round"><path d="M37.2 36.4 Q41.4 44 37.2 51.6"/><path d="M50.8 36.4 Q46.6 44 50.8 51.6"/></g>
+  </g>
+  <rect x="46.4" y="5" width="13.6" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="53.2" y="14.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" fill="#1e3a5f">S</text>
+</svg>

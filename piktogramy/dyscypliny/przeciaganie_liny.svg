@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Przeciąganie liny (tug of war) – drużyny 8-osobowe</title>
+  <rect width="64" height="64" rx="10" fill="#1d4e89"/>
+  <path d="M4 31 L60 31" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="#1d4e89" stroke-width="1"><line x1="5" y1="29.3" x2="7" y2="32.7"/><line x1="9" y1="29.3" x2="11" y2="32.7"/><line x1="13" y1="29.3" x2="15" y2="32.7"/><line x1="17" y1="29.3" x2="19" y2="32.7"/><line x1="21" y1="29.3" x2="23" y2="32.7"/><line x1="25" y1="29.3" x2="27" y2="32.7"/><line x1="29" y1="29.3" x2="31" y2="32.7"/><line x1="33" y1="29.3" x2="35" y2="32.7"/><line x1="37" y1="29.3" x2="39" y2="32.7"/><line x1="41" y1="29.3" x2="43" y2="32.7"/><line x1="45" y1="29.3" x2="47" y2="32.7"/><line x1="49" y1="29.3" x2="51" y2="32.7"/><line x1="53" y1="29.3" x2="55" y2="32.7"/><line x1="57" y1="29.3" x2="59" y2="32.7"/></g>
+  <circle cx="8.5" cy="21" r="3.4" fill="#ffffff"/>
+  <path d="M10.5 25 L15.5 42 M11.5 28 L20 31 M15.5 42 L22 54 M15.5 42 L14 54" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="55.5" cy="21" r="3.4" fill="#ffffff"/>
+  <path d="M53.5 25 L48.5 42 M52.5 28 L44 31 M48.5 42 L42 54 M48.5 42 L50 54" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Kontakt (mail)</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <rect x="11" y="18" width="42" height="28" rx="3" fill="none" stroke="#ffffff" stroke-width="4"/>
+  <path d="M13 21 L32 34 L51 21" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

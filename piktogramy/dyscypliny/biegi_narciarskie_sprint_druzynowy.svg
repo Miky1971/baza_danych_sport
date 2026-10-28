@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Biegi narciarskie – sprint drużynowy (2 zawodników × 3 odcinki)</title>
+  <rect width="64" height="64" rx="10" fill="#1565c0"/>
+  <path d="M8 12 L8 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 12 L8 17" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="8" cy="43" rx="3.6" ry="1.4" fill="none" stroke="#ffffff" stroke-width="1.6"/>
+  <path d="M17 12 L17 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 12 L17 17" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="17" cy="43" rx="3.6" ry="1.4" fill="none" stroke="#ffffff" stroke-width="1.6"/>
+  <path d="M6 55 L52 55 Q57 55 58 51" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 51 L50 51 Q55 51 56 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+  <rect x="35.8" y="5" width="24.2" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="47.9" y="14.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.00" font-weight="bold" fill="#1565c0">2×3</text>
+</svg>

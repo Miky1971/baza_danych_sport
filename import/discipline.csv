@@ -1,0 +1,56 @@
+﻿id;name;fed_world;fed_world_old;fed_world_year;fed_europe;fed_europe_old;fed_europe_year;note
+1;Baseball i softball;WBSC;"{""IBAF""}";1938;WBSC Europe;"{""CEB""}";1953;
+2;Biathlon;IBU;"{""UIPMB""}";1948;;;;
+3;Faustball;IFA;"{""IFV""}";1960;EFA;"{""EFV""}";;rok federacji europejskiej niepewny (?)
+4;Formuła 1;FIA;"{""AIACR""}";1904;;;;
+5;Futbol amerykański;IFAF;;1998;IFAF Europe;"{""EFAF""}";1976;rok federacji europejskiej niepewny (1976?)
+6;Futbol australijski;AFL;"{""VFL"",""IAFC""}";1896;;;;Dotyczy federacji krajowej Australii (brak federacji międzynarodowej), jako VFL (1896–1990) / federacja międzynarodowa, IAFC (International Australian Football Council), istniała w latach 1995–2002. Rozwiązano ją, bo AFL jej nie uznała.
+7;Gry gaelickie;GAA;;1884;;;;Dotyczy irlandzkiej GAA (Gaelic Athletic Association), która zarządza grami gaelickimi także poza Irlandią (brak osobnej federacji międzynarodowej).
+8;Házená;SNH;"{""ČSHŽS"",""ČSH""}";1905;;;;Dotyczy federacji krajowej Czech (brak federacji międzynarodowej), 1905 SNH (Svaz národní házené), 1920: Československý svaz házené a ženských sportů, 1938: Československý svaz házené, 1939: Český svaz házené
+9;Hokej na rolkach;World Skate;"{""FIRS""}";1924;World Skate Europe;"{""CERS""}";;rok federacji europejskiej niepewny (?)
+10;Hokej na trawie;FIH;;1924;EHF;;1969;
+11;Kaatsen;KNKB;;1897;;;;Dotyczy federacji krajowej Holandii: KNKB (Koninklijke Nederlandse Kaatsbond), brak federacji międzynarodowej.
+12;Kabaddi;IKF;;2004;;;;rok federacji światowej niepewny (2004?)
+13;Kajakarstwo;ICF;"{""IRK""}";1924;ECA;;1993;rok federacji europejskiej niepewny (1993?)
+14;Klasyfikacja medalowa;;;;;;;Umowna dyscyplina (bez federacji): klasyfikacja medalowa całej imprezy – igrzyska (wszystkie sporty) i zawody LA. Medale w result.score jako zł-sr-br, stan na dzień w competition.note.
+15;Kolarstwo;UCI;;1900;UEC;;1995;rok federacji europejskiej niepewny (1995?)
+16;Korfball;IKF;"{""IKB""}";1933;IKF Europe;;;rok federacji europejskiej niepewny (?)
+17;Koszykówka;FIBA;;1932;FIBA Europe;;1957;rok federacji europejskiej niepewny (1957?)
+18;Krykiet;ICC;;1909;ECC;;1997;rok federacji europejskiej niepewny (1997?)
+19;Lacrosse;World Lacrosse;"{""ILF"",""FIL""}";1974;European Lacrosse;"{""ELF""}";1995;rok federacji europejskiej niepewny (1995?)
+20;Lekkoatletyka;World Athletics;"{""IAAF""}";1912;European Athletics;"{""EAA""}";1969;
+21;Netball;World Netball;"{""IFNA"",""INF""}";1960;Europe Netball;;;rok federacji europejskiej niepewny (?)
+22;Pelota baskijska;FIPV;;1929;;;;
+23;Pesäpallo;IPA;;1987;;;;rok federacji światowej niepewny (1987?)
+24;Piłka nożna;FIEFF;;1970;;;;rok federacji światowej niepewny (1970?)
+25;Piłka nożna;UIAFA;;1909;;;;rok federacji światowej niepewny (1909–1912?)
+26;Piłka nożna;FIFA;;1904;UEFA;;1954;
+27;Piłka nożna;AMF;"{""FIFUSA""}";1971;UEFS;;1988;rok federacji europejskiej niepewny (1988?)
+28;Piłka nożna;FIFUSA (reaktywowana);;;;;;rok federacji światowej niepewny (?)
+29;Piłka ręczna;IHF;"{""IAHF""}";1928;EHF;;1991;
+30;Pływanie i piłka wodna;World Aquatics;"{""FINA""}";1908;LEN;;1926;
+31;Polo;FIP;;1982;;;;
+32;Polo rowerowe;IBPF;;;;;;IBPF = International Bicycle Polo Federation. Pierwsze zasady 1891 (R. J. Mecredy, Irlandia), pierwszy związek: Bicycle Polo Association of Great Britain (1897)., rok federacji światowej niepewny (?)
+33;Przeciąganie liny;TWIF;;1960;;;;
+34;Rugby league;IRL;"{""IRLB"",""RLIF""}";1948;ERL;;2003;rok federacji europejskiej niepewny (2003?)
+35;Rugby union;World Rugby;"{""IRFB"",""IRB""}";1886;Rugby Europe;"{""FIRA"",""FIRA-AER""}";1934;
+36;Sepak takraw;ISTAF;;1988;;;;
+37;Siatkówka;FIVB;;1947;CEV;;1963;
+38;Sporty motorowe;FIM;"{""FICM""}";1904;FIM Europe;"{""UEM""}";1995;rok federacji europejskiej niepewny (1995?)
+39;Triathlon;World Triathlon;"{""ITU""}";1989;Europe Triathlon;"{""ETU""}";1984;
+40;Ultimate;WFDF;;1985;EUF;;;rok federacji europejskiej niepewny (?)
+41;Unihokej;IFF;;1986;;;;
+42;Bandy;FIB;"{""IBF""}";1955;;;;
+43;Bobsleje;IBSF;"{""FIBT""}";1923;;;;
+44;Curling;WCF;"{""ICF""}";1966;ECF;;1975;
+45;Curling bawarski (Eisstock);IFI;;1950;;;;rok federacji światowej niepewny (1950?)
+46;Hokej na lodzie;IIHF;"{""LIHG""}";1908;;;;
+47;Łyżwiarstwo i short track;ISU;;1892;;;;
+48;Narciarstwo i snowboard;FIS;;1924;;;;
+49;Patrol wojskowy;CISM;"{""FIS""}";1948;;;;Rozgrywana na IO i MŚ FIS pod auspicjami FIS-u, zanim powstała federacja światowa.
+50;Amp futbol;WAFF;"{""ASI""}";1985;EAFF;;2015;Wyjątek od zasady para (tylko dyscypliny paraolimpijskie): drużynowa dyscyplina para na Igrzyskach Europejskich 2023. ASI = Amputee Soccer International (1985), później WAFF.
+51;Gry z piłką dla niewidomych;IBSA;;1981;IBSA Europe;;;rok federacji europejskiej niepewny (?)
+52;Koszykówka na wózkach;IWBF;;1989;IWBF Europe;;;rok federacji światowej niepewny (1989?), rok federacji europejskiej niepewny (?)
+53;Rugby na wózkach;WWR;"{""IWRF""}";1993;;;;rok federacji światowej niepewny (1993?)
+54;Siatkówka na siedząco;World ParaVolley;"{""WOVD""}";1981;ParaVolley Europe;;;rok federacji światowej niepewny (1981?), rok federacji europejskiej niepewny (?)
+55;Hokej na sledgach;World Para Ice Hockey;"{""IPC""}";1989;;;;rok federacji światowej niepewny (1989?)

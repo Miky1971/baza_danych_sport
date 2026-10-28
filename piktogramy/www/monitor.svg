@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Monitor</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <rect x="9" y="12" width="46" height="31" rx="3" fill="none" stroke="#ffffff" stroke-width="3.2"/>
+  <path d="M32 44.5 L32 51" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M21 52.5 L43 52.5" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

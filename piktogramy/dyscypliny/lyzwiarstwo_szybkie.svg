@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Łyżwiarstwo szybkie – bieg drużynowy (team pursuit, 3 zawodników)</title>
+  <rect width="64" height="64" rx="10" fill="#1d4e89"/>
+  <path d="M27 33 L36.5 40 L33 48" fill="none" stroke="#ffffff" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M27 33 L17.5 38 L11 43.5" fill="none" stroke="#ffffff" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30.5 50.5 L38.5 50.5 Q40.5 50.5 40.5 48.8" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M9.5 45.5 L15.5 44.5" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M27 33 L41 25.5" fill="none" stroke="#ffffff" stroke-width="6.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="45.6" cy="22" r="3.9" fill="#ffffff"/>
+  <path d="M40.5 24.5 L30 28" fill="none" stroke="#1d4e89" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40.5 24 L30 27.5" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M4 58.5 L60 58.5" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

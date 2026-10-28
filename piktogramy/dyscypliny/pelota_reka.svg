@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Pelota baskijska – ręką (pelota a mano), pojedynczo lub w parach</title>
+  <rect width="64" height="64" rx="10" fill="#1d4e89"/>
+  <rect x="6" y="8" width="7" height="48" fill="#ffffff" opacity="0.9"/>
+  <g stroke="#1d4e89" stroke-width="0.8"><line x1="6" y1="14" x2="13" y2="14"/><line x1="6" y1="20" x2="13" y2="20"/><line x1="6" y1="26" x2="13" y2="26"/><line x1="6" y1="32" x2="13" y2="32"/><line x1="6" y1="38" x2="13" y2="38"/><line x1="6" y1="44" x2="13" y2="44"/><line x1="6" y1="50" x2="13" y2="50"/></g>
+  <g transform="rotate(18 41 42)">
+  <rect x="31" y="34" width="21" height="16" rx="6" fill="#ffffff"/>
+  <path d="M34 38 L34 22 M39.5 36 L39.5 18 M45 36 L45 19 M50 38 L50 24" fill="none" stroke="#ffffff" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M33 44 L25.5 35" fill="none" stroke="#ffffff" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="32" y="49" width="19" height="10" rx="1.5" fill="#ffffff"/>
+  <path d="M32 49.6 L51 49.6" fill="none" stroke="#1d4e89" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="#1d4e89" stroke-width="1"><line x1="35" y1="51" x2="35" y2="58"/><line x1="38" y1="51" x2="38" y2="58"/><line x1="41" y1="51" x2="41" y2="58"/><line x1="44" y1="51" x2="44" y2="58"/><line x1="47" y1="51" x2="47" y2="58"/></g>
+  </g>
+  <circle cx="22" cy="20" r="4.5" fill="#ffffff"/>
+</svg>

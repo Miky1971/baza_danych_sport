@@ -1,0 +1,135 @@
+﻿id;discipline_id;name;category;season;para;tags;olympic_debut;note
+1;1;Baseball;GAME;SUMMER;false;"{""io"",""new"",""wg"",""ia"",""idw""}";1984;Baseball – drużyny 9-osobowe, rzut nad ramieniem
+2;1;Softball;GAME;SUMMER;false;"{""io"",""new"",""wg""}";1996;Softball – drużyny 9-osobowe, rzut od dołu
+3;2;letni, bieg;RELAY;SUMMER;false;{};;Biathlon letni – sztafeta biegowa, cross (MŚ 1996–2009)
+4;2;letni, nartorolki;RELAY;SUMMER;false;{};;Biathlon letni – sztafeta na nartorolkach (MŚ od 2006)
+5;3;Faustball;GAME;SUMMER;false;"{""wg""}";;Faustball (fistball) – drużyny 5-osobowe, odbijanie piłki pięścią nad taśmą
+6;4;klasyfikacja konstruktorów;TEAM;SUMMER;false;{};;Formuła 1 – klasyfikacja drużynowa (konstruktorów)
+7;5;flagowy;GAME;SUMMER;false;"{""io"",""new"",""wg""}";2028;Futbol flagowy (flag football) – drużyny 5-osobowe, bezkontaktowy
+8;5;Futbol amerykański;GAME;SUMMER;false;"{""wg""}";;Futbol amerykański (American football) – drużyny 11-osobowe
+9;6;Futbol australijski;GAME;SUMMER;false;{};;Futbol australijski (Australian rules football) – drużyny 18-osobowe
+10;7;Futbol gaelicki;GAME;SUMMER;false;{};;Futbol gaelicki (Gaelic football) – drużyny 15-osobowe, bramka w kształcie H
+11;7;Hurling;GAME;SUMMER;false;{};;Hurling – drużyny 15-osobowe, kij (hurley) i mała piłka (sliotar), bramka w kształcie H
+12;8;Házená;GAME;SUMMER;false;{};;Házená (czeska piłka ręczna) – drużyny 7-osobowe
+13;9;inline;GAME;SUMMER;false;"{""wg""}";;Hokej inline (inline hockey) – drużyny 5-osobowe, krążek
+14;9;na wrotkach (rink);GAME;SUMMER;false;"{""io"",""new"",""wg""}";1992;Hokej na wrotkach (roller hockey / rink hockey) – drużyny 5-osobowe, piłka
+15;10;5 (hockey5s);GAME;SUMMER;false;{};;Hokej na trawie 5 (hockey5s) – drużyny 5-osobowe
+16;10;halowy (6);GAME;INDOOR;false;"{""wg""}";;Hokej na trawie halowy (indoor hockey) – drużyny 6-osobowe, w hali z bandami
+17;10;Hokej na trawie;GAME;SUMMER;false;"{""io"",""cla"",""wg"",""ia""}";1908;Hokej na trawie – drużyny 11-osobowe
+18;11;Kaatsen;GAME;SUMMER;false;{};;Kaatsen (fryzyjska gra w piłkę ręką, Frisian handball) – drużyny 3-osobowe, piłkę odbija się dłonią w rękawicy
+19;12;Kabaddi;GAME;SUMMER;false;{};;Kabaddi – drużyny 7-osobowe
+20;13;kajak-polo;GAME;SUMMER;false;"{""wg""}";;Kajak-polo (canoe polo) – drużyny 5-osobowe
+21;14;halowa;TEAM;INDOOR;false;{};;Klasyfikacja medalowa – halowa (HMŚ i HME LA)
+22;14;letnia;TEAM;SUMMER;false;"{""io"",""ie"",""wg"",""ia"",""idw""}";1896;Klasyfikacja medalowa – letnia (IO, IE, WG, igrzyska alternatywne, MŚ i ME LA)
+23;15;Piłka rowerowa;GAME;SUMMER;false;"{""wg""}";;Piłka rowerowa (cycle-ball, Radball) – drużyny 2-osobowe
+24;15;Szosa drużynowa jazda na czas 100 km;TEAM;SUMMER;false;"{""io"",""ia"",""fav""}";1960;Kolarstwo szosowe – drużynowa jazda na czas (4 zawodników), IO 1960–1992: 100 km
+25;15;Szosa sztafeta na czas 3+3;RELAY;SUMMER;false;"{""fav""}";;Kolarstwo szosowe – sztafeta na czas (2 grupy po 3 zawodników kolejno)
+26;15;Tor madison;RELAY;SUMMER;false;"{""io"",""ie""}";2000;Kolarstwo torowe – madison (pary, zawodnicy zmieniają się na trasie)
+27;15;Tor sprint drużynowy;RELAY;SUMMER;false;"{""io"",""ie""}";2000;Kolarstwo torowe – sprint drużynowy (3 zawodników, każdy prowadzi 1 okrążenie)
+28;15;Tor wyścig drużynowy na dochodzenie;TEAM;SUMMER;false;"{""io"",""ie"",""ia"",""idw""}";1908;Kolarstwo torowe – wyścig drużynowy na dochodzenie (team pursuit, 4 zawodników)
+29;16;Korfball;GAME;SUMMER;false;"{""wg""}";;Korfball – drużyny 8-osobowe (4 kobiety + 4 mężczyzn)
+30;17;3x3;GAME;SUMMER;false;"{""io"",""new"",""ie"",""fav""}";2020;Koszykówka 3x3 – drużyny 3-osobowe, jeden kosz
+31;17;Koszykówka;GAME;SUMMER;false;"{""io"",""cla"",""ia"",""idw""}";1936;Koszykówka – drużyny 5-osobowe
+32;18;Krykiet;GAME;SUMMER;false;"{""io"",""old""}";1900;Krykiet (cricket) – drużyny 11-osobowe
+33;19;Lacrosse;GAME;SUMMER;false;"{""io"",""old"",""wg""}";1904;Lacrosse – drużyny 10-osobowe, kij z siatką
+34;20;4×1 okr.;RELAY;INDOOR;false;"{""old"",""fav""}";;Lekkoatletyka – sztafeta halowa 4×1 okrążenie (ME 1966–1970)
+35;20;4×2 okr.;RELAY;INDOOR;false;"{""cla"",""fav""}";;Lekkoatletyka – sztafeta halowa 4×2 okrążenia (ME 1966–1975)
+36;20;4× zm;RELAY;INDOOR;false;"{""old"",""fav""}";;Lekkoatletyka – sztafeta halowa o zmiennych odcinkach 1+2+3+4 / 2+3+4+5 okrążeń (ME 1966–1970)
+37;20;3×1000;RELAY;INDOOR;false;"{""old"",""fav""}";;Lekkoatletyka – sztafeta halowa 3×1000 m (ME 1967–1969)
+38;20;4×4 okr.;RELAY;INDOOR;false;"{""old"",""fav""}";;Lekkoatletyka – sztafeta halowa 4×4 okrążenia (ME 1971–1973)
+39;20;4×100;RELAY;SUMMER;false;"{""io"",""cla"",""ie"",""ia"",""idw"",""fav""}";1912;Lekkoatletyka – sztafeta 4×100 m
+40;20;4×200;RELAY;SUMMER;false;"{""old"",""new"",""ia"",""fav""}";;Lekkoatletyka – sztafeta 4×200 m
+41;20;100+200+300+400;RELAY;SUMMER;false;"{""fav""}";;Lekkoatletyka – sztafeta szwedzka 100+200+300+400 m
+42;20;2×2×400;RELAY;SUMMER;false;"{""new"",""fav""}";;Lekkoatletyka – sztafeta 2×2×400 m
+43;20;4×400;RELAY;SUMMER;false;"{""io"",""cla"",""ie"",""ia"",""idw"",""fav""}";1912;Lekkoatletyka – sztafeta 4×400 m
+44;20;200+200+400+800;RELAY;SUMMER;false;"{""io"",""old"",""fav""}";1908;Lekkoatletyka – sztafeta 200+200+400+800 m (IO 1908)
+45;20;800+600+400+200;RELAY;SUMMER;false;"{""new"",""ie"",""fav""}";;Lekkoatletyka – sztafeta mieszana 800+600+400+200 m (The Hunt, IE 2019)
+46;20;200+400+800+1600;RELAY;SUMMER;false;"{""old"",""ia"",""fav""}";;Lekkoatletyka – sztafeta mieszana 200+400+800+1600 m (Igrzyska Międzysojusznicze 1919)
+47;20;4×800;RELAY;SUMMER;false;"{""new"",""fav""}";;Lekkoatletyka – sztafeta 4×800 m
+48;20;1200+400+800+1600;RELAY;SUMMER;false;"{""new"",""fav""}";;Lekkoatletyka – sztafeta dystansowa 1200+400+800+1600 m (distance medley)
+49;20;4×1500;RELAY;SUMMER;false;"{""new"",""fav""}";;Lekkoatletyka – sztafeta 4×1500 m
+50;20;4×100/110 ppł;RELAY;SUMMER;false;"{""new"",""fav""}";;Lekkoatletyka – sztafeta płotkarska 4×100 m ppł (K) / 4×110 m ppł (M)
+51;20;zawody drużynowe;TEAM;SUMMER;false;"{""ie"",""fav""}";;Lekkoatletyka – zawody drużynowe (klasyfikacja drużynowa całych zawodów): Puchar Świata / Kontynentalny, Puchar Europy / Drużynowe ME, IE 2015, DNA na IE 2019
+52;20;bieg drużynowy;TEAM;SUMMER;false;"{""io"",""old"",""fav""}";1900;Lekkoatletyka – bieg drużynowy (klasyfikacja drużynowa wg miejsc zawodników, IO 1900–1924: 5000 m, 4 mile, 3 mile, 3000 m)
+53;20;przełaj drużynowy;TEAM;SUMMER;false;"{""io"",""old""}";1912;Lekkoatletyka – przełaj drużynowy (klasyfikacja drużynowa biegu przełajowego, IO 1912–1924)
+54;20;4×2 km;RELAY;SUMMER;false;"{""new""}";;Lekkoatletyka – sztafeta przełajowa 4×2 km
+55;20;5+10+5+10+5+7,195;RELAY;SUMMER;false;"{""old""}";;Lekkoatletyka – sztafeta maratońska (ekiden) 5+10+5+10+5+7,195 km
+56;20;12,195+10+10+10;RELAY;SUMMER;false;"{""io"",""new""}";2024;Lekkoatletyka – sztafeta maratońska w chodzie 12,195+10+10+10 km
+57;21;Netball;GAME;SUMMER;false;"{""wg""}";;Netball – drużyny 7-osobowe, kosz bez tablicy
+58;22;cesta;TEAM;SUMMER;false;"{""io""}";1968;Pelota baskijska – cesta (wiklinowy kosz: cesta punta, remonte), zwykle pary, IO 1900: jedyny mecz Hiszpania – Francja skreślony (Francja wycofała się), Hiszpania zwycięzcą walkowerem – MKOl liczy jako oficjalne złoto dla Hiszpanii
+59;22;paleta;TEAM;SUMMER;false;"{""io""}";1968;Pelota baskijska – paleta (drewniana łopatka, piłka skórzana lub gumowa), zwykle pary
+60;22;ręką;TEAM;SUMMER;false;"{""io""}";1968;Pelota baskijska – ręką (pelota a mano), pojedynczo lub w parach
+61;23;Pesäpallo;GAME;SUMMER;false;{};;Pesäpallo (fiński baseball) – drużyny 9-osobowe
+62;24;FIEFF;GAME;SUMMER;false;{};;Piłka nożna FIEFF (Fédération Internationale Européenne de Football Féminin) – drużyny 11-osobowe kobiet, związek niezależny od FIFA, MŚ 1970 i 1971
+63;25;UIAFA;GAME;SUMMER;false;{};;Piłka nożna UIAFA (Union Internationale Amateur de Football Association) – drużyny 11-osobowe, związek konkurencyjny wobec FIFA, ME 1911
+64;26;Piłka nożna;GAME;SUMMER;false;"{""io"",""cla"",""ia"",""idw"",""fav""}";1900;Piłka nożna – drużyny 11-osobowe
+65;26;plażowa;GAME;SUMMER;false;"{""ie""}";;Piłka nożna plażowa (beach soccer) – drużyny 5-osobowe
+66;26;futsal;GAME;SUMMER;false;{};;Futsal FIFA – drużyny 5-osobowe
+67;27;futsal;GAME;SUMMER;false;{};;Futsal AMF (Asociación Mundial de Futsal) – drużyny 5-osobowe
+68;28;futsal;GAME;SUMMER;false;{};;Futsal FIFUSA (Federación Internacional de Fútbol de Salón) – drużyny 5-osobowe
+69;29;11-osobowa (field);GAME;SUMMER;false;"{""io"",""old""}";1936;Piłka ręczna 11-osobowa (field handball) – drużyny 11-osobowe, na otwartym boisku
+70;29;Piłka ręczna;GAME;SUMMER;false;"{""io"",""cla"",""ia"",""idw""}";1972;Piłka ręczna – drużyny 7-osobowe
+71;29;plażowa;GAME;SUMMER;false;"{""ie"",""wg""}";;Piłka ręczna plażowa (beach handball) – drużyny 4-osobowe
+72;30;4×50 yd;RELAY;SUMMER;false;"{""io""}";1904;Pływanie – sztafeta 4×50 jardów stylem dowolnym (1904)
+73;30;4×50 dow;RELAY;SUMMER;false;{};;Pływanie – sztafeta 4×50 m stylem dowolnym
+74;30;4×50 zm;RELAY;SUMMER;false;{};;Pływanie – sztafeta 4×50 m stylem zmiennym
+75;30;4×100 dow;RELAY;SUMMER;false;"{""io"",""ie"",""ia"",""idw""}";1912;Pływanie – sztafeta 4×100 m stylem dowolnym
+76;30;4×100 zm;RELAY;SUMMER;false;"{""io"",""ie"",""ia"",""idw""}";1960;Pływanie – sztafeta 4×100 m stylem zmiennym
+77;30;4×200 dow;RELAY;SUMMER;false;"{""io"",""ie"",""ia"",""idw""}";1908;Pływanie – sztafeta 4×200 m stylem dowolnym
+78;30;4×250 dow;RELAY;SUMMER;false;"{""ia""}";;Pływanie – sztafeta 4×250 m stylem dowolnym (1906)
+79;30;wody otwarte 4×1,5 km;RELAY;SUMMER;false;{};;Pływanie na wodach otwartych – sztafeta 4×1,5 km
+80;30;Piłka wodna;GAME;SUMMER;false;"{""io"",""cla"",""ie"",""wg"",""ia"",""idw""}";1900;Piłka wodna – drużyny 7-osobowe
+81;31;Polo;GAME;SUMMER;false;"{""io"",""old""}";1900;Polo – drużyny 4-osobowe, gra konna
+82;32;Polo rowerowe;GAME;SUMMER;false;{};;Polo rowerowe (bicycle polo) – polo na rowerach, kij do polo, dziś drużyny 3-osobowe (hardcourt)
+83;33;Przeciąganie liny;TEAM;SUMMER;false;"{""io"",""old"",""wg"",""ia""}";1900;Przeciąganie liny (tug of war) – drużyny 8-osobowe
+84;34;Rugby league;GAME;SUMMER;false;{};;Rugby league (International Rugby League) – drużyny 13-osobowe
+85;35;7;GAME;SUMMER;false;"{""io"",""new"",""ie"",""wg""}";2016;Rugby 7 (rugby sevens, World Rugby) – drużyny 7-osobowe
+86;35;Rugby union;GAME;SUMMER;false;"{""io"",""old"",""ia""}";1900;Rugby union (World Rugby) – drużyny 15-osobowe
+87;36;Sepak takraw;GAME;SUMMER;false;{};;Sepak takraw – drużyny 3-osobowe, siatkonoga z rattanową piłką
+88;37;plażowa;TEAM;SUMMER;false;"{""io"",""ie"",""wg"",""ia"",""idw""}";1996;Siatkówka plażowa – pary
+89;37;Siatkówka;GAME;SUMMER;false;"{""io"",""cla"",""ie"",""ia"",""idw""}";1964;Siatkówka – drużyny 6-osobowe
+90;38;Motoball;GAME;SUMMER;false;"{""ia"",""idw""}";;Motoball – drużyny 5-osobowe, piłka nożna na motocyklach
+91;38;Żużel drużynowo;TEAM;SUMMER;false;"{""fav""}";;Żużel – drużynowo (po 1 zawodniku z drużyny w biegu)
+92;38;Żużel indywidualnie;INDIVIDUAL;SUMMER;false;{};;Żużel – indywidualnie (konkurencja indywidualna, np. Grand Prix, IMŚ)
+93;38;Żużel mecz;TEAM;SUMMER;false;{};;Żużel – mecz (drużyna na drużynę, po 2 zawodników z drużyny w biegu)
+94;38;Żużel pary;TEAM;SUMMER;false;"{""fav""}";;Żużel – w parach (po 2 zawodników z drużyny w biegu)
+95;39;sztafeta;RELAY;SUMMER;false;"{""io"",""ie""}";2020;Triathlon – sztafeta (4 zawodników, każdy: pływanie + rower + bieg)
+96;40;Ultimate;GAME;SUMMER;false;"{""wg""}";;Ultimate (ultimate frisbee) – drużyny 7-osobowe, bezkontaktowe
+97;41;Unihokej;GAME;SUMMER;false;"{""wg""}";;Unihokej (floorball) – drużyny 6-osobowe
+98;42;Bandy;GAME;WINTER;false;"{""io"",""old""}";1952;Bandy – drużyny 11-osobowe, hokej z piłką na dużym lodowisku
+99;2;2×2;RELAY;WINTER;false;"{""fav""}";;Biathlon – sztafeta krótka / sprinterska (2 zawodników × 2 odcinki)
+100;2;4×6/7,5;RELAY;WINTER;false;"{""io"",""fav""}";1968;Biathlon – sztafeta 4×6 km (K) / 4×7,5 km (M)
+101;2;bieg drużynowy;TEAM;WINTER;false;"{""fav""}";;Biathlon – bieg drużynowy (4 zawodników biegnie razem)
+102;43;czwórki;TEAM;WINTER;false;"{""io"",""ia"",""idw""}";1924;Bobsleje – czwórki (4 zawodników)
+103;43;dwójki;TEAM;WINTER;false;"{""io"",""ia"",""idw""}";1932;Bobsleje – dwójki (2 zawodników)
+104;43;monobob;INDIVIDUAL;WINTER;false;"{""io""}";2022;Bobsleje – monobob (1 zawodnik), konkurencja indywidualna, IO od 2022 (kobiety)
+105;43;piątki;TEAM;WINTER;false;"{""io""}";1928;Bobsleje – piątki (5 zawodników), IO 1928
+106;44;Curling;GAME;WINTER;false;"{""io"",""old""}";1924;Curling – drużyny 4-osobowe
+107;44;pary;GAME;WINTER;false;"{""io"",""new""}";2018;Curling – pary (doubles)
+108;45;Curling bawarski (Eisstock);GAME;WINTER;false;{};;Curling bawarski (Eisstock, ice stock sport) – drużyny 4-osobowe
+109;46;3x3;GAME;WINTER;false;{};;Hokej na lodzie 3x3 – drużyny 3 na 3
+110;46;Hokej na lodzie;GAME;WINTER;false;"{""io"",""cla"",""ia"",""idw"",""fav""}";1920;Hokej na lodzie – drużyny 6-osobowe
+111;14;zimowa;TEAM;WINTER;false;"{""io"",""ia"",""idw""}";1924;Klasyfikacja medalowa – zimowa (ZIO, zimowe IDW)
+112;47;Łyżwiarstwo bieg drużynowy;TEAM;WINTER;false;"{""io""}";2006;Łyżwiarstwo szybkie – bieg drużynowy (team pursuit, 3 zawodników)
+113;47;Short track sztafeta;RELAY;WINTER;false;"{""io"",""ia"",""idw""}";1988;Short track – sztafeta 3000 m (K) / 5000 m (M) / 2000 m (mieszana)
+114;48;Biegi sprint drużynowy 2×3;RELAY;WINTER;false;"{""io""}";2006;Biegi narciarskie – sprint drużynowy (2 zawodników × 3 odcinki)
+115;48;Biegi sztafeta 4×5/10;RELAY;WINTER;false;"{""io""}";1936;Biegi narciarskie – sztafeta (4 zawodników: 2 odcinki stylem klasycznym, 2 dowolnym)
+116;48;Biegi sztafeta w parach;RELAY;WINTER;false;"{""ia"",""idw""}";;Biegi narciarskie – sztafeta w parach (2 zawodników, 15 km M / 12 km K), IDW 2000
+117;48;Kombinacja n. drużynowo 4×5 km;RELAY;WINTER;false;"{""io"",""ia"",""idw""}";1988;Kombinacja norweska – drużynowo (skoki + sztafeta biegowa 4×5 km)
+118;48;Skoki druż. 90;TEAM;WINTER;false;"{""io""}";2022;Skoki narciarskie – konkurs drużynowy na skoczni normalnej (4 zawodników), MŚ: mężczyźni 2001, 2005, 2011, kobiety od 2019, mieszane 2013–2023, IO mieszane od 2022
+119;48;Skoki druż. 120;TEAM;WINTER;false;"{""io"",""ie""}";1988;Skoki narciarskie – konkurs drużynowy na skoczni dużej (4 zawodników), MŚ mężczyzn od 1978 (1978 i 1984 Engelberg liczone jak zwykłe MŚ), mieszane od 2025, IO mężczyzn 1988–2022
+120;48;Skoki druż. 200;TEAM;WINTER;false;{};;Skoki narciarskie – konkurs drużynowy na skoczni mamuciej (4 zawodników), MŚ w lotach od 2004
+121;48;Skoki ind. 90;INDIVIDUAL;WINTER;false;"{""io""}";1924;Skoki narciarskie – indywidualnie, skocznia normalna (od 1924 jedyna, dawniej mała, ok. 40–100 m), IO od 1924
+122;48;Skoki ind. 120;INDIVIDUAL;WINTER;false;"{""io"",""ie""}";1964;Skoki narciarskie – indywidualnie, skocznia duża (wprowadzona w latach 60.), IO od 1964
+123;48;Skoki ind. 200;INDIVIDUAL;WINTER;false;{};;Skoki narciarskie – indywidualnie, skocznia mamucia (loty), MŚ w lotach od 1972
+124;48;Skoki pary 120;TEAM;WINTER;false;"{""io""}";2026;Skoki narciarskie – konkurs par (super team, 2 zawodników), skocznia duża, IO od 2026
+125;49;Patrol wojskowy;TEAM;WINTER;false;"{""io"",""old"",""fav""}";1924;Patrol wojskowy (military patrol) – bieg narciarski ze strzelaniem (4 zawodników), IO 1924, pokazowo 1928, 1936, 1948
+126;50;Amp futbol;GAME;SUMMER;true;"{""ie""}";;Amp futbol (amputee football) – drużyny 7-osobowe: 6 w polu po amputacji nogi, o kulach, bramkarz po amputacji ręki, IE 2023
+127;51;Goalball (3 os.);GAME;SUMMER;true;{};;Goalball – drużyny 3-osobowe, paraolimpijski, dla niewidomych
+128;51;Piłka nożna (5 os.);GAME;SUMMER;true;{};;Piłka nożna dla niewidomych (blind football) – drużyny 5-osobowe, paraolimpijska
+129;52;Koszykówka na wózkach;GAME;SUMMER;true;{};;Koszykówka na wózkach (wheelchair basketball) – drużyny 5-osobowe, paraolimpijska
+130;53;Rugby na wózkach;GAME;SUMMER;true;{};;Rugby na wózkach (wheelchair rugby) – drużyny 4-osobowe, paraolimpijskie
+131;54;Siatkówka na siedząco;GAME;SUMMER;true;{};;Siatkówka na siedząco (sitting volleyball) – drużyny 6-osobowe, paraolimpijska
+132;44;na wózkach;GAME;WINTER;true;{};;Curling na wózkach (wheelchair curling) – drużyny 4-osobowe, paraolimpijski
+133;44;na wózkach, pary;GAME;WINTER;true;{};;Curling na wózkach (wheelchair curling) – pary, paraolimpijski
+134;55;Hokej na sledgach;GAME;WINTER;true;{};;Hokej na sledgach (para ice hockey) – drużyny 6-osobowe, paraolimpijski

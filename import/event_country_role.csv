@@ -1,0 +1,1068 @@
+﻿event_id;country_id;role;cities;note
+1;220;HOST;"{""Ateny""}";
+2;214;HOST;"{""Paryż""}";
+3;100;HOST;"{""St. Louis""}";
+3;100;MOVED;"{""Chicago""}";przyznane 1901, przeniesione do St. Louis (wystawa światowa)
+3;96;MINE;"{""St. Louis""}";wszystkie konkurencje (Missouri – stan graniczny, gwiazda na fladze CSA)
+4;270;HOST;"{""Londyn"",""Hunters Quay""}";
+4;271;CANCELLED;"{""Rzym""}";przyznane 1904, rezygnacja 1906 (wybuch Wezuwiusza)
+4;258;MINE;"{""Hunters Quay""}";żeglarstwo (klasa 12 m)
+5;260;HOST;"{""Sztokholm""}";
+6;241;CANCELLED;"{""Berlin""}";odwołane – I wojna światowa
+7;200;HOST;"{""Antwerpia""}";
+7;223;COHOST;"{""Amsterdam""}";żeglarstwo – dokończenie konkurencji klasy 12 stóp na Buiten IJ
+8;214;HOST;"{""Paryż""}";
+9;223;HOST;"{""Amsterdam""}";
+10;100;HOST;"{""Los Angeles""}";
+11;241;HOST;"{""Berlin""}";
+12;157;CANCELLED;"{""Tokio""}";przyznane 1936, rezygnacja 1938 (wojna z Chinami)
+12;213;CANCELLED;"{""Helsinki""}";przeniesione z Tokio, odwołane – II wojna światowa
+13;270;CANCELLED;"{""Londyn""}";odwołane – II wojna światowa
+14;270;HOST;"{""Londyn""}";
+15;213;HOST;"{""Helsinki""}";
+16;274;HOST;"{""Melbourne""}";
+16;260;COHOST;"{""Sztokholm""}";jeździectwo przeniesione do Sztokholmu ze względu na przepisy o kwarantannie koni w Australii
+17;271;HOST;"{""Rzym""}";
+18;157;HOST;"{""Tokio"",""Karuizawa""}";Karuizawa – jeździectwo (WKKW)
+19;97;HOST;"{""Meksyk""}";
+20;247;HOST;"{""Monachium""}";
+21;95;HOST;"{""Montreal""}";
+22;273;HOST;"{""Moskwa"",""Leningrad"",""Tallinn"",""Kijów"",""Mińsk""}";Leningrad – piłka nożna
+22;212;MINE;"{""Tallinn""}";żeglarstwo (Estonia wtedy w ZSRR)
+22;263;MINE;"{""Kijów""}";piłka nożna – Ukraina wtedy w ZSRR
+22;202;MINE;"{""Mińsk""}";piłka nożna – Białoruś wtedy w ZSRR
+23;100;HOST;"{""Los Angeles""}";
+24;165;HOST;"{""Seul""}";
+25;222;HOST;"{""Barcelona""}";
+25;229;MINE;"{""Barcelona""}";
+26;100;HOST;"{""Atlanta"",""Waszyngton""}";Waszyngton – piłka nożna
+26;96;MINE;"{""Atlanta""}";Atlanta – większość dyscyplin, pozostałe (piłka nożna, softball, żeglarstwo, kajakarstwo górskie) w innych miastach stanów CSA
+27;274;HOST;"{""Sydney""}";
+28;220;HOST;"{""Ateny""}";
+29;145;HOST;"{""Pekin""}";
+29;151;COHOST;"{""Hongkong""}";jeździectwo
+30;270;HOST;"{""Londyn"",""Glasgow"",""Cardiff""}";
+30;258;MINE;"{""Glasgow""}";piłka nożna
+30;268;MINE;"{""Cardiff""}";piłka nożna
+31;79;HOST;"{""Rio de Janeiro""}";
+32;157;HOST;"{""Tokio"",""Sapporo""}";przełożone o rok – pandemia COVID-19, Sapporo – maraton i chód (przeniesione z Tokio z powodu upału), piłka nożna
+33;214;HOST;"{""Paryż""}";
+33;286;COHOST;"{""Teahupo'o""}";surfing
+33;286;MINE;"{""Teahupo'o""}";własna federacja surfingu i komitet stowarzyszony w ONOC, ale poza MKOl
+34;100;HOST;"{""Los Angeles""}";
+35;274;HOST;"{""Brisbane""}";
+36;241;CANCELLED;"{""Schwarzwald""}";Na początku lutego w Schwarzwaldzie miały się odbyć zawody sportów zimowych, w tym: hokej na lodzie, narciarstwo klasyczne, łyżwiarstwo szybkie i łyżwiarstwo figurowe
+37;214;HOST;"{""Chamonix""}";
+38;259;HOST;"{""St. Moritz""}";
+39;100;HOST;"{""Lake Placid""}";
+40;241;HOST;"{""Garmisch-Partenkirchen""}";
+41;157;CANCELLED;"{""Sapporo""}";przyznane 1937, rezygnacja 1938 (wojna z Chinami)
+41;259;CANCELLED;"{""St. Moritz""}";przeniesione z Sapporo, rezygnacja 1939 (spór o narciarstwo alpejskie)
+41;241;CANCELLED;"{""Garmisch-Partenkirchen""}";przyznane 1939, odwołane – II wojna światowa
+42;271;CANCELLED;"{""Cortina d'Ampezzo""}";odwołane – II wojna światowa
+43;259;HOST;"{""St. Moritz""}";
+44;243;HOST;"{""Oslo""}";
+45;271;HOST;"{""Cortina d'Ampezzo""}";
+46;100;HOST;"{""Squaw Valley""}";
+47;199;HOST;"{""Innsbruck""}";
+48;214;HOST;"{""Grenoble""}";
+49;157;HOST;"{""Sapporo""}";
+50;199;HOST;"{""Innsbruck""}";
+50;100;CANCELLED;"{""Denver""}";przyznane 1970, rezygnacja 1972 (referendum w Kolorado)
+51;100;HOST;"{""Lake Placid""}";
+52;228;HOST;"{""Sarajewo""}";
+52;204;MINE;"{""Sarajewo""}";wszystkie konkurencje – BiH wtedy w Jugosławii
+53;95;HOST;"{""Calgary""}";
+54;214;HOST;"{""Albertville""}";
+55;243;HOST;"{""Lillehammer""}";
+56;157;HOST;"{""Nagano"",""Karuizawa""}";Karuizawa – curling, pierwsze miasto z konkurencjami IO i ZIO
+57;100;HOST;"{""Salt Lake City""}";
+58;271;HOST;"{""Turyn""}";
+59;95;HOST;"{""Vancouver""}";
+60;248;HOST;"{""Soczi""}";
+61;165;HOST;"{""Pjongczang""}";
+62;145;HOST;"{""Pekin""}";
+63;271;HOST;"{""Mediolan"",""Cortina d'Ampezzo"",""Werona""}";Werona – ceremonia zamknięcia
+64;214;HOST;"{""Alpy Francuskie""}";oficjalnie region, bez jednego miasta
+65;100;HOST;"{""Salt Lake City""}";
+66;271;HOST;"{""Rzym""}";
+67;157;HOST;"{""Tokio""}";
+68;156;HOST;"{""Tel Awiw""}";
+69;247;HOST;"{""Heidelberg""}";
+70;95;HOST;"{""Toronto""}";
+71;223;HOST;"{""Arnhem""}";
+72;100;HOST;"{""Nowy Jork""}";Long Island: Uniondale (Hofstra University), Mitchel Park
+72;270;COHOST;"{""Stoke Mandeville""}";zawodnicy na wózkach
+72;100;MOVED;"{""Champaign""}";zawody na wózkach, rezygnacja Uniwersytetu Illinois III 1984 (finanse), przeniesione do Stoke Mandeville
+73;165;HOST;"{""Seul""}";
+74;222;HOST;"{""Barcelona"",""Madryt""}";Madryt – igrzyska dla niepełnosprawnych intelektualnie (po Barcelonie)
+74;229;MINE;"{""Barcelona""}";
+75;100;HOST;"{""Atlanta""}";
+75;96;MINE;"{""Atlanta""}";wszystkie konkurencje (Georgia)
+76;274;HOST;"{""Sydney""}";
+77;220;HOST;"{""Ateny""}";
+78;145;HOST;"{""Pekin""}";
+78;151;COHOST;"{""Hongkong""}";jeździectwo
+79;270;HOST;"{""Londyn""}";
+80;79;HOST;"{""Rio de Janeiro""}";
+81;157;HOST;"{""Tokio""}";przełożone o rok – pandemia COVID-19
+82;214;HOST;"{""Paryż""}";
+83;100;HOST;"{""Los Angeles""}";
+84;274;HOST;"{""Brisbane""}";
+85;260;HOST;"{""Örnsköldsvik""}";
+86;243;HOST;"{""Geilo""}";
+87;199;HOST;"{""Innsbruck""}";
+88;199;HOST;"{""Innsbruck""}";
+88;95;CANCELLED;"{""Calgary""}";rezygnacja – trudności finansowe i rekrutacyjne
+89;214;HOST;"{""Tignes"",""Albertville""}";
+90;243;HOST;"{""Lillehammer""}";
+91;157;HOST;"{""Nagano""}";
+92;100;HOST;"{""Salt Lake City""}";
+93;271;HOST;"{""Turyn""}";
+94;95;HOST;"{""Vancouver""}";
+95;248;HOST;"{""Soczi""}";
+96;165;HOST;"{""Pjongczang""}";
+97;145;HOST;"{""Pekin""}";
+98;271;HOST;"{""Mediolan"",""Cortina d'Ampezzo"",""Werona""}";Werona – ceremonia otwarcia
+99;214;HOST;"{""Alpy Francuskie""}";oficjalnie region, bez jednego miasta
+100;100;HOST;"{""Salt Lake City""}";
+101;100;HOST;"{""Santa Clara""}";
+102;270;HOST;"{""Londyn""}";
+103;247;HOST;"{""Karlsruhe""}";
+104;223;HOST;"{""Haga""}";
+105;213;HOST;"{""Lahti""}";
+105;55;CANCELLED;"{""Port Elizabeth""}";rezygnacja VIII 1994 – sytuacja polityczna w kraju
+106;157;HOST;"{""Akita""}";
+107;241;HOST;"{""Duisburg""}";
+108;186;HOST;"{""Kaohsiung""}";
+109;86;HOST;"{""Cali""}";
+110;245;HOST;"{""Wrocław"",""Świdnica"",""Szymanów"",""Trzebnica"",""Jelcz-Laskowice""}";
+110;261;MINE;"{""Wrocław"",""Świdnica"",""Szymanów"",""Trzebnica"",""Jelcz-Laskowice""}";Wrocław: prawie wszystkie dyscypliny, Świdnica: hokej inline, łyżwiarstwo figurowe na wrotkach, Szymanów: sporty lotnicze, Trzebnica: bieg na orientację, Jelcz-Laskowice: wioślarstwo halowe
+111;100;HOST;"{""Birmingham""}";Birmingham w stanie Alabama (USA), przełożone z 2021 – kolizja z przełożonymi IO Tokio (COVID-19)
+111;96;MINE;"{""Birmingham""}";wszystkie konkurencje (Alabama)
+112;145;HOST;"{""Chengdu""}";
+113;241;HOST;"{""Karlsruhe""}";
+114;220;HOST;"{""Ateny""}";
+115;214;HOST;"{""Paryż""}";
+116;222;CANCELLED;"{""Barcelona""}";odwołane 18 VII 1936 – wybuch wojny domowej
+116;229;MINE;"{""Barcelona""}";
+117;153;HOST;"{""Dżakarta""}";
+118;26;CANCELLED;"{""Kair""}";odwołane (przyczyny polityczne, napięcia na Bliskim Wschodzie), zamiast nich odbyły się w Phnom Penh (Kambodża) 1966 jako 1. Azjatyckie GANEFO, planowane 2. Azjatyckie GANEFO 1970 w Pekinie, potem w Pjongjangu, też się nie odbyło
+119;100;HOST;"{""Filadelfia"",""Hartford""}";Liberty Bell Classic (LA w Filadelfii) & USGF International Invitational (gimnastyka w Hartford)
+119;270;COHOST;"{""Goodwood""}";ujeżdżenie
+119;214;COHOST;"{""Fontainebleau""}";WKKW
+119;223;COHOST;"{""Rotterdam""}";festiwal skoków przez przeszkody
+120;273;HOST;"{""Moskwa"",""Tallinn""}";koszykówka M i K, hokej na trawie M, lekkoatletyka M, kolarstwo torowe, wioślarstwo, strzelectwo, pływanie
+120;208;COHOST;"{""Praga"",""Pilzno"",""Ołomuniec"",""Trenczyn""}";Praga – lekkoatletyka K, Pilzno – łucznictwo, Ołomuniec – gimnastyka sportowa
+120;118;COHOST;"{""Hawana""}";siatkówka M, piłka wodna, boks
+120;205;COHOST;"{""Warna"",""Sofia""}";Warna – siatkówka K, podnoszenie ciężarów, Sofia – gimnastyka artystyczna, zapasy st. wolny
+120;244;COHOST;"{""Rostock"",""Magdeburg"",""Schwerin"",""Berlin Wschodni"",""Schleiz"",""Forst""}";Rostock, Magdeburg, Schwerin – piłka ręczna M, Berlin Wschodni (Grünau) – kajakarstwo, Schleiz i Forst – kolarstwo szosowe
+120;245;COHOST;"{""Poznań"",""Warszawa"",""Sopot"",""Katowice"",""Wałbrzych"",""Drzonków""}";Poznań – hokej na trawie K, Warszawa – judo, pięciobój nowoczesny, Sopot – jeździectwo
+120;269;COHOST;"{""Budapeszt"",""Balaton""}";Budapeszt – skoki do wody, szermierka, zapasy st. klasyczny, Balaton – żeglarstwo (470, Finn)
+120;166;COHOST;"{""Pjongjang""}";tenis stołowy
+120;175;COHOST;"{""Ułan Bator""}";sambo
+120;212;MINE;"{""Tallinn""}";żeglarstwo (FD, Soling, Star, Tornado, Windglider) – Estonia wtedy w ZSRR
+120;256;MINE;"{""Trenczyn""}";piłka ręczna K – Słowacja wtedy w CzechoSłowacji
+120;261;MINE;"{""Katowice"",""Wałbrzych"",""Drzonków""}";Katowice – tenis, Wałbrzych, Drzonków – jeździectwo – Śląsk wtedy w Polsce
+120;218;MINE;"{""Sopot""}";teren dawnego Wolnego Miasta Gdańska
+121;273;HOST;"{""Moskwa""}";
+121;222;COHOST;"{""Madryt""}";koszykówka M = MŚ FIBA 1986, zaliczona do IDW
+122;100;HOST;"{""Seattle""}";
+123;248;HOST;"{""Sankt Petersburg""}";
+124;100;HOST;"{""Nowy Jork""}";
+125;100;HOST;"{""Lake Placid""}";
+126;274;HOST;"{""Brisbane""}";
+127;100;CANCELLED;"{""Phoenix""}";odwołane XII 2001 – koniec cyklu IDW
+128;95;CANCELLED;"{""Calgary""}";planowane 2. zimowe IDW (100-lecie prowincji Alberta), odwołane razem z całym cyklem
+129;139;HOST;"{""Baku""}";
+130;202;HOST;"{""Mińsk""}";
+130;223;CANCELLED;"{""Amsterdam"",""Haga"",""Eindhoven""}";kandydatura ogólnokrajowa, zatwierdzona przez EOC V 2015, rezygnacja VI 2015 – brak gwarancji finansowych (57,5 mln euro) i słabe zainteresowanie federacji
+131;245;HOST;"{""Kraków"",""Tarnów"",""Małopolska"",""Chorzów"",""Bielsko-Biała"",""Wrocław""}";Kraków: ceremonie, rugby 7, koszykówka 3×3 i inne, Tarnów: piłka ręczna plażowa, piłka nożna plażowa i inne, reszta w Małopolsce (i Rzeszów)
+131;216;MINE;"{""Kraków"",""Tarnów"",""Małopolska""}";teren dawnej Galicji i Lodomerii
+131;261;MINE;"{""Chorzów"",""Bielsko-Biała"",""Wrocław""}";Chorzów: lekkoatletyka (Stadion Śląski), Bielsko-Biała: karate, Wrocław: strzelectwo
+132;188;HOST;"{""Stambuł""}";
+133;90;HOST;"{""Montevideo""}";
+134;271;HOST;"{""Rzym"",""Bolonia"",""Florencja"",""Genua"",""Mediolan"",""Neapol"",""Triest"",""Turyn""}";
+134;262;MINE;"{""Triest""}";teren dawnego Wolnego Terytorium Triestu
+135;214;HOST;"{""Colombes"",""Antibes"",""Bordeaux"",""Hawr"",""Lille"",""Marsylia"",""Paryż"",""Reims"",""Strasburg"",""Tuluza""}";Colombes pod Paryżem, mecz w Lyonie odwołany (wycofanie Austrii)
+136;79;HOST;"{""Rio de Janeiro"",""São Paulo"",""Belo Horizonte"",""Porto Alegre"",""Recife"",""Kurytyba""}";
+137;259;HOST;"{""Berno"",""Bazylea"",""Genewa"",""Lozanna"",""Lugano"",""Zurych""}";
+138;260;HOST;"{""Solna"",""Borås"",""Eskilstuna"",""Göteborg"",""Halmstad"",""Helsingborg"",""Malmö"",""Norrköping"",""Örebro"",""Sandviken"",""Uddevalla"",""Västerås""}";Solna pod Sztokholmem
+139;80;HOST;"{""Santiago"",""Viña del Mar"",""Rancagua"",""Arica""}";
+140;197;HOST;"{""Londyn"",""Birmingham"",""Liverpool"",""Manchester"",""Middlesbrough"",""Sheffield"",""Sunderland""}";
+141;97;HOST;"{""Meksyk"",""Guadalajara"",""León"",""Puebla"",""Toluca""}";
+142;247;HOST;"{""Monachium"",""Berlin Zachodni"",""Dortmund"",""Düsseldorf"",""Frankfurt"",""Gelsenkirchen"",""Hamburg"",""Hanower"",""Stuttgart""}";
+142;201;MINE;"{""Berlin Zachodni""}";wtedy osobny twór polityczny
+143;77;HOST;"{""Buenos Aires"",""Kordoba"",""Mar del Plata"",""Mendoza"",""Rosario""}";
+144;222;HOST;"{""Madryt"",""Alicante"",""Elche"",""Gijón"",""Málaga"",""Oviedo"",""Sewilla"",""Walencja"",""Valladolid"",""Saragossa"",""Barcelona"",""Bilbao"",""Vigo"",""A Coruña""}";
+144;229;MINE;"{""Barcelona""}";
+144;231;MINE;"{""Bilbao""}";
+144;215;MINE;"{""Vigo"",""A Coruña""}";
+145;97;HOST;"{""Meksyk"",""Guadalajara"",""Irapuato"",""León"",""Monterrey"",""Nezahualcóyotl"",""Puebla"",""Querétaro"",""Toluca""}";
+145;86;CANCELLED;"{""Bogota"",""Medellín"",""Cali"",""Bucaramanga"",""Barranquilla"",""Pereira""}";przyznane 1974, rezygnacja 1982 (koszty), miasta planowane i/lub niepotwierdzone wg wszystkich źródeł: Pereira?, Barranquilla
+146;271;HOST;"{""Rzym"",""Bari"",""Bolonia"",""Cagliari"",""Florencja"",""Genua"",""Mediolan"",""Neapol"",""Palermo"",""Turyn"",""Udine"",""Werona""}";
+147;100;HOST;"{""Pasadena"",""Chicago"",""East Rutherford"",""Foxborough"",""Pontiac"",""Stanford"",""Waszyngton"",""Dallas"",""Orlando""}";Pasadena pod Los Angeles
+147;96;MINE;"{""Dallas"",""Orlando""}";
+148;214;HOST;"{""Saint-Denis"",""Bordeaux"",""Lens"",""Lyon"",""Marsylia"",""Montpellier"",""Nantes"",""Paryż"",""Saint-Étienne"",""Tuluza""}";Saint-Denis pod Paryżem
+149;157;HOST;"{""Jokohama"",""Kashima"",""Kobe"",""Niigata"",""Ōita"",""Osaka"",""Rifu"",""Saitama"",""Sapporo"",""Fukuroi""}";
+149;165;COHOST;"{""Seul"",""Pusan"",""Daegu"",""Daejeon"",""Gwangju"",""Incheon"",""Jeonju"",""Seogwipo"",""Suwon"",""Ulsan""}";mecz otwarcia w Seulu
+150;241;HOST;"{""Berlin"",""Dortmund"",""Frankfurt"",""Gelsenkirchen"",""Hamburg"",""Hanower"",""Kaiserslautern"",""Kolonia"",""Monachium"",""Norymberga"",""Stuttgart"",""Lipsk""}";
+150;244;MINE;"{""Lipsk""}";teren byłej NRD
+151;55;HOST;"{""Johannesburg"",""Bloemfontein"",""Durban"",""Kapsztad"",""Nelspruit"",""Polokwane"",""Port Elizabeth"",""Pretoria"",""Rustenburg""}";
+152;79;HOST;"{""Rio de Janeiro"",""Belo Horizonte"",""Brasília"",""Cuiabá"",""Fortaleza"",""Kurytyba"",""Manaus"",""Natal"",""Porto Alegre"",""Recife"",""Salvador"",""São Paulo""}";
+153;248;HOST;"{""Moskwa"",""Jekaterynburg"",""Kaliningrad"",""Kazań"",""Niżny Nowogród"",""Rostów nad Donem"",""Samara"",""Sankt Petersburg"",""Sarańsk"",""Soczi"",""Wołgograd""}";
+154;162;HOST;"{""Lusajl"",""Doha"",""Ar-Rajjan"",""Al-Wakra"",""Al-Chaur""}";rozegrane XI–XII 2022
+155;100;HOST;"{""Nowy Jork / New Jersey"",""Boston"",""Filadelfia"",""Los Angeles"",""San Francisco"",""Seattle"",""Atlanta"",""Dallas"",""Houston"",""Kansas City"",""Miami""}";finał w East Rutherford (New Jersey)
+155;95;COHOST;"{""Toronto"",""Vancouver""}";
+155;97;COHOST;"{""Meksyk"",""Guadalajara"",""Monterrey""}";mecz otwarcia w Meksyku
+155;96;MINE;"{""Atlanta"",""Dallas"",""Houston"",""Kansas City"",""Miami""}";Kansas City – stadion w Missouri
+156;222;HOST;"{""Madryt"",""Las Palmas"",""Saragossa"",""Sewilla"",""Barcelona"",""Bilbao"",""San Sebastián""}";HOST tymczasowo – miejsce finału nieustalone (Hiszpania albo Casablanca), HOST = kraj finału
+156;246;COHOST;"{""Lizbona"",""Porto""}";
+156;45;COHOST;"{""Casablanca"",""Agadir"",""Fez"",""Marrakesz"",""Rabat"",""Tanger""}";
+156;90;COHOST;"{""Montevideo""}";mecze na 100-lecie MŚ
+156;77;COHOST;"{""Buenos Aires""}";mecze na 100-lecie MŚ
+156;87;COHOST;"{""Asunción""}";mecze na 100-lecie MŚ
+156;229;MINE;"{""Barcelona""}";
+156;231;MINE;"{""Bilbao"",""San Sebastián""}";
+156;66;MINE;"{""Tanger""}";teren dawnej międzynarodowej strefy Tanger (1923–1956), Stadion Ibn Battuty
+157;137;HOST;"{""Rijad"",""Abha"",""Al-Chubar"",""Dżudda"",""Neom""}";
+158;283;HOST;"{""Auckland"",""Christchurch"",""Dunedin"",""Hamilton"",""Invercargill"",""Napier"",""Palmerston North"",""Rotorua"",""Wellington""}";
+158;274;COHOST;"{""Sydney"",""Brisbane""}";
+159;197;HOST;"{""Londyn"",""Gloucester"",""Leicester"",""Otley""}";finał na Twickenham
+159;258;COHOST;"{""Edynburg""}";
+159;268;COHOST;"{""Cardiff"",""Llanelli"",""Pontypool"",""Pontypridd""}";
+159;224;COHOST;"{""Dublin"",""Belfast""}";
+159;214;COHOST;"{""Paryż"",""Agen"",""Bayonne"",""Béziers"",""Brive"",""Grenoble"",""Tuluza"",""Villeneuve-d’Ascq""}";
+159;225;MINE;"{""Belfast""}";
+160;55;HOST;"{""Johannesburg"",""Bloemfontein"",""Durban"",""East London"",""Kapsztad"",""Port Elizabeth"",""Pretoria"",""Rustenburg"",""Stellenbosch""}";
+161;268;HOST;"{""Cardiff"",""Llanelli"",""Wrexham""}";
+161;197;COHOST;"{""Londyn"",""Bristol"",""Huddersfield"",""Leicester""}";
+161;258;COHOST;"{""Edynburg"",""Galashiels"",""Glasgow""}";
+161;224;COHOST;"{""Dublin"",""Limerick"",""Belfast""}";
+161;214;COHOST;"{""Saint-Denis"",""Béziers"",""Bordeaux"",""Lens"",""Tuluza""}";
+161;225;MINE;"{""Belfast""}";
+162;274;HOST;"{""Sydney"",""Adelaide"",""Brisbane"",""Canberra"",""Gosford"",""Launceston"",""Melbourne"",""Perth"",""Townsville"",""Wollongong""}";
+162;283;CANCELLED;{};odebrane 2002 – spór o reklamy na stadionach | brak danych o miastach
+163;214;HOST;"{""Saint-Denis"",""Bordeaux"",""Lens"",""Lyon"",""Marsylia"",""Montpellier"",""Nantes"",""Paryż"",""Saint-Étienne"",""Tuluza""}";Saint-Denis pod Paryżem
+163;268;COHOST;"{""Cardiff""}";
+163;258;COHOST;"{""Edynburg""}";
+164;283;HOST;"{""Auckland"",""Dunedin"",""Hamilton"",""Invercargill"",""Napier"",""Nelson"",""New Plymouth"",""Palmerston North"",""Rotorua"",""Wellington"",""Whangārei""}";mecze z Christchurch przeniesione po trzęsieniu ziemi (II 2011)
+165;197;HOST;"{""Londyn"",""Birmingham"",""Brighton"",""Exeter"",""Gloucester"",""Leeds"",""Leicester"",""Manchester"",""Milton Keynes"",""Newcastle""}";finał na Twickenham
+165;268;COHOST;"{""Cardiff""}";
+166;157;HOST;"{""Jokohama"",""Fukuoka"",""Hamamatsu"",""Kamaishi"",""Kobe"",""Kumagaya"",""Kumamoto"",""Nagoja"",""Ōita"",""Osaka"",""Sapporo"",""Tokio""}";
+167;214;HOST;"{""Saint-Denis"",""Bordeaux"",""Lille"",""Lyon"",""Marsylia"",""Nantes"",""Nicea"",""Saint-Étienne"",""Tuluza""}";Saint-Denis pod Paryżem
+168;274;HOST;"{""Sydney"",""Adelaide"",""Brisbane"",""Melbourne"",""Newcastle"",""Perth"",""Townsville""}";
+169;100;HOST;{};na razie brak danych o miastach
+170;260;HOST;"{""Malmö""}";tylko chód 50 km M (konkurencja usunięta z IO 1976), IAAF uznaje za MŚ, nienumerowane
+171;223;HOST;"{""Sittard""}";tylko 400 m ppł i 3000 m K (konkurencje spoza IO 1980), IAAF uznaje za MŚ, nienumerowane
+172;213;HOST;"{""Helsinki""}";
+173;271;HOST;"{""Rzym""}";
+174;157;HOST;"{""Tokio""}";
+175;241;HOST;"{""Stuttgart""}";
+176;260;HOST;"{""Göteborg""}";
+177;220;HOST;"{""Ateny""}";
+178;222;HOST;"{""Sewilla""}";
+179;95;HOST;"{""Edmonton""}";
+180;214;HOST;"{""Saint-Denis""}";Saint-Denis pod Paryżem
+181;213;HOST;"{""Helsinki""}";
+181;270;CANCELLED;"{""Londyn""}";rząd zrezygnował ze stadionu Picketts Lock (koszty), IAAF odebrała imprezę
+182;157;HOST;"{""Osaka""}";
+183;241;HOST;"{""Berlin""}";
+184;165;HOST;"{""Daegu""}";
+185;248;HOST;"{""Moskwa""}";
+186;145;HOST;"{""Pekin""}";
+187;270;HOST;"{""Londyn""}";
+188;162;HOST;"{""Doha""}";
+189;100;HOST;"{""Eugene""}";przełożone z 2021 – kolizja z przełożonymi IO Tokio (COVID-19)
+190;269;HOST;"{""Budapeszt""}";
+191;157;HOST;"{""Tokio""}";
+192;145;HOST;"{""Pekin""}";
+193;36;HOST;"{""Nairobi""}";
+194;241;HOST;"{""Monachium""}";
+195;241;HOST;"{""Berlin""}";finał w Berlinie (w Chamonix brak lodu)
+195;214;COHOST;"{""Chamonix""}";
+195;199;COHOST;"{""Wiedeń""}";
+196;245;HOST;"{""Krynica-Zdrój""}";
+196;216;MINE;"{""Krynica-Zdrój""}";teren dawnej Galicji i Lodomerii
+197;208;HOST;"{""Praga""}";
+198;271;HOST;"{""Mediolan""}";
+199;259;HOST;"{""Davos""}";
+200;270;HOST;"{""Londyn""}";
+201;208;HOST;"{""Praga""}";
+202;259;HOST;"{""Bazylea"",""Zurych""}";
+203;241;CANCELLED;"{""Garmisch-Partenkirchen""}";odwołane – II wojna światowa
+204;208;HOST;"{""Praga""}";
+205;260;HOST;"{""Sztokholm""}";
+206;270;HOST;"{""Londyn""}";
+207;214;HOST;"{""Paryż""}";
+208;259;HOST;"{""Zurych"",""Bazylea""}";
+209;260;HOST;"{""Sztokholm""}";
+210;247;HOST;"{""Krefeld"",""Dortmund"",""Düsseldorf"",""Kolonia""}";
+211;273;HOST;"{""Moskwa""}";
+212;243;HOST;"{""Oslo""}";
+213;208;HOST;"{""Praga"",""Brno"",""Kladno"",""Kolín"",""Mladá Boleslav"",""Bratysława"",""Ostrawa""}";
+213;256;MINE;"{""Bratysława""}";Słowacja wtedy w CzechoSłowacji
+213;261;MINE;"{""Ostrawa""}";Ostrawa-Witkowice
+214;259;HOST;"{""Genewa"",""Lozanna""}";
+215;100;HOST;"{""Colorado Springs"",""Denver""}";
+216;260;HOST;"{""Sztokholm""}";
+217;213;HOST;"{""Tampere""}";
+218;228;HOST;"{""Lublana""}";
+218;257;MINE;"{""Lublana""}";Słowenia wtedy w Jugosławii
+219;199;HOST;"{""Wiedeń""}";
+220;260;HOST;"{""Sztokholm""}";
+221;260;HOST;"{""Sztokholm""}";
+222;259;HOST;"{""Berno"",""Genewa""}";
+223;208;HOST;"{""Praga""}";
+224;273;HOST;"{""Moskwa""}";
+225;213;HOST;"{""Helsinki""}";
+226;247;HOST;"{""Düsseldorf"",""Monachium""}";
+227;245;HOST;"{""Katowice""}";
+227;261;MINE;"{""Katowice""}";
+228;199;HOST;"{""Wiedeń""}";
+229;208;HOST;"{""Praga""}";
+230;273;HOST;"{""Moskwa""}";
+231;260;HOST;"{""Sztokholm"",""Göteborg""}";
+232;213;HOST;"{""Helsinki"",""Tampere""}";
+233;247;HOST;"{""Monachium"",""Dortmund"",""Düsseldorf""}";
+234;208;HOST;"{""Praga""}";
+235;273;HOST;"{""Moskwa""}";
+236;199;HOST;"{""Wiedeń""}";
+237;260;HOST;"{""Sztokholm"",""Södertälje""}";
+238;259;HOST;"{""Berno"",""Fryburg""}";
+239;213;HOST;"{""Turku"",""Helsinki"",""Tampere""}";
+240;208;HOST;"{""Praga"",""Bratysława""}";
+240;256;MINE;"{""Bratysława""}";Słowacja wtedy w CzechoSłowacji
+241;241;HOST;"{""Monachium"",""Dortmund""}";
+242;271;HOST;"{""Mediolan"",""Bolzano"",""Canazei""}";
+243;260;HOST;"{""Sztokholm"",""Gävle""}";
+244;199;HOST;"{""Wiedeń""}";
+245;213;HOST;"{""Helsinki"",""Tampere"",""Turku""}";
+246;259;HOST;"{""Zurych"",""Bazylea""}";
+247;243;HOST;"{""Lillehammer"",""Hamar"",""Oslo""}";
+248;248;HOST;"{""Sankt Petersburg""}";
+249;241;HOST;"{""Hanower"",""Kolonia"",""Norymberga""}";
+250;260;HOST;"{""Göteborg"",""Jönköping"",""Karlstad""}";
+251;213;HOST;"{""Helsinki"",""Tampere"",""Turku""}";
+252;209;HOST;"{""Praga"",""Ostrawa""}";
+252;261;MINE;"{""Ostrawa""}";Ostrawa-Witkowice
+253;199;HOST;"{""Wiedeń"",""Innsbruck""}";
+254;235;HOST;"{""Ryga""}";
+255;248;HOST;"{""Moskwa"",""Mytiszczi""}";
+256;95;HOST;"{""Quebec"",""Halifax""}";
+257;259;HOST;"{""Berno"",""Kloten""}";
+258;241;HOST;"{""Kolonia"",""Gelsenkirchen"",""Mannheim""}";
+259;256;HOST;"{""Bratysława"",""Koszyce""}";
+260;213;HOST;"{""Helsinki""}";
+260;260;COHOST;"{""Sztokholm""}";
+261;260;HOST;"{""Sztokholm""}";
+261;213;COHOST;"{""Helsinki""}";
+262;202;HOST;"{""Mińsk""}";
+263;209;HOST;"{""Praga"",""Ostrawa""}";
+263;261;MINE;"{""Ostrawa""}";Ostrawa-Witkowice
+264;248;HOST;"{""Moskwa"",""Sankt Petersburg""}";
+265;241;HOST;"{""Kolonia""}";
+265;214;COHOST;"{""Paryż""}";
+266;211;HOST;"{""Kopenhaga"",""Herning""}";
+267;256;HOST;"{""Bratysława"",""Koszyce""}";
+268;259;CANCELLED;"{""Zurych"",""Lozanna""}";odwołane – pandemia COVID-19
+269;235;HOST;"{""Ryga""}";
+269;202;CANCELLED;"{""Mińsk""}";współgospodarz (z Łotwą) odebrany I 2021 – protesty po wyborach na Białorusi
+270;213;HOST;"{""Tampere"",""Helsinki""}";
+271;213;HOST;"{""Tampere""}";
+271;235;COHOST;"{""Ryga""}";
+271;248;CANCELLED;"{""Sankt Petersburg""}";odebrane IV 2022 – agresja Rosji na Ukrainę
+272;209;HOST;"{""Praga"",""Ostrawa""}";
+272;261;MINE;"{""Ostrawa""}";Ostrawa-Witkowice
+273;260;HOST;"{""Sztokholm""}";
+273;211;COHOST;"{""Herning""}";
+274;259;HOST;"{""Zurych"",""Fryburg""}";
+275;241;HOST;"{""Düsseldorf"",""Mannheim""}";
+276;214;HOST;"{""Paryż"",""Lyon""}";
+277;256;HOST;"{""Bratysława"",""Koszyce""}";
+278;213;HOST;"{""Helsinki""}";HOST tymczasowo – miejsce finału nieustalone, HOST = kraj finału
+278;235;COHOST;"{""Ryga""}";
+279;214;HOST;"{""Paryż""}";IAAF World Indoor Games, liczone jako 1. HMŚ
+280;100;HOST;"{""Indianapolis""}";
+281;269;HOST;"{""Budapeszt""}";
+282;222;HOST;"{""Sewilla""}";
+283;95;HOST;"{""Toronto""}";
+284;222;HOST;"{""Barcelona""}";
+284;229;MINE;"{""Barcelona""}";
+285;214;HOST;"{""Paryż""}";
+286;157;HOST;"{""Maebashi""}";
+287;246;HOST;"{""Lizbona""}";
+288;270;HOST;"{""Birmingham""}";
+289;269;HOST;"{""Budapeszt""}";
+290;248;HOST;"{""Moskwa""}";
+291;222;HOST;"{""Walencja""}";
+292;162;HOST;"{""Doha""}";
+293;188;HOST;"{""Stambuł""}";
+294;245;HOST;"{""Sopot""}";
+294;218;MINE;"{""Sopot""}";teren dawnego Wolnego Miasta Gdańska
+295;100;HOST;"{""Portland""}";
+296;270;HOST;"{""Birmingham""}";
+297;253;HOST;"{""Belgrad""}";
+298;270;HOST;"{""Glasgow""}";
+298;258;MINE;"{""Glasgow""}";
+299;145;HOST;"{""Nankin""}";przyznane na 2020, przełożone na 2021 i 2023, ostatecznie 2025 – pandemia COVID-19
+300;245;HOST;"{""Toruń""}";
+301;152;HOST;"{""Bhubaneswar""}";
+302;163;HOST;"{""Astana""}";
+303;214;HOST;"{""Paryż"",""Marsylia""}";
+304;222;HOST;"{""Madryt"",""Barcelona""}";
+304;229;MINE;"{""Barcelona""}";
+305;271;HOST;"{""Rzym"",""Florencja"",""Neapol""}";
+306;200;HOST;"{""Bruksela"",""Antwerpia"",""Liège""}";
+307;228;HOST;"{""Belgrad"",""Zagrzeb""}";
+307;206;MINE;"{""Zagrzeb""}";Chorwacja wtedy w Jugosławii
+308;271;HOST;"{""Rzym"",""Mediolan"",""Neapol"",""Turyn""}";
+309;214;HOST;"{""Paryż"",""Lens"",""Lyon"",""Marsylia"",""Nantes"",""Saint-Étienne"",""Strasburg""}";
+310;247;HOST;"{""Monachium"",""Düsseldorf"",""Frankfurt"",""Gelsenkirchen"",""Hamburg"",""Hanower"",""Kolonia"",""Stuttgart""}";
+311;260;HOST;"{""Göteborg"",""Malmö"",""Norrköping"",""Solna""}";
+312;197;HOST;"{""Londyn"",""Birmingham"",""Leeds"",""Liverpool"",""Manchester"",""Newcastle"",""Nottingham"",""Sheffield""}";
+313;223;HOST;"{""Rotterdam"",""Amsterdam"",""Arnhem"",""Eindhoven""}";
+313;200;COHOST;"{""Bruksela"",""Brugia"",""Charleroi"",""Liège""}";mecz otwarcia w Brukseli
+314;246;HOST;"{""Lizbona"",""Aveiro"",""Braga"",""Coimbra"",""Faro"",""Guimarães"",""Leiria"",""Porto""}";
+315;199;HOST;"{""Wiedeń"",""Innsbruck"",""Klagenfurt"",""Salzburg""}";
+315;259;COHOST;"{""Bazylea"",""Berno"",""Genewa"",""Zurych""}";mecz otwarcia w Bazylei
+316;263;HOST;"{""Kijów"",""Charków"",""Donieck"",""Lwów""}";
+316;245;COHOST;"{""Warszawa"",""Gdańsk"",""Poznań"",""Wrocław""}";mecz otwarcia w Warszawie
+316;216;MINE;"{""Lwów""}";teren dawnej Galicji i Lodomerii
+316;218;MINE;"{""Gdańsk""}";teren dawnego Wolnego Miasta Gdańska
+316;261;MINE;"{""Wrocław""}";
+317;214;HOST;"{""Saint-Denis"",""Bordeaux"",""Lens"",""Lille"",""Lyon"",""Marsylia"",""Nicea"",""Paryż"",""Saint-Étienne"",""Tuluza""}";Saint-Denis pod Paryżem
+318;197;HOST;"{""Londyn""}";przełożone o rok – pandemia COVID-19, turniej w 11 krajach
+318;258;COHOST;"{""Glasgow""}";
+318;139;COHOST;"{""Baku""}";
+318;211;COHOST;"{""Kopenhaga""}";
+318;223;COHOST;"{""Amsterdam""}";
+318;222;COHOST;"{""Sewilla""}";zamiast Bilbao
+318;241;COHOST;"{""Monachium""}";
+318;248;COHOST;"{""Sankt Petersburg""}";
+318;250;COHOST;"{""Bukareszt""}";
+318;269;COHOST;"{""Budapeszt""}";
+318;271;COHOST;"{""Rzym""}";mecz otwarcia
+318;222;MOVED;"{""Bilbao""}";usunięte IV 2021 – brak gwarancji kibiców (COVID-19), mecze do Sewilli
+318;200;CANCELLED;"{""Bruksela""}";usunięta 2017 – brak nowego stadionu
+318;224;CANCELLED;"{""Dublin""}";usunięty IV 2021 – brak gwarancji kibiców (COVID-19)
+318;231;MINE;"{""Bilbao""}";
+319;241;HOST;"{""Berlin"",""Dortmund"",""Düsseldorf"",""Frankfurt"",""Gelsenkirchen"",""Hamburg"",""Kolonia"",""Monachium"",""Stuttgart"",""Lipsk""}";
+319;244;MINE;"{""Lipsk""}";teren byłej NRD
+320;197;HOST;"{""Londyn"",""Birmingham"",""Liverpool"",""Manchester"",""Newcastle""}";
+320;258;COHOST;"{""Glasgow""}";
+320;268;COHOST;"{""Cardiff""}";
+320;224;COHOST;"{""Dublin""}";
+320;225;CANCELLED;"{""Belfast""}";Casement Park usunięty z listy 2024 – brak stadionu
+321;271;HOST;{};HOST tymczasowo – finał nieustalony | na razie brak danych o miastach
+321;188;COHOST;{};na razie brak danych o miastach
+322;271;HOST;"{""Turyn""}";tylko mężczyźni
+323;214;HOST;"{""Paryż""}";mężczyźni
+324;241;HOST;"{""Wiedeń""}";kobiety, Wiedeń po Anschlussie w III Rzeszy
+324;199;MINE;"{""Wiedeń""}";Austria wtedy w III Rzeszy
+325;243;HOST;"{""Oslo""}";
+326;200;HOST;"{""Bruksela""}";
+327;259;HOST;"{""Berno""}";
+328;260;HOST;"{""Sztokholm""}";
+329;228;HOST;"{""Belgrad""}";
+330;269;HOST;"{""Budapeszt""}";
+331;220;HOST;"{""Pireus""}";
+332;213;HOST;"{""Helsinki""}";
+333;271;HOST;"{""Rzym""}";
+334;208;HOST;"{""Praga""}";
+335;220;HOST;"{""Ateny""}";
+336;247;HOST;"{""Stuttgart""}";
+337;228;HOST;"{""Split""}";
+337;206;MINE;"{""Split""}";Chorwacja wtedy w Jugosławii
+338;213;HOST;"{""Helsinki""}";
+339;269;HOST;"{""Budapeszt""}";
+340;241;HOST;"{""Monachium""}";
+341;260;HOST;"{""Göteborg""}";
+342;222;HOST;"{""Barcelona""}";
+342;229;MINE;"{""Barcelona""}";
+343;213;HOST;"{""Helsinki""}";
+344;259;HOST;"{""Zurych""}";
+345;223;HOST;"{""Amsterdam""}";
+346;241;HOST;"{""Berlin""}";
+347;214;CANCELLED;"{""Paryż""}";odwołane – pandemia COVID-19
+348;241;HOST;"{""Monachium""}";
+349;271;HOST;"{""Rzym""}";
+350;270;HOST;"{""Birmingham""}";
+351;245;HOST;"{""Chorzów""}";
+351;261;MINE;"{""Chorzów""}";
+352;259;HOST;"{""Montreux"",""Les Avants""}";lodowisko w Les Avants, w górach nad Montreux
+353;241;HOST;"{""Berlin""}";
+354;203;HOST;"{""Praga""}";turniej anulowany przez LIHG – Austria nie była jeszcze członkiem
+355;241;HOST;"{""Monachium""}";
+356;241;HOST;"{""Berlin""}";
+357;260;HOST;"{""Sztokholm""}";
+358;259;HOST;"{""St. Moritz""}";
+359;200;HOST;"{""Antwerpia""}";
+360;271;HOST;"{""Mediolan""}";
+361;208;HOST;"{""Stary Smokowiec"",""Szczyrbskie Jezioro""}";
+361;256;MINE;"{""Stary Smokowiec"",""Szczyrbskie Jezioro""}";Słowacja wtedy w CzechoSłowacji
+362;259;HOST;"{""Davos""}";
+363;199;HOST;"{""Wiedeń""}";
+364;269;HOST;"{""Budapeszt""}";
+365;241;HOST;"{""Berlin""}";
+366;259;HOST;"{""Bazylea""}";mecz o tytuł ME 5 III 1939 (Szwajcaria – CzechoSłowacja), osobny turniej dwóch drużyn po MŚ 1939, w których obie drużyny miały równe punkty
+367;247;HOST;"{""Dortmund""}";
+368;208;HOST;"{""Praga""}";
+369;222;HOST;"{""Madryt""}";
+370;228;HOST;"{""Belgrad""}";
+371;199;HOST;"{""Wiedeń""}";
+372;205;HOST;"{""Sofia""}";
+373;214;HOST;"{""Grenoble""}";
+374;223;HOST;"{""Rotterdam""}";
+375;260;HOST;"{""Göteborg""}";
+376;245;HOST;"{""Katowice""}";
+376;261;MINE;"{""Katowice""}";
+377;247;HOST;"{""Monachium""}";
+378;222;HOST;"{""San Sebastián""}";
+378;231;MINE;"{""San Sebastián""}";
+379;271;HOST;"{""Mediolan""}";
+380;199;HOST;"{""Wiedeń""}";
+381;247;HOST;"{""Sindelfingen""}";
+382;214;HOST;"{""Grenoble""}";
+383;271;HOST;"{""Mediolan""}";
+384;269;HOST;"{""Budapeszt""}";
+385;260;HOST;"{""Göteborg""}";
+386;220;HOST;"{""Pireus""}";
+387;222;HOST;"{""Madryt""}";
+388;214;HOST;"{""Liévin""}";
+389;269;HOST;"{""Budapeszt""}";
+390;223;HOST;"{""Haga""}";
+391;270;HOST;"{""Glasgow""}";
+391;258;MINE;"{""Glasgow""}";
+392;271;HOST;"{""Genua""}";
+393;214;HOST;"{""Paryż""}";
+394;260;HOST;"{""Sztokholm""}";
+395;222;HOST;"{""Walencja""}";
+396;200;HOST;"{""Gandawa""}";
+397;199;HOST;"{""Wiedeń""}";
+398;222;HOST;"{""Madryt""}";
+399;270;HOST;"{""Birmingham""}";
+400;271;HOST;"{""Turyn""}";
+401;214;HOST;"{""Paryż""}";
+402;260;HOST;"{""Göteborg""}";
+403;209;HOST;"{""Praga""}";
+404;253;HOST;"{""Belgrad""}";
+405;270;HOST;"{""Glasgow""}";
+405;258;MINE;"{""Glasgow""}";
+406;245;HOST;"{""Toruń""}";
+407;188;HOST;"{""Stambuł""}";
+408;223;HOST;"{""Apeldoorn""}";
+409;222;HOST;"{""Walencja""}";
+410;241;HOST;"{""Berlin""}";turniej FIRA przed IO 1936
+411;214;HOST;"{""Paryż""}";turniej FIRA podczas wystawy światowej
+412;250;HOST;"{""Bukareszt""}";
+413;271;HOST;"{""Mediolan""}";
+414;271;HOST;"{""Rzym"",""Neapol"",""Parma""}";
+461;222;HOST;"{""Badajoz""}";
+462;214;HOST;"{""Paryż""}";
+463;150;HOST;"{""Tbilisi""}";
+464;222;HOST;"{""Leganés"",""Madryt""}";
+465;95;HOST;"{""Montreal"",""Ottawa"",""Quebec"",""Toronto"",""Winnipeg""}";
+465;100;COHOST;"{""Filadelfia""}";
+466;95;HOST;"{""Montreal"",""Edmonton"",""Ottawa"",""Winnipeg""}";
+467;95;HOST;"{""Edmonton"",""Calgary"",""Halifax"",""London"",""Montreal"",""Vancouver""}";London w Ontario
+467;100;COHOST;"{""Buffalo""}";
+468;95;HOST;"{""Hamilton"",""Calgary"",""Halifax"",""Montreal"",""Regina"",""Sydney""}";Sydney w Nowej Szkocji
+468;100;COHOST;"{""Hartford""}";
+469;95;HOST;"{""Hamilton"",""Montreal"",""Quebec"",""Saskatoon"",""Toronto""}";finał: Montreal i Hamilton (decydujący mecz)
+469;100;COHOST;"{""Chicago"",""Detroit"",""Pittsburgh""}";
+470;95;HOST;"{""Montreal"",""Ottawa"",""Vancouver""}";finał: Filadelfia i Montreal (decydujący mecz)
+470;100;COHOST;"{""Filadelfia"",""Nowy Jork""}";
+470;260;COHOST;"{""Sztokholm""}";
+470;213;COHOST;"{""Helsinki""}";
+470;209;COHOST;"{""Praga""}";
+470;241;COHOST;"{""Garmisch-Partenkirchen""}";
+471;95;HOST;"{""Toronto"",""Montreal""}";
+471;100;COHOST;"{""Saint Paul""}";
+471;260;COHOST;"{""Sztokholm""}";
+471;213;COHOST;"{""Helsinki""}";
+471;209;COHOST;"{""Praga""}";
+471;241;COHOST;"{""Kolonia""}";
+472;95;HOST;"{""Toronto""}";
+473;95;HOST;"{""Edmonton"",""Calgary""}";
+473;209;COHOST;"{""Praga""}";
+474;90;HOST;"{""Montevideo""}";30 XII 1980 – 10 I 1981, na 50-lecie pierwszych MŚ (Urugwaj 1930)
+475;137;HOST;"{""Rijad""}";rozegrany jako Puchar Króla Fahda
+476;137;HOST;"{""Rijad""}";rozegrany jako Puchar Króla Fahda
+477;137;HOST;"{""Rijad""}";
+478;97;HOST;"{""Meksyk"",""Guadalajara""}";
+479;157;HOST;"{""Jokohama"",""Ibaraki"",""Niigata""}";
+479;165;COHOST;"{""Daegu"",""Suwon"",""Ulsan""}";
+480;214;HOST;"{""Saint-Denis"",""Lyon"",""Paryż"",""Saint-Étienne""}";Saint-Denis pod Paryżem
+481;241;HOST;"{""Frankfurt"",""Hanower"",""Kolonia"",""Norymberga"",""Lipsk""}";
+481;244;MINE;"{""Lipsk""}";teren byłej NRD
+482;55;HOST;"{""Johannesburg"",""Bloemfontein"",""Pretoria"",""Rustenburg""}";
+483;79;HOST;"{""Rio de Janeiro"",""Belo Horizonte"",""Brasília"",""Fortaleza"",""Recife"",""Salvador""}";
+484;248;HOST;"{""Sankt Petersburg"",""Kazań"",""Moskwa"",""Soczi""}";
+485;246;HOST;"{""Porto"",""Guimarães""}";
+486;271;HOST;"{""Mediolan"",""Turyn""}";
+487;223;HOST;"{""Rotterdam"",""Enschede""}";
+488;241;HOST;"{""Monachium"",""Stuttgart""}";
+489;104;HOST;"{""Nassau""}";
+490;104;HOST;"{""Nassau""}";
+491;104;HOST;"{""Nassau""}";
+492;157;HOST;"{""Jokohama""}";
+493;245;HOST;"{""Chorzów""}";
+493;261;MINE;"{""Chorzów""}";
+494;104;HOST;"{""Nassau""}";
+495;145;HOST;"{""Kanton""}";
+496;19;HOST;"{""Gaborone""}";
+497;104;HOST;"{""Nassau""}";
+498;197;HOST;"{""Londyn""}";
+499;214;HOST;"{""Roubaix""}";w ramach wystawy Nord 1911, nieoficjalne ME UIAFA (związek konkurencyjny wobec FIFA)
+500;200;HOST;"{""Bruksela""}";turniej LIHG przy kongresie, obok ME
+501;259;HOST;"{""St. Moritz""}";turniej LIHG przy kongresie, obok ME
+502;214;HOST;"{""Chamonix""}";turniej LIHG przy kongresie, obok ME, nazywany też Coupe de Chamonix
+503;145;HOST;"{""Kanton"",""Foshan"",""Jiangmen"",""Zhongshan""}";
+504;260;HOST;"{""Solna"",""Gävle"",""Helsingborg"",""Karlstad"",""Västerås""}";
+505;100;HOST;"{""Pasadena"",""Chicago"",""East Rutherford"",""Foxborough"",""Landover"",""Portland"",""San Jose"",""Stanford""}";
+506;100;HOST;"{""Carson"",""Columbus"",""Foxborough"",""Filadelfia"",""Portland"",""Waszyngton""}";
+507;145;HOST;"{""Szanghaj"",""Chengdu"",""Hangzhou"",""Tianjin"",""Wuhan""}";
+508;241;HOST;"{""Frankfurt"",""Augsburg"",""Berlin"",""Bochum"",""Leverkusen"",""Mönchengladbach"",""Sinsheim"",""Wolfsburg"",""Drezno""}";
+508;244;MINE;"{""Drezno""}";teren byłej NRD
+509;95;HOST;"{""Vancouver"",""Edmonton"",""Moncton"",""Montreal"",""Ottawa"",""Winnipeg""}";
+510;214;HOST;"{""Lyon"",""Grenoble"",""Hawr"",""Montpellier"",""Nicea"",""Paryż"",""Reims"",""Rennes"",""Valenciennes""}";
+511;274;HOST;"{""Sydney"",""Adelaide"",""Brisbane"",""Melbourne"",""Perth""}";
+511;283;COHOST;"{""Auckland"",""Dunedin"",""Hamilton"",""Wellington""}";
+512;79;HOST;"{""Belo Horizonte"",""Brasília"",""Fortaleza"",""Porto Alegre"",""Recife"",""Rio de Janeiro"",""Salvador"",""São Paulo""}";
+513;100;HOST;{};HOST tymczasowo – finał nieustalony | na razie brak danych o miastach
+513;97;COHOST;{};na razie brak danych o miastach
+513;117;COHOST;{};na razie brak danych o miastach
+513;115;COHOST;{};na razie brak danych o miastach
+514;197;HOST;{};HOST tymczasowo – finał nieustalony | na razie brak danych o miastach
+514;258;COHOST;{};na razie brak danych o miastach
+514;268;COHOST;{};na razie brak danych o miastach
+514;225;COHOST;{};na razie brak danych o miastach
+515;145;HOST;"{""Kanton"",""Foshan"",""Jiangmen"",""Panyu""}";
+516;271;HOST;"{""Turyn"",""Bari"",""Bolonia"",""Genua"",""Mediolan"",""Neapol"",""Salerno""}";
+517;97;HOST;"{""Meksyk"",""Guadalajara""}";
+519;243;HOST;"{""Oslo"",""Drammen"",""Moss""}";
+520;247;HOST;"{""Osnabrück"",""Lüdenscheid"",""Siegen""}";
+521;211;HOST;"{""Aalborg"",""Frederikshavn"",""Hjørring""}";
+522;271;HOST;"{""Cesena"",""Cesenatico"",""Rimini"",""Santa Sofia""}";
+523;241;HOST;"{""Kaiserslautern""}";
+524;243;HOST;"{""Oslo"",""Lillestrøm"",""Moss""}";
+524;260;COHOST;"{""Karlskoga"",""Karlstad""}";
+525;241;HOST;"{""Ulm"",""Aalen"",""Reutlingen"",""Erfurt"",""Jena""}";
+525;244;MINE;"{""Erfurt"",""Jena""}";teren byłej NRD
+526;197;HOST;"{""Blackburn"",""Blackpool"",""Manchester"",""Preston"",""Warrington""}";
+527;213;HOST;"{""Helsinki"",""Lahti"",""Tampere"",""Turku""}";
+528;260;HOST;"{""Solna"",""Göteborg"",""Halmstad"",""Kalmar"",""Linköping"",""Norrköping"",""Växjö""}";
+529;223;HOST;"{""Enschede"",""Breda"",""Deventer"",""Doetinchem"",""Rotterdam"",""Tilburg"",""Utrecht""}";
+530;197;HOST;"{""Londyn"",""Brighton"",""Leigh"",""Manchester"",""Milton Keynes"",""Rotherham"",""Sheffield"",""Southampton""}";
+531;259;HOST;"{""Bazylea"",""Berno"",""Genewa"",""Lucerna"",""St. Gallen"",""Sion"",""Thun"",""Zurych""}";
+532;241;HOST;"{""Monachium"",""Dortmund"",""Düsseldorf"",""Frankfurt"",""Hanower"",""Kolonia"",""Wolfsburg"",""Lipsk""}";
+532;244;MINE;"{""Lipsk""}";teren byłej NRD
+533;222;HOST;"{""Sewilla""}";
+533;214;COHOST;"{""Lyon""}";
+533;223;COHOST;"{""Heerenveen""}";
+535;95;HOST;"{""Ottawa""}";
+536;213;HOST;"{""Tampere""}";
+537;100;HOST;"{""Lake Placid""}";
+538;95;HOST;"{""Kitchener"",""Brampton"",""Brantford"",""Hamilton"",""London"",""Mississauga"",""North York""}";
+539;213;HOST;"{""Espoo"",""Vantaa""}";
+540;95;HOST;"{""Mississauga"",""Barrie"",""Kitchener"",""London"",""Niagara Falls"",""Oshawa"",""Peterborough""}";
+541;100;HOST;"{""Minneapolis"",""Blaine"",""Fridley"",""Plymouth"",""Rochester"",""St. Cloud""}";
+542;145;CANCELLED;"{""Pekin""}";odwołane – epidemia SARS
+543;95;HOST;"{""Halifax"",""Dartmouth""}";
+544;260;HOST;"{""Linköping"",""Norrköping""}";
+545;95;HOST;"{""Winnipeg"",""Selkirk""}";
+546;145;HOST;"{""Harbin""}";
+547;213;HOST;"{""Hämeenlinna""}";
+548;259;HOST;"{""Zurych"",""Winterthur""}";
+549;100;HOST;"{""Burlington""}";
+550;95;HOST;"{""Ottawa""}";
+551;260;HOST;"{""Malmö""}";
+552;95;HOST;"{""Kamloops""}";
+553;100;HOST;"{""Plymouth""}";
+554;213;HOST;"{""Espoo""}";
+555;95;CANCELLED;"{""Halifax"",""Truro""}";odwołane – pandemia COVID-19
+556;95;HOST;"{""Calgary""}";
+557;211;HOST;"{""Herning"",""Frederikshavn""}";
+558;95;HOST;"{""Brampton""}";
+559;100;HOST;"{""Utica""}";
+560;209;HOST;"{""Czeskie Budziejowice""}";
+561;211;HOST;"{""Herning"",""Esbjerg""}";
+562;95;HOST;"{""Quebec""}";
+563;259;HOST;{};na razie brak danych o miastach
+564;95;HOST;{};na razie brak danych o miastach
+565;247;HOST;"{""Düsseldorf"",""Ratingen""}";
+566;208;HOST;"{""Frýdek-Místek"",""Hawierzów""}";
+566;261;MINE;"{""Hawierzów"",""Frýdek-Místek""}";
+567;211;HOST;"{""Esbjerg""}";
+568;235;HOST;"{""Ryga""}";
+569;248;HOST;"{""Jarosławl""}";
+570;95;HOST;"{""Ottawa"",""Cornwall"",""Kingston"",""Smiths Falls""}";
+570;100;COHOST;"{""Canton""}";
+571;100;HOST;"{""Lake Placid"",""Burlington"",""Saratoga Springs""}";
+571;95;COHOST;"{""Ottawa"",""Belleville""}";
+572;213;HOST;"{""Kuortane""}";
+573;95;HOST;"{""Montreal"",""Sherbrooke""}";
+574;100;HOST;"{""Provo""}";
+575;213;HOST;"{""Hämeenlinna"",""Mikkeli"",""Tampere"",""Vierumäki""}";
+576;95;HOST;"{""Kitchener"",""Mississauga""}";
+577;260;HOST;"{""Skövde""}";
+578;100;HOST;"{""Lake Placid"",""Burlington""}";
+579;213;HOST;"{""Hämeenlinna"",""Salo"",""Tampere""}";
+580;95;HOST;"{""Kitchener""}";
+581;260;HOST;"{""Leksand""}";
+582;100;HOST;"{""Lake Placid""}";
+583;213;HOST;"{""Tikkurila"",""Helsinki"",""Kerava"",""Mikkeli"",""Vierumäki""}";
+584;95;HOST;"{""Clarenville"",""St. John’s""}";
+584;98;MINE;"{""Clarenville"",""St. John’s""}";
+585;260;HOST;"{""Nyköping""}";
+586;213;HOST;"{""Kerava"",""Tikkurila""}";
+587;100;HOST;"{""Lake Placid""}";
+588;95;HOST;"{""Kamloops""}";
+589;260;HOST;"{""Sundsvall""}";
+590;213;HOST;"{""Järvenpää"",""Kerava"",""Vierumäki""}";
+591;100;HOST;"{""Tampa""}";
+591;96;MINE;"{""Tampa""}";Floryda
+592;95;HOST;"{""Saskatoon""}";
+593;260;CANCELLED;"{""Luleå""}";odwołany – spór szwedzkiego związku z reprezentantkami
+594;268;HOST;"{""Cardiff"",""Aberavon"",""Llanharan"",""Pontypool"",""Swansea""}";
+595;258;HOST;"{""Edynburg"",""Galashiels"",""Kirkcaldy"",""Melrose"",""Milngavie"",""Stirling""}";
+596;223;HOST;"{""Amsterdam""}";
+597;222;HOST;"{""Barcelona"",""Cornellà de Llobregat"",""Girona"",""Sant Boi de Llobregat"",""Saragossa""}";
+597;229;MINE;"{""Barcelona"",""Cornellà de Llobregat"",""Girona"",""Sant Boi de Llobregat""}";
+598;95;HOST;"{""Edmonton"",""St. Albert""}";
+599;197;HOST;"{""Londyn"",""Guildford""}";
+600;214;HOST;"{""Paryż"",""Marcoussis""}";
+601;224;HOST;"{""Belfast"",""Dublin""}";
+601;225;MINE;"{""Belfast""}";
+602;283;HOST;"{""Auckland"",""Whangārei""}";przełożone z 2021 – pandemia COVID-19
+603;197;HOST;"{""Londyn"",""Brighton"",""Bristol"",""Exeter"",""Northampton"",""Salford"",""Sunderland"",""York""}";
+604;274;HOST;{};na razie brak danych o miastach
+605;100;HOST;{};na razie brak danych o miastach
+606;214;HOST;"{""Bourg-en-Bresse""}";
+607;271;HOST;"{""Treviso""}";
+608;222;HOST;"{""Madryt""}";
+609;214;HOST;"{""Nicea""}";
+610;271;HOST;"{""Belluno""}";
+611;222;HOST;"{""Almería"",""El Ejido"",""Roquetas de Mar"",""Vera""}";
+612;214;HOST;"{""Lille"",""Armentières"",""Hazebrouck"",""Marquette-lez-Lille"",""Roubaix"",""Tourcoing"",""Villeneuve-d’Ascq""}";
+613;271;HOST;"{""Treviso"",""San Donà di Piave""}";
+614;260;HOST;"{""Malmö""}";
+615;214;HOST;"{""Tuluza"",""Aucamville"",""Balma"",""Beaumont-de-Lomagne"",""Castelsarrasin"",""Castres"",""L’Union"",""Quint-Fonsegrives"",""Saint-Jean-du-Falga"",""Saint-Orens"",""Tournefeuille"",""Villefranche-de-Lauragais""}";
+616;241;HOST;"{""Hamburg""}";
+617;271;HOST;"{""San Donà di Piave""}";
+618;222;HOST;"{""Madryt""}";
+619;223;HOST;"{""Amsterdam"",""Drachten"",""Leiden""}";
+620;260;HOST;"{""Enköping"",""Sztokholm""}";
+621;214;HOST;"{""Strasburg"",""Colmar"",""Haguenau"",""Illkirch-Graffenstaden"",""Longwy"",""Metz"",""Sélestat"",""Verdun""}";
+622;222;HOST;"{""A Coruña"",""Ferrol"",""Oleiros"",""Vilagarcía de Arousa""}";
+622;215;MINE;"{""A Coruña"",""Ferrol"",""Oleiros"",""Vilagarcía de Arousa""}";
+623;271;HOST;"{""Rovereto""}";
+624;222;HOST;"{""Madryt""}";
+625;200;HOST;"{""Bruksela""}";
+626;259;HOST;"{""Unterägeri""}";
+627;222;HOST;"{""Madryt""}";
+628;200;HOST;"{""Waterloo""}";
+629;222;HOST;"{""Madryt""}";
+629;223;COHOST;"{""Amsterdam""}";
+629;241;COHOST;"{""Bonn""}";
+636;283;HOST;"{""Auckland"",""Dunedin"",""Wellington""}";
+637;95;HOST;"{""Vancouver"",""Langley""}";
+638;269;HOST;"{""Budapeszt""}";
+639;222;HOST;"{""Madryt""}";
+639;246;COHOST;"{""Lizbona""}";
+639;245;COHOST;"{""Sopot""}";
+639;218;MINE;"{""Sopot""}";teren dawnego Wolnego Miasta Gdańska
+641;273;HOST;"{""Moskwa"",""Leningrad"",""Woskriesiensk""}";
+642;273;HOST;"{""Moskwa""}";
+643;273;HOST;"{""Moskwa""}";
+644;273;HOST;"{""Moskwa""}";
+645;273;HOST;"{""Moskwa""}";
+646;273;HOST;"{""Moskwa""}";
+647;273;HOST;"{""Moskwa""}";
+649;273;HOST;"{""Moskwa""}";
+650;273;HOST;"{""Moskwa""}";
+651;273;HOST;"{""Moskwa""}";
+652;273;HOST;"{""Moskwa""}";
+653;273;HOST;"{""Moskwa""}";
+654;273;HOST;"{""Moskwa""}";
+655;273;HOST;"{""Moskwa""}";
+656;273;HOST;"{""Moskwa""}";
+657;273;HOST;"{""Moskwa""}";
+658;273;HOST;"{""Moskwa""}";
+659;273;HOST;"{""Moskwa""}";
+660;273;HOST;"{""Moskwa""}";
+661;273;HOST;"{""Moskwa""}";
+662;273;HOST;"{""Moskwa""}";
+663;273;HOST;"{""Moskwa""}";
+664;273;HOST;"{""Moskwa""}";
+665;213;COHOST;"{""Helsinki""}";
+665;248;COHOST;"{""Moskwa""}";
+665;260;COHOST;"{""Sztokholm""}";
+666;209;COHOST;"{""Zlín""}";
+666;213;COHOST;"{""Helsinki""}";
+666;248;COHOST;"{""Moskwa""}";
+666;260;COHOST;"{""Sztokholm""}";
+667;209;COHOST;"{""Zlín""}";
+667;213;COHOST;"{""Helsinki""}";
+667;248;COHOST;"{""Moskwa""}";
+667;260;COHOST;"{""Sztokholm""}";
+668;209;COHOST;"{""Zlín""}";
+668;213;COHOST;"{""Helsinki"",""Espoo""}";
+668;248;COHOST;"{""Moskwa""}";
+668;260;COHOST;"{""Sztokholm""}";
+669;209;COHOST;"{""Zlín"",""Pardubice""}";
+669;213;COHOST;"{""Helsinki""}";
+669;248;COHOST;"{""Moskwa""}";
+669;260;COHOST;"{""Sztokholm"",""Jönköping""}";
+670;209;COHOST;"{""Zlín""}";
+670;213;COHOST;"{""Helsinki""}";
+670;248;COHOST;"{""Moskwa""}";
+670;260;COHOST;"{""Sztokholm""}";
+671;209;COHOST;"{""Zlín"",""Pardubice""}";
+671;213;COHOST;"{""Helsinki"",""Espoo""}";
+671;248;COHOST;"{""Moskwa""}";
+671;260;COHOST;"{""Sztokholm"",""Karlstad""}";
+672;209;COHOST;"{""Pardubice"",""Praga""}";
+672;213;COHOST;"{""Helsinki""}";
+672;248;COHOST;"{""Moskwa""}";
+672;260;COHOST;"{""Sztokholm"",""Nyköping""}";
+673;209;COHOST;"{""Litvínov""}";
+673;213;COHOST;"{""Helsinki"",""Tampere""}";
+673;248;COHOST;"{""Moskwa""}";
+673;260;COHOST;"{""Sztokholm"",""Linköping""}";
+674;260;HOST;"{""Sztokholm"",""Jönköping""}";
+674;209;COHOST;"{""Liberec"",""Praga""}";
+674;213;COHOST;"{""Helsinki""}";
+674;248;COHOST;"{""Moskwa""}";
+675;209;COHOST;"{""Liberec"",""Praga""}";
+675;213;COHOST;"{""Helsinki""}";
+675;248;COHOST;"{""Moskwa""}";
+675;260;COHOST;"{""Sztokholm"",""Linköping"",""Gävle""}";
+676;209;COHOST;"{""Liberec"",""Praga""}";
+676;213;COHOST;"{""Helsinki"",""Tampere""}";
+676;248;COHOST;"{""Moskwa""}";
+676;260;COHOST;"{""Sztokholm"",""Jönköping""}";
+677;209;COHOST;"{""Liberec"",""Praga""}";
+677;213;COHOST;"{""Helsinki"",""Tampere""}";
+677;248;COHOST;"{""Moskwa""}";
+677;260;COHOST;"{""Sztokholm"",""Malmö""}";
+678;209;COHOST;"{""Karlowe Wary"",""Praga""}";
+678;213;COHOST;"{""Helsinki""}";
+678;248;COHOST;"{""Moskwa"",""Podolsk""}";
+678;260;COHOST;"{""Sztokholm"",""Jönköping""}";
+679;209;COHOST;"{""Brno"",""Czeskie Budziejowice""}";
+679;213;COHOST;"{""Helsinki"",""Espoo""}";
+679;248;COHOST;"{""Moskwa"",""Mytiszczi""}";
+679;260;COHOST;"{""Sztokholm"",""Malmö""}";
+680;209;COHOST;"{""Brno"",""Chomutov""}";
+680;213;COHOST;"{""Helsinki""}";
+680;248;COHOST;"{""Moskwa"",""Sankt Petersburg""}";
+680;260;COHOST;"{""Sztokholm"",""Örnsköldsvik""}";
+681;209;COHOST;"{""Brno"",""Praga""}";
+681;213;COHOST;"{""Turku"",""Helsinki""}";
+681;248;COHOST;"{""Moskwa"",""Sankt Petersburg""}";
+681;260;COHOST;"{""Malmö"",""Jönköping""}";
+682;209;COHOST;"{""Pardubice"",""Praga""}";
+682;213;COHOST;"{""Helsinki""}";
+682;248;COHOST;"{""Soczi"",""Sankt Petersburg""}";
+682;260;COHOST;"{""Sztokholm"",""Gävle""}";
+683;209;COHOST;"{""Praga"",""Karlowe Wary"",""Znojmo"",""Brno""}";
+683;213;COHOST;"{""Helsinki"",""Tampere""}";
+683;248;COHOST;"{""Soczi"",""Mytiszczi""}";
+683;260;COHOST;"{""Leksand"",""Västerås"",""Sztokholm"",""Umeå"",""Timrå""}";
+684;209;COHOST;"{""Praga"",""Trzyniec"",""Ostrawa"",""Znojmo""}";
+684;213;COHOST;"{""Helsinki"",""Oulu"",""Kouvola""}";
+684;248;COHOST;"{""Moskwa""}";
+684;260;COHOST;"{""Örnsköldsvik"",""Örebro"",""Sztokholm"",""Södertälje"",""Västerås""}";
+684;261;MINE;"{""Trzyniec"",""Ostrawa""}";
+685;209;COHOST;"{""Czeskie Budziejowice"",""Pilzno""}";
+685;213;COHOST;"{""Helsinki""}";
+685;248;COHOST;"{""Moskwa"",""Sankt Petersburg""}";
+685;260;COHOST;"{""Göteborg"",""Sztokholm""}";
+686;209;COHOST;"{""Pardubice"",""Praga""}";
+686;213;COHOST;"{""Helsinki""}";
+686;248;COHOST;"{""Moskwa"",""Jarosławl""}";
+686;260;COHOST;"{""Sztokholm"",""Södertälje"",""Örebro""}";
+686;259;COHOST;"{""Biel/Bienne""}";
+687;209;COHOST;"{""Brno"",""Praga""}";
+687;213;COHOST;"{""Helsinki"",""Tampere""}";
+687;248;COHOST;"{""Moskwa"",""Sankt Petersburg"",""Jarosławl""}";
+687;260;COHOST;"{""Sztokholm""}";
+688;209;COHOST;"{""Pilzno""}";
+688;213;COHOST;"{""Helsinki""}";
+688;248;COHOST;"{""Moskwa"",""Sankt Petersburg""}";
+688;260;COHOST;"{""Sztokholm"",""Leksand""}";
+689;209;COHOST;"{""Praga""}";
+689;213;COHOST;"{""Helsinki""}";
+689;248;COHOST;"{""Moskwa""}";
+689;260;COHOST;"{""Malmö""}";
+690;209;COHOST;"{""Ostrawa"",""Praga""}";
+690;213;COHOST;"{""Helsinki"",""Tampere""}";
+690;248;COHOST;"{""Moskwa""}";
+690;260;COHOST;"{""Sztokholm"",""Linköping""}";
+690;199;COHOST;"{""Wiedeń""}";
+690;261;MINE;"{""Ostrawa""}";
+691;209;COHOST;"{""Brno"",""Czeskie Budziejowice""}";
+691;213;COHOST;"{""Turku"",""Helsinki""}";
+691;260;COHOST;"{""Malmö"",""Göteborg""}";
+691;259;COHOST;"{""Fryburg"",""Zurych""}";
+692;209;COHOST;"{""Brno"",""Praga""}";
+692;213;COHOST;"{""Tampere""}";
+692;260;COHOST;"{""Karlstad"",""Karlskoga"",""Växjö""}";
+692;259;COHOST;"{""Zurych"",""Kloten""}";
+693;209;COHOST;"{""Brno"",""Pardubice"",""Karlowe Wary""}";
+693;213;COHOST;"{""Helsinki""}";
+693;260;COHOST;"{""Sztokholm""}";
+693;259;COHOST;"{""Fryburg"",""Langnau im Emmental"",""Kloten""}";
+694;209;COHOST;"{""Czeskie Budziejowice"",""Liberec""}";
+694;213;COHOST;"{""Tampere""}";
+694;260;COHOST;"{""Ängelholm""}";
+694;259;COHOST;"{""Zurych"",""Kloten""}";
+695;248;HOST;"{""Moskwa"",""Sankt Petersburg""}";
+696;248;HOST;"{""Moskwa""}";
+697;248;HOST;"{""Moskwa""}";
+698;248;HOST;"{""Moskwa""}";
+951;247;HOST;"{""Düsseldorf""}";
+952;95;HOST;"{""Montreal""}";
+953;271;HOST;"{""Rzym""}";
+954;274;HOST;"{""Canberra""}";
+955;222;HOST;"{""Barcelona""}";
+955;229;MINE;"{""Barcelona""}";
+956;118;HOST;"{""Hawana""}";
+957;270;HOST;"{""Londyn""}";
+958;55;HOST;"{""Johannesburg""}";
+959;222;HOST;"{""Madryt""}";
+960;220;HOST;"{""Ateny""}";
+961;206;HOST;"{""Split""}";
+962;45;HOST;"{""Marrakesz""}";
+963;209;HOST;"{""Ostrawa""}";
+963;261;MINE;"{""Ostrawa""}";Ostrawa-Witkowice
+964;247;HOST;"{""Stuttgart"",""Kassel""}";Stuttgart – mężczyźni, Kassel – kobiety
+965;273;HOST;"{""Kijów""}";
+965;263;MINE;"{""Kijów""}";Ukraina wtedy w ZSRR
+966;260;HOST;"{""Sztokholm""}";mężczyźni
+966;269;COHOST;"{""Budapeszt""}";kobiety
+967;270;HOST;"{""Edynburg""}";
+967;258;MINE;"{""Edynburg""}";
+968;214;HOST;"{""Nicea""}";
+969;213;HOST;"{""Helsinki""}";
+970;271;HOST;"{""Turyn""}";
+971;228;HOST;"{""Zagrzeb""}";
+971;206;MINE;"{""Zagrzeb""}";Chorwacja wtedy w Jugosławii
+972;270;HOST;"{""Londyn""}";
+973;273;HOST;"{""Moskwa""}";
+974;208;HOST;"{""Praga""}";
+975;270;HOST;"{""Gateshead""}";
+976;241;HOST;"{""Frankfurt nad Menem""}";
+977;271;HOST;"{""Rzym""}";
+978;270;HOST;"{""Birmingham""}";
+979;214;HOST;"{""Villeneuve-d’Ascq""}";
+980;222;HOST;"{""Madryt""}";
+981;241;HOST;"{""Monachium""}";
+982;248;HOST;"{""Sankt Petersburg""}";
+983;214;HOST;"{""Paryż""}";
+984;270;HOST;"{""Gateshead""}";
+985;241;HOST;"{""Brema""}";
+985;271;CANCELLED;"{""Florencja""}";stadion nie gotowy – organizację przeniesiono do Bremy
+986;214;HOST;"{""Annecy""}";
+987;271;HOST;"{""Florencja""}";
+988;245;HOST;"{""Bydgoszcz""}";
+989;271;HOST;"{""Florencja""}";
+990;222;HOST;"{""Malaga""}";
+991;241;HOST;"{""Monachium""}";
+992;214;HOST;"{""Annecy""}";
+993;246;HOST;"{""Leiria""}";
+994;243;HOST;"{""Bergen""}";
+995;260;HOST;"{""Sztokholm""}";
+996;270;HOST;"{""Gateshead""}";
+997;241;HOST;"{""Brunszwik""}";
+998;248;HOST;"{""Czeboksary""}";
+999;214;HOST;"{""Lille""}";
+1000;245;HOST;"{""Bydgoszcz""}";
+1001;245;HOST;"{""Chorzów""}";
+1001;261;MINE;"{""Chorzów""}";
+1002;245;HOST;"{""Chorzów""}";
+1002;261;MINE;"{""Chorzów""}";
+1003;222;HOST;"{""Madryt""}";
+1024;212;HOST;"{""Tallinn""}";
+1025;235;HOST;"{""Ryga""}";
+1026;233;HOST;"{""Kowno""}";
+1027;212;HOST;"{""Tallinn""}";
+1028;235;HOST;"{""Ryga""}";
+1029;233;HOST;"{""Kowno""}";
+1030;212;HOST;"{""Tallinn""}";
+1031;235;HOST;"{""Ryga""}";
+1032;233;HOST;"{""Kowno""}";
+1033;212;HOST;"{""Tallinn""}";
+1034;233;HOST;"{""Kłajpeda"",""Kretinga""}";
+1035;235;HOST;"{""Lipawa""}";
+1036;212;HOST;"{""Parnawa""}";
+1037;233;HOST;"{""Wilno""}";
+1038;235;HOST;"{""Ryga""}";
+1039;212;HOST;"{""Narwa""}";
+1040;233;HOST;"{""Wilno""}";
+1042;235;HOST;"{""Ryga""}";
+1043;212;HOST;"{""Valga"",""Tallinn""}";
+1044;233;HOST;"{""Kowno""}";
+1045;235;HOST;"{""Ryga"",""Jurmała""}";
+1046;233;HOST;"{""Kowno"",""Mariampol"",""Połąga"",""Kretinga""}";
+1047;212;HOST;"{""Tartu"",""Võru""}";
+1048;235;HOST;"{""Windawa"",""Lipawa""}";
+1052;235;HOST;"{""Ryga""}";
+1052;233;COHOST;"{""Kowno""}";
+1052;212;COHOST;"{""Tallinn""}";
+1053;233;HOST;"{""Kowno""}";
+1053;235;COHOST;"{""Lipawa""}";
+1053;212;COHOST;"{""Tallinn""}";
+1054;212;HOST;"{""Tallinn"",""Parnawa""}";
+1054;233;COHOST;"{""Kowno""}";
+1054;235;COHOST;"{""Ryga""}";
+1055;205;HOST;"{""Sofia""}";
+1056;205;HOST;"{""Sofia""}";
+1057;228;HOST;"{""Belgrad""}";
+1058;250;HOST;"{""Bukareszt""}";
+1059;220;HOST;"{""Ateny""}";
+1060;205;HOST;"{""Sofia""}";
+1061;250;HOST;"{""Bukareszt""}";
+1062;195;HOST;"{""Tirana""}";
+1088;241;HOST;{};brak danych o miastach
+1089;214;HOST;{};brak danych o miastach
+1090;259;HOST;{};brak danych o miastach
+1091;247;HOST;{};brak danych o miastach
+1092;199;HOST;{};brak danych o miastach
+1093;259;HOST;{};brak danych o miastach
+1094;199;HOST;{};brak danych o miastach
+1095;269;HOST;"{""Budapeszt""}";
+1096;247;HOST;{};brak danych o miastach
+1097;223;HOST;{};brak danych o miastach
+1098;252;HOST;"{""San Marino""}";
+1099;239;HOST;"{""Monako""}";
+1100;146;HOST;"{""Nikozja""}";
+1101;196;HOST;"{""Andora""}";
+1102;237;HOST;"{""Valletta""}";
+1103;234;HOST;"{""Luksemburg""}";
+1104;226;HOST;"{""Reykjavík""}";
+1105;232;HOST;"{""Vaduz""}";
+1106;252;HOST;"{""San Marino""}";
+1107;237;HOST;"{""Valletta""}";
+1108;196;HOST;"{""Andora""}";
+1109;239;HOST;"{""Monako""}";
+1110;146;HOST;"{""Nikozja""}";
+1111;232;HOST;"{""Vaduz""}";
+1112;234;HOST;"{""Luksemburg""}";
+1113;226;HOST;"{""Reykjavík""}";
+1114;252;HOST;"{""San Marino""}";
+1115;207;HOST;"{""Budva""}";
+1116;196;CANCELLED;"{""Andora""}";odwołane – COVID-19
+1117;237;HOST;"{""Valletta""}";
+1118;196;HOST;"{""Andora""}";
+1119;239;HOST;"{""Monako""}";
+1120;234;HOST;"{""Luksemburg""}";
+1121;146;HOST;{};na razie brak danych o miastach
+1122;237;HOST;"{""Marsa""}";
+1123;232;HOST;"{""Schaan""}";
+1124;252;HOST;"{""Serravalle""}";przełożone z 2020 – pandemia COVID-19
+1125;237;HOST;"{""Marsa""}";
+1126;219;HOST;"{""Gibraltar""}";
+1127;239;HOST;"{""Monako""}";

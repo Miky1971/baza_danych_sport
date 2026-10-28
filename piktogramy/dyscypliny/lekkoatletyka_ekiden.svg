@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Lekkoatletyka – sztafeta maratońska (ekiden) 5+10+5+10+5+7,195 km</title>
+  <rect width="64" height="64" rx="10" fill="#1565c0"/>
+  <g fill="none" stroke="#ffffff" stroke-width="1.6" opacity="0.75"><path d="M6 35 A25 25 0 0 1 31 60"/><path d="M6 29 A31 31 0 0 1 37 60"/><path d="M6 23 A37 37 0 0 1 43 60"/><path d="M6 17 A43 43 0 0 1 49 60"/></g>
+  <path d="M6.5 57.5 L12.5 44.5 M15 57.5 L21 44.5" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M11.31 56.29 L12.56 53.57 M13.12 52.36 L14.38 49.64 M14.94 48.43 L16.19 45.71" fill="none" stroke="#ffffff" stroke-width="1.6"/>
+  <rect x="3.6" y="5" width="56.4" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="31.8" y="13.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="4.75" font-weight="bold" fill="#1565c0">5+10+5+10+5+7,195</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Przesuń (4 kierunki)</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <path d="M32 10 L32 54 M10 32 L54 32" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M25 17 L32 10 L39 17 M25 47 L32 54 L39 47 M17 25 L10 32 L17 39 M47 25 L54 32 L47 39" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
