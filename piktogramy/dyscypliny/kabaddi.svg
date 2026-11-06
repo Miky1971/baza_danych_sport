@@ -3,6 +3,10 @@
   <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
   <rect x="7" y="12" width="50" height="40" fill="none" stroke="#ffffff" stroke-width="1.6" opacity="0.5"/>
   <path d="M32 12 L32 52" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="41" cy="20" r="3.4" fill="#ffffff"/>
-  <path d="M40.5 24.5 L38 35 M39.5 27.5 L32 30 M39.5 27.5 L47 31 M38 35 L33 44 M38 35 L45 43" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(-4 4)"><circle cx="41" cy="20" r="3.4" fill="#ffffff"/>
+  <path d="M40.5 24.5 L38 35 M39.5 27.5 L32 30 M39.5 27.5 L47 31 M38 35 L33 44 M38 35 L45 43" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <rect x="6.0" y="5" width="13.6" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="12.8" y="14.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" fill="#000000">7</text>
+  <rect x="39.8" y="5" width="20.2" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="49.9" y="14.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.00" font-weight="bold" fill="#000000">IKF</text>
 </svg>

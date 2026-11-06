@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Laser run – bieg ze strzelaniem (UIPM), MŚ</title>
+  <rect width="64" height="64" rx="10" fill="#2196f3"/>
+  <g transform="translate(-33 -4) scale(1)">
+  <circle cx="51" cy="25" r="3.4" fill="#ffffff"/>
+  <path d="M49.5 29.5 L46 39" fill="none" stroke="#ffffff" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46 39 L51 45 L49 52 M46 39 L41 45 L36 46" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M48.5 31.5 L53 35 M48.5 31.5 L43 33.5" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(-4 2)">
+  <rect x="30" y="23.4" width="9" height="2" rx="0.6" fill="#ffffff"/>
+  <polygon points="30.5,23.5 31.9,23.5 31.2,22" fill="#ffffff"/>
+  <rect x="37.5" y="22.6" width="7.4" height="4.2" rx="0.8" fill="#ffffff"/>
+  <circle cx="45.2" cy="23.3" r="1.6" fill="#ffffff"/>
+  <circle cx="41.6" cy="22.4" r="1" fill="#ffffff"/>
+  <path d="M40.4 26.6 L44.6 26.6 L46.4 33.6 L42.3 34.3 Z" fill="#ffffff"/>
+  <path d="M37.6 26.8 A1.75 1.75 0 0 0 41 27.3" fill="none" stroke="#ffffff" stroke-width="1.2"/>
+  </g>
+  <rect x="22.3" y="5" width="37.7" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="41.2" y="14.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.50" font-weight="bold" fill="#000000">laser run</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Hokej inline IIHF (MŚ 1996–2017), hala</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <path d="M24 10 L40 44 Q41.5 47 45 47 L52 47" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="49" cy="39.6" rx="4.8" ry="1.9" fill="#ffffff"/>
+  <rect x="44.2" y="37.6" width="9.6" height="2" fill="#ffffff"/>
+  <ellipse cx="49" cy="37.6" rx="4.8" ry="1.9" fill="#ffffff" stroke="#1e3a5f" stroke-width="0.8"/>
+  <path d="M12 38 L20 38 L21 45 L28.5 46.8 Q31 47.4 31 50 L12 50 Z" fill="#ffffff"/>
+  <path d="M12.5 51.3 L31 51.3" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="14.8" cy="54.3" r="2.3" fill="#ffffff"/><circle cx="14.8" cy="54.3" r="0.7" fill="#1e3a5f"/>
+  <circle cx="19.8" cy="54.3" r="2.3" fill="#ffffff"/><circle cx="19.8" cy="54.3" r="0.7" fill="#1e3a5f"/>
+  <circle cx="24.8" cy="54.3" r="2.3" fill="#ffffff"/><circle cx="24.8" cy="54.3" r="0.7" fill="#1e3a5f"/>
+  <circle cx="29.8" cy="54.3" r="2.3" fill="#ffffff"/><circle cx="29.8" cy="54.3" r="0.7" fill="#1e3a5f"/>
+  <g transform="translate(2 -16) scale(0.8)">
+  <path d="M8 57 L8 48.5 Q15.5 40 23 48.5 L23 57" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M6.5 57 L24.5 57" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="13.4" y="51" width="4.2" height="6" fill="#ffffff"/>
+  </g>
+  <rect x="49.0" y="5" width="11.0" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="54.5" y="14.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.00" font-weight="bold" fill="#000000">5</text>
+</svg>

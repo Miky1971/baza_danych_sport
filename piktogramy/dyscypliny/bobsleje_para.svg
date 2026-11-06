@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Bobsleje para (monobob para, prowadzi IBSF)</title>
+  <rect width="64" height="64" rx="10" fill="#2196f3"/>
+  <path d="M7 34 L44 34 Q52 34 56 40 Q58 44 54 46 L9 46 Q6 46 6 43 L6 36 Q6 34 7 34 Z" fill="#ffffff"/>
+  <path d="M12 39 L50 39" fill="none" stroke="#2196f3" stroke-width="1.4"/>
+  <path d="M8 52 L50 52 Q56 52 58 48" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M13 46 L13 52" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44 46 L44 52" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="38.0" cy="30.8" r="4.2" fill="#ffffff" stroke="#2196f3" stroke-width="1.2"/>
+
+  <g transform="translate(51 13) scale(0.78) translate(-50 -14)">
+  <circle cx="50" cy="14" r="10" fill="#f2a23a"/>
+  <g fill="none" stroke="#2196f3" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 10.5 L48 16 L53 16 L55 20.5"/>
+    <path d="M45 14.2 A4.6 4.6 0 1 0 52 19.8"/>
+  </g>
+  <circle cx="48" cy="7.6" r="1.7" fill="#2196f3"/>
+  </g>
+  <rect x="6.0" y="5" width="9.4" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="10.7" y="14.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.00" font-weight="bold" fill="#000000">1</text>
+</svg>

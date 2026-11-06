@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
   <title>Piłka ręczna plażowa (beach handball) – drużyny 4-osobowe</title>
   <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
-  <g transform="translate(5.68 8.38) scale(0.95)">
+  <g transform="translate(8.68 8.38) scale(0.95)">
   <g transform="rotate(-45 32 36)">
   <circle cx="32" cy="32" r="10" fill="#ffffff"/>
   <path d="M32 29 L17.6 13.1 M32 29 L25.8 8.0 M32 29 L35.5 7.3 M32 29 L44.3 11.2 " fill="none" stroke="#ffffff" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"/>
@@ -13,7 +13,10 @@
   <path d="M19.8 15.2 L23.0 18.3 M26.7 10.8 L28.1 15.1 M35.0 10.3 L34.2 14.7 M42.5 13.6 L39.7 17.1 M15.4 30.6 L19.8 29.7 " fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
   </g>
-  <circle cx="50" cy="14" r="10" fill="#f2a23a"/>
-  <circle cx="50" cy="14" r="3.4" fill="#1e3a5f"/>
-  <g stroke="#1e3a5f" stroke-width="1.5" stroke-linecap="round"><line x1="55.20" y1="14.00" x2="57.60" y2="14.00"/><line x1="53.68" y1="17.68" x2="55.37" y2="19.37"/><line x1="50.00" y1="19.20" x2="50.00" y2="21.60"/><line x1="46.32" y1="17.68" x2="44.63" y2="19.37"/><line x1="44.80" y1="14.00" x2="42.40" y2="14.00"/><line x1="46.32" y1="10.32" x2="44.63" y2="8.63"/><line x1="50.00" y1="8.80" x2="50.00" y2="6.40"/><line x1="53.68" y1="10.32" x2="55.37" y2="8.63"/></g>
+  <rect x="6.0" y="5" width="13.6" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="12.8" y="14.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" fill="#000000">4</text>
+  <g transform="translate(51 13) scale(0.78) translate(-50 -14)">
+  <circle cx="50" cy="14" r="5.2" fill="#f2a23a"/>
+  <g stroke="#f2a23a" stroke-width="2.4" stroke-linecap="round"><line x1="57.50" y1="14.00" x2="61.00" y2="14.00"/><line x1="55.30" y1="19.30" x2="57.78" y2="21.78"/><line x1="50.00" y1="21.50" x2="50.00" y2="25.00"/><line x1="44.70" y1="19.30" x2="42.22" y2="21.78"/><line x1="42.50" y1="14.00" x2="39.00" y2="14.00"/><line x1="44.70" y1="8.70" x2="42.22" y2="6.22"/><line x1="50.00" y1="6.50" x2="50.00" y2="3.00"/><line x1="55.30" y1="8.70" x2="57.78" y2="6.22"/></g>
+  </g>
 </svg>

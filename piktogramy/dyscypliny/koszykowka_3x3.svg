@@ -15,5 +15,5 @@
     <path d="M48.7 34.3 Q43.8 42 48.7 49.7"/>
   </g>
   <rect x="39.8" y="5" width="20.2" height="13" rx="3.5" fill="#f2a23a"/>
-  <text x="49.9" y="14.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.00" font-weight="bold" fill="#1e3a5f">3x3</text>
+  <text x="49.9" y="14.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.00" font-weight="bold" fill="#000000">3x3</text>
 </svg>

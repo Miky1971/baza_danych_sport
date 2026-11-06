@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Pięciobój zimowy – bieg narciarski, zjazd, strzelanie, szermierka, jazda konna, pokaz IO 1948</title>
+  <rect width="64" height="64" rx="10" fill="#2196f3"/>
+  <path d="M8 12 L8 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 12 L8 17" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="8" cy="43" rx="3.6" ry="1.4" fill="none" stroke="#ffffff" stroke-width="1.6"/>
+  <path d="M17 12 L17 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 12 L17 17" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="17" cy="43" rx="3.6" ry="1.4" fill="none" stroke="#ffffff" stroke-width="1.6"/>
+  <path d="M6 55 L52 55 Q57 55 58 51" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 51 L50 51 Q55 51 56 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+  <g transform="translate(-4 2)">
+  <rect x="30" y="23.4" width="9" height="2" rx="0.6" fill="#ffffff"/>
+  <polygon points="30.5,23.5 31.9,23.5 31.2,22" fill="#ffffff"/>
+  <rect x="37.5" y="22.6" width="7.4" height="4.2" rx="0.8" fill="#ffffff"/>
+  <circle cx="45.2" cy="23.3" r="1.6" fill="#ffffff"/>
+  <circle cx="41.6" cy="22.4" r="1" fill="#ffffff"/>
+  <path d="M40.4 26.6 L44.6 26.6 L46.4 33.6 L42.3 34.3 Z" fill="#ffffff"/>
+  <path d="M37.6 26.8 A1.75 1.75 0 0 0 41 27.3" fill="none" stroke="#ffffff" stroke-width="1.2"/>
+  </g>
+  <path d="M30 47 L56 24" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M33 41.5 L37 46" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(43 29) scale(0.36)">
+  <path d="M22.5 6.0 L23.5 6.0 L22.5 9.9 L27.4 11.8 L29.7 15.0 L34.8 19.4 L35.6 21.4 L35.6 23.5 L35.2 23.9 L34.4 23.9 L34.0 25.5 L32.8 26.3 L31.1 25.9 L28.4 24.1 L25.4 24.3 L21.7 23.3 L21.0 23.7 L21.5 25.5 L22.7 27.6 L27.4 31.9 L30.5 35.4 L32.1 39.1 L32.3 41.9 L29.5 43.2 L28.6 44.0 L18.8 44.0 L10.6 44.0 L9.5 43.0 L4.2 40.1 L4.2 37.6 L5.8 37.0 L5.0 36.2 L4.0 36.0 L4.2 33.5 L6.1 33.1 L5.8 32.7 L4.2 32.1 L4.2 30.0 L4.4 29.6 L6.1 29.4 L6.5 29.0 L4.6 28.2 L4.8 25.9 L6.9 25.5 L5.2 24.1 L6.1 22.0 L7.9 21.8 L7.7 21.2 L6.5 20.4 L7.3 18.5 L9.5 18.3 L8.5 17.1 L8.9 15.7 L9.8 14.8 L11.4 15.2 L11.6 14.6 L11.0 13.6 L12.6 12.2 L14.3 12.8 L14.5 10.9 L15.9 10.3 L16.7 10.3 L17.6 10.9 L20.2 7.4 Z" fill="#ffffff"/>
+  <circle cx="26.6" cy="15.5" r="1.4" fill="#2196f3"/>
+  </g>
+  <g transform="translate(-22 0)">
+  <g transform="translate(51 13) scale(0.78) translate(-50 -14)">
+  <g stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"><line x1="50" y1="14" x2="58.00" y2="14.00"/><line x1="54.80" y1="14.00" x2="57.10" y2="12.07"/><line x1="54.80" y1="14.00" x2="57.10" y2="15.93"/><line x1="50" y1="14" x2="54.00" y2="20.93"/><line x1="52.40" y1="18.16" x2="55.22" y2="19.18"/><line x1="52.40" y1="18.16" x2="51.88" y2="21.11"/><line x1="50" y1="14" x2="46.00" y2="20.93"/><line x1="47.60" y1="18.16" x2="48.12" y2="21.11"/><line x1="47.60" y1="18.16" x2="44.78" y2="19.18"/><line x1="50" y1="14" x2="42.00" y2="14.00"/><line x1="45.20" y1="14.00" x2="42.90" y2="15.93"/><line x1="45.20" y1="14.00" x2="42.90" y2="12.07"/><line x1="50" y1="14" x2="46.00" y2="7.07"/><line x1="47.60" y1="9.84" x2="44.78" y2="8.82"/><line x1="47.60" y1="9.84" x2="48.12" y2="6.89"/><line x1="50" y1="14" x2="54.00" y2="7.07"/><line x1="52.40" y1="9.84" x2="51.88" y2="6.89"/><line x1="52.40" y1="9.84" x2="55.22" y2="8.82"/></g>
+  </g>
+  </g>
+  <rect x="40.7" y="5" width="19.3" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="50.3" y="14.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.50" font-weight="bold" fill="#000000">ind.</text>
+</svg>

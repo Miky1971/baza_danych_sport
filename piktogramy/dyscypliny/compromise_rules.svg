@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>International Rules (compromise rules) – drużyny 15-osobowe (Irlandia – Australia), okrągła piłka, przepisy GAA i AFL</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <g transform="translate(4.88 17.50) scale(0.75)">
+  <g stroke="#ffffff" stroke-width="0.8" opacity="0.4"><line x1="14" y1="34" x2="14" y2="54"/><line x1="18" y1="34" x2="18" y2="54"/><line x1="22" y1="34" x2="22" y2="54"/><line x1="26" y1="34" x2="26" y2="54"/><line x1="10" y1="39" x2="28" y2="39"/><line x1="10" y1="44" x2="28" y2="44"/><line x1="10" y1="49" x2="28" y2="49"/></g>
+  <path d="M10 54 L10 10 M28 54 L28 10 M10 34 L28 34" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(29.88 17.50) scale(0.75)">
+  <path d="M8 54 L8 28" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M15 54 L15 12" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 54 L22 12" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M29 54 L29 28" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="7" y="3.5" width="50" height="20" rx="3.5" fill="#f2a23a"/>
+  <text x="32" y="12" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" fill="#000000">GAA + AFL</text>
+  <text x="32" y="20.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" fill="#000000">IR (CR)</text>
+</svg>

@@ -14,10 +14,12 @@
     <path d="M33.3 34.3 Q38.2 42 33.3 49.7"/>
     <path d="M48.7 34.3 Q43.8 42 48.7 49.7"/>
   </g>
+  <g transform="translate(51 13) scale(0.78) translate(-50 -14)">
   <circle cx="50" cy="14" r="10" fill="#f2a23a"/>
   <g fill="none" stroke="#1e3a5f" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
     <path d="M48 10.5 L48 16 L53 16 L55 20.5"/>
     <path d="M45 14.2 A4.6 4.6 0 1 0 52 19.8"/>
   </g>
   <circle cx="48" cy="7.6" r="1.7" fill="#1e3a5f"/>
+  </g>
 </svg>

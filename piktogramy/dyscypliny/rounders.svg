@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Rounders (GAA) – gra drużynowa kijem i piłką</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <g transform="translate(64 0) scale(-1 1)">
+  <g transform="translate(30 36) rotate(-45)"><path d="M-21 -1.2 L-6 -1.6 Q4 -3.8 16 -3.8 A3.8 3.8 0 0 1 16 3.8 Q4 3.8 -6 1.6 L-21 1.2 Z" fill="#ffffff"/><circle cx="-21.5" cy="0" r="2.4" fill="#ffffff"/></g>
+  <circle cx="46" cy="46" r="7" fill="#ffffff"/>
+  <g fill="none" stroke="#1e3a5f" stroke-width="1.2" stroke-linecap="round"><path d="M41.5 41.0 Q44.2 46 41.5 51.0"/><path d="M50.5 41.0 Q47.8 46 50.5 51.0"/></g>
+  </g>
+  <rect x="6.0" y="5" width="9.4" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="10.7" y="14.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.00" font-weight="bold" fill="#000000">R</text>
+  <rect x="39.8" y="5" width="20.2" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="49.9" y="14.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.00" font-weight="bold" fill="#000000">GAA</text>
+</svg>

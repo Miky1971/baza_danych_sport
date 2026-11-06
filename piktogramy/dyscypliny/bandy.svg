@@ -6,4 +6,6 @@
   <path d="M12 38 L20 38 L21 45 L28.5 46.8 Q31 47.4 31 50 L12 50 Z" fill="#ffffff"/>
   <path d="M12.8 50 L12.8 53 M28 50 L28 53" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M12.8 53 L31 53 Q33.5 53 33.5 51" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="40.8" y="5" width="19.2" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="50.4" y="14.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" fill="#000000">11</text>
 </svg>

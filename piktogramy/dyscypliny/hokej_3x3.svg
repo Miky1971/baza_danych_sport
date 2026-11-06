@@ -9,5 +9,5 @@
   <path d="M12.8 50 L12.8 53 M28 50 L28 53" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M12.8 53 L31 53 Q33.5 53 33.5 51" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="35.3" y="5" width="24.7" height="13" rx="3.5" fill="#f2a23a"/>
-  <text x="47.6" y="14.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" fill="#1e3a5f">3x3</text>
+  <text x="47.6" y="14.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" fill="#000000">3x3</text>
 </svg>

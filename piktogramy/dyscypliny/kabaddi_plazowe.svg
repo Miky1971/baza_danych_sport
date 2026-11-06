@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Kabaddi plażowe – drużyny 4-osobowe, na piasku</title>
+  <rect width="64" height="64" rx="10" fill="#1e3a5f"/>
+  <rect x="7" y="12" width="50" height="40" fill="none" stroke="#ffffff" stroke-width="1.6" opacity="0.5"/>
+  <path d="M32 12 L32 52" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(-4 4)"><circle cx="41" cy="20" r="3.4" fill="#ffffff"/>
+  <path d="M40.5 24.5 L38 35 M39.5 27.5 L32 30 M39.5 27.5 L47 31 M38 35 L33 44 M38 35 L45 43" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <rect x="6.0" y="5" width="13.6" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="12.8" y="14.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" fill="#000000">4</text>
+  <rect x="39.8" y="5" width="20.2" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="49.9" y="14.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.00" font-weight="bold" fill="#000000">IKF</text>
+  <g transform="translate(-36 38)">
+  <g transform="translate(51 13) scale(0.78) translate(-50 -14)">
+  <circle cx="50" cy="14" r="5.2" fill="#f2a23a"/>
+  <g stroke="#f2a23a" stroke-width="2.4" stroke-linecap="round"><line x1="57.50" y1="14.00" x2="61.00" y2="14.00"/><line x1="55.30" y1="19.30" x2="57.78" y2="21.78"/><line x1="50.00" y1="21.50" x2="50.00" y2="25.00"/><line x1="44.70" y1="19.30" x2="42.22" y2="21.78"/><line x1="42.50" y1="14.00" x2="39.00" y2="14.00"/><line x1="44.70" y1="8.70" x2="42.22" y2="6.22"/><line x1="50.00" y1="6.50" x2="50.00" y2="3.00"/><line x1="55.30" y1="8.70" x2="57.78" y2="6.22"/></g>
+  </g>
+  </g>
+</svg>

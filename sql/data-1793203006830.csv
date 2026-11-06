@@ -1,0 +1,16 @@
+"applies_to","code","short","note"
+"COUNTRY","os","OberSchlesien",NULL
+"COUNTRY","fav","ulubione",NULL
+"COUNTRY","eu","Europa",NULL
+"COUNTRY","eu+","Europa+",NULL
+"COUNTRY","sm","małe państwa","członkowie Igrzysk Małych Państw Europy lub Stowarzyszenia Lekkoatletycznego Małych Państw Europy"
+"COUNTRY","sm+","małe państwa+","uczestnicy Mistrzostw Małych Państw Europy (CSE) w LA"
+"DISCIPLINE_EVENT","io","igrzyska olimpijskie",NULL
+"DISCIPLINE_EVENT","ie","Igrzyska Europejskie",NULL
+"DISCIPLINE_EVENT","wg","World Games",NULL
+"DISCIPLINE_EVENT","ia","igrzyska alternatywne",NULL
+"DISCIPLINE_EVENT","idw","Igrzyska Dobrej Woli",NULL
+"DISCIPLINE_EVENT","cla","klasyczne",NULL
+"DISCIPLINE_EVENT","old","dawne",NULL
+"DISCIPLINE_EVENT","new","nowe",NULL
+"DISCIPLINE_EVENT","fav","ulubione",NULL

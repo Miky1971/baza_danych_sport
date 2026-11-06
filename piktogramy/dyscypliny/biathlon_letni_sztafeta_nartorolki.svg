@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
   <title>Biathlon letni – sztafeta na nartorolkach (MŚ od 2006)</title>
   <rect width="64" height="64" rx="10" fill="#1565c0"/>
-  <path d="M8 12 L8 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M8 12 L8 17" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 24 L8 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 24 L8 29" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="8" cy="43" rx="3.6" ry="1.4" fill="none" stroke="#ffffff" stroke-width="1.6"/>
-  <path d="M17 12 L17 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M17 12 L17 17" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 24 L17 47" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 24 L17 29" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="17" cy="43" rx="3.6" ry="1.4" fill="none" stroke="#ffffff" stroke-width="1.6"/>
   <rect x="32" y="27" width="27" height="9" rx="2" fill="#ffffff"/>
   <g fill="#1565c0"><circle cx="36.5" cy="31.5" r="1.8"/><circle cx="41.0" cy="31.5" r="1.8"/><circle cx="45.5" cy="31.5" r="1.8"/><circle cx="50.0" cy="31.5" r="1.8"/><circle cx="54.5" cy="31.5" r="1.8"/></g>
@@ -17,7 +17,12 @@
   <path d="M8 53 L52 53" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="12" cy="56.5" r="2.6" fill="#ffffff"/>
   <circle cx="48" cy="56.5" r="2.6" fill="#ffffff"/>
-  <circle cx="50" cy="14" r="10" fill="#f2a23a"/>
-  <circle cx="50" cy="14" r="3.4" fill="#1565c0"/>
-  <g stroke="#1565c0" stroke-width="1.5" stroke-linecap="round"><line x1="55.20" y1="14.00" x2="57.60" y2="14.00"/><line x1="53.68" y1="17.68" x2="55.37" y2="19.37"/><line x1="50.00" y1="19.20" x2="50.00" y2="21.60"/><line x1="46.32" y1="17.68" x2="44.63" y2="19.37"/><line x1="44.80" y1="14.00" x2="42.40" y2="14.00"/><line x1="46.32" y1="10.32" x2="44.63" y2="8.63"/><line x1="50.00" y1="8.80" x2="50.00" y2="6.40"/><line x1="53.68" y1="10.32" x2="55.37" y2="8.63"/></g>
+  <g transform="translate(-38 0)">
+  <g transform="translate(51 13) scale(0.78) translate(-50 -14)">
+  <circle cx="50" cy="14" r="5.2" fill="#f2a23a"/>
+  <g stroke="#f2a23a" stroke-width="2.4" stroke-linecap="round"><line x1="57.50" y1="14.00" x2="61.00" y2="14.00"/><line x1="55.30" y1="19.30" x2="57.78" y2="21.78"/><line x1="50.00" y1="21.50" x2="50.00" y2="25.00"/><line x1="44.70" y1="19.30" x2="42.22" y2="21.78"/><line x1="42.50" y1="14.00" x2="39.00" y2="14.00"/><line x1="44.70" y1="8.70" x2="42.22" y2="6.22"/><line x1="50.00" y1="6.50" x2="50.00" y2="3.00"/><line x1="55.30" y1="8.70" x2="57.78" y2="6.22"/></g>
+  </g>
+  </g>
+  <rect x="42.0" y="5" width="18.0" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="51.0" y="14.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9.00" font-weight="bold" fill="#000000">sz.</text>
 </svg>

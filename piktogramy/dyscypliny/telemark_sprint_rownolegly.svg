@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Telemark – sprint równoległy (dwóch zawodników obok siebie), MŚ FIS</title>
+  <rect width="64" height="64" rx="10" fill="#2196f3"/>
+  <g transform="translate(32 58) scale(0.82) translate(-32 -58)">
+  <g transform="translate(0 4)">
+  <path d="M5 52 L34 52" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 54.5 L55 54.5 Q59 54.5 60 51" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M33 35 L43 42 L44 52" fill="none" stroke="#ffffff" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M33 35 L26 46 L18 50.5" fill="none" stroke="#ffffff" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M33 35 L35 23" fill="none" stroke="#ffffff" stroke-width="5.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="36" cy="17.5" r="4" fill="#ffffff"/>
+  <path d="M35 26 L46 31 M35 26 L24 30" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  </g>
+  <rect x="34.0" y="5" width="26.0" height="13" rx="3.5" fill="#f2a23a"/>
+  <text x="47.0" y="14.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.50" font-weight="bold" fill="#000000">równ.</text>
+</svg>

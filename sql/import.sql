@@ -7,7 +7,7 @@ BEGIN;
 
 \copy country (id, continent, name, path_flag, part_of, status, note, parent_id, tags, fed_olympic, fed_football, fed_athletic, fed_other, fed_note, ioc_code) FROM 'C:/Users/Marek/Documents/Firmatic/CSharp/baza_danych_sport/import/country.csv' WITH (FORMAT csv, HEADER true, DELIMITER ';', ENCODING 'UTF8')
 \copy tag (applies_to, code, short, note) FROM 'C:/Users/Marek/Documents/Firmatic/CSharp/baza_danych_sport/import/tag.csv' WITH (FORMAT csv, HEADER true, DELIMITER ';', ENCODING 'UTF8')
-\copy discipline (id, name, fed_world, fed_world_old, fed_world_year, fed_europe, fed_europe_old, fed_europe_year, note) FROM 'C:/Users/Marek/Documents/Firmatic/CSharp/baza_danych_sport/import/discipline.csv' WITH (FORMAT csv, HEADER true, DELIMITER ';', ENCODING 'UTF8')
+\copy discipline (id, name, fed_world, fed_world_old, fed_world_year, fed_europe, fed_europe_old, fed_europe_year, fed_poland, fed_poland_old, fed_poland_year, fed_poland_year_into_fed_world, fed_poland_year_into_fed_europe, note) FROM 'C:/Users/Marek/Documents/Firmatic/CSharp/baza_danych_sport/import/discipline.csv' WITH (FORMAT csv, HEADER true, DELIMITER ';', ENCODING 'UTF8')
 \copy discipline_event (id, discipline_id, name, category, season, para, tags, olympic_debut, note) FROM 'C:/Users/Marek/Documents/Firmatic/CSharp/baza_danych_sport/import/discipline_event.csv' WITH (FORMAT csv, HEADER true, DELIMITER ';', ENCODING 'UTF8')
 \i 'C:/Users/Marek/Documents/Firmatic/CSharp/baza_danych_sport/import/pictograms.sql'
 \copy event_series (id, name, short, type, scope, region, athletes, team_format, season) FROM 'C:/Users/Marek/Documents/Firmatic/CSharp/baza_danych_sport/import/event_series.csv' WITH (FORMAT csv, HEADER true, DELIMITER ';', ENCODING 'UTF8')

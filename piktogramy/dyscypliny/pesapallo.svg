@@ -7,5 +7,5 @@
   <g fill="none" stroke="#1e3a5f" stroke-width="1.1" stroke-linecap="round"><path d="M41.8 42.3 Q44.4 47 41.8 51.7"/><path d="M50.2 42.3 Q47.6 47 50.2 51.7"/></g>
   </g>
   <rect x="46.4" y="5" width="13.6" height="13" rx="3.5" fill="#f2a23a"/>
-  <text x="53.2" y="14.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" fill="#1e3a5f">P</text>
+  <text x="53.2" y="14.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" fill="#000000">P</text>
 </svg>
